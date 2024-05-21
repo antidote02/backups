@@ -36,4 +36,6 @@
 ### Android Games
 * `明日方舟` [[ak.hypergryph.com]](https://ak.hypergryph.com/#index)
   * `森空岛` [[skland.com]](https://www.skland.com/)
-  * `MAA` [[github.com]](https://github.com/MaaAssistantArknights/MaaRelease/releases)
+  * `MAA` [[github.com]](https://github.com/MaaAssistantArknights/MaaRelease/releases)  
+`企鹅物流汇报ID`  
+`906404004`

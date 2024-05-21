@@ -97,4 +97,12 @@
 ## 社交
 * `Telegram` [[desktop.telegram.org]](https://desktop.telegram.org/)
 * `KOOK` [[kookapp.cn]](https://www.kookapp.cn/)
+  * `个人设置`
+    * `语音与屏幕分享`  
+`音频子系统` `先进`
+    * `按键设置`  
+`设置全屏截图快捷键` `尚未设置`
+    * `外观`
+    * `高级设置` `开发者模式`
 * `微信` [[pc.weixin.qq.com]](https://pc.weixin.qq.com/)
+  * `微信 多开防撤回免安装` [[mpyit.com]](https://mpyit.com/wechat.html)

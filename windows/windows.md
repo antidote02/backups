@@ -6,6 +6,7 @@
   - [Runtimes](#runtimes)
   - [Browsers](#browsers)
   - [KMS](#kms)
+  - [个性化](#个性化)
   - [Windows 10](#windows-10)
 
 ## Windows
@@ -273,6 +274,10 @@
 ## KMS
 * `WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
 * `HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
+
+[回到顶部](#catalog)
+
+## 美化/个性化
 
 [回到顶部](#catalog)
 ## Windows 10
