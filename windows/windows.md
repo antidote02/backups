@@ -277,7 +277,21 @@
 
 [回到顶部](#catalog)
 
-## 美化/个性化
+## 个性化
+* `设置`  
+`个性化`
+  * `颜色`
+    * `选择模式` `自定义`
+      * `选择你的默认 Windows 颜色` `深色`
+      * `选择默认应用模式` `浅色`
+    * `主题色`  
+`在标题栏和窗口边框上显示颜色` `开`
+  * `主题`  
+`桌面图标设置`  
+`开`
+* `Watt Toolkit` [[github.com]](https://github.com/BeyondDimension/SteamTools/releases)
+  * `Steam` [[store.steampowered.com]](https://store.steampowered.com/about)
+    * `壁纸引擎` [[store.steampowered.com]](https://store.steampowered.com/app/431960/Wallpaper_Engine/)
 
 [回到顶部](#catalog)
 ## Windows 10
