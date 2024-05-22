@@ -222,6 +222,11 @@
       ```
   * `IDM Activation Script` [[github.com]](https://github.com/lstprjct/IDM-Activation-Script)
 * `Google Chrome 开发者版` [[google.cn]](https://www.google.cn/intl/zh-CN/chrome/dev/)
+  * `F12`  
+`Console`
+    ```
+    allow pasting
+    ```
   * `Parallel downloading`
     ```
     chrome://flags/#enable-parallel-downloading
