@@ -6,6 +6,7 @@
   - [Android Games](#android-games)
 ## Boosters
 * `AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
+* `奇游加速器` [[qiyou.cn]](https://www.qiyou.cn/)
 * `小黑盒加速器` [[store.steampowered.com]](https://store.steampowered.com/app/1447430/_/)
 
 [回到顶部](#catalog)
