@@ -1,7 +1,18 @@
 #### Catalog
+- [Boosters](#booster)
+- [Games](#games)
 - [Android](#android)
   - [Apps](#apps)
   - [Android Games](#android-games)
+## Boosters
+* `AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
+* `小黑盒加速器` [[store.steampowered.com]](https://store.steampowered.com/app/1447430/_/)
+
+[回到顶部](#catalog)
+## Games
+* `特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
+
+[回到顶部](#catalog)
 ## Android
 * `MuMu模拟器` [[mumu.163.com]](https://mumu.163.com/)  
 `设置中心`  
@@ -39,3 +50,5 @@
   * `MAA` [[github.com]](https://github.com/MaaAssistantArknights/MaaRelease/releases)  
 `企鹅物流汇报ID`  
 `906404004`
+
+[回到顶部](#catalog)

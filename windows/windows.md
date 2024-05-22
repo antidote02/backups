@@ -5,7 +5,6 @@
   - [Drivers](#drivers)
   - [Runtimes](#runtimes)
   - [Browsers](#browsers)
-  - [KMS](#kms)
   - [个性化](#个性化)
   - [Windows 10](#windows-10)
 
@@ -271,20 +270,16 @@
 `Google Chrome 开发者版`
 
 [回到顶部](#catalog)
-## KMS
+## 个性化
 * `WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
 * `HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
-
-[回到顶部](#catalog)
-
-## 个性化
 * `设置`  
 `个性化`
   * `颜色`
     * `选择模式` `自定义`
       * `选择你的默认 Windows 颜色` `深色`
       * `选择默认应用模式` `浅色`
-    * `主题色`  
+    * `主题色` **<font color=#3b266d>#3b266d</font>**  
 `在标题栏和窗口边框上显示颜色` `开`
   * `主题`  
 `桌面图标设置`  
@@ -292,6 +287,28 @@
 * `Watt Toolkit` [[github.com]](https://github.com/BeyondDimension/SteamTools/releases)
   * `Steam` [[store.steampowered.com]](https://store.steampowered.com/about)
     * `壁纸引擎` [[store.steampowered.com]](https://store.steampowered.com/app/431960/Wallpaper_Engine/)
+      * `属性`
+        * `测试版`  
+`参与测试` `beta`
+      * `启动`
+        * `启动 Wallpaper Engine 64位`
+        * `始终使用此选项` `开`
+      * `设置`
+        * `性能`
+          * `回放`  
+`保持运行`
+          * `帧率：`
+          * `抗锯齿：` `无`
+          * `后处理：` `启用`
+          * `纹理分辨率：` `高质量`
+          * `阴影：` `低`
+          * `体积照明：` `低`
+          * `反射：` `开`
+        * `常规`
+          * `开机启动：` `开`
+          * `防止崩溃：` `关`
+          * `使用季节主题：` `关`
+          * `进程优先级：` `低于正常`
 
 [回到顶部](#catalog)
 ## Windows 10
