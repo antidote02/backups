@@ -5,13 +5,44 @@
   - [Apps](#apps)
   - [Android Games](#android-games)
 ## Boosters
-* `AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
+* `BoosterX` [[boosterx.org]](https://boosterx.org/en/)  
+`优化`
+  * `基本设置`
+    基本设置|调整
+    :-|-
+    鼠标加速|已禁用
+    烦人的安全通知|已禁用
+    启动时自动更新驱动程序|已启用
+    UWP 应用程序后台运行|已禁用
+    自动更新地图|已禁用
+    自动更新商店应用|已启用
+    Windows 透明度|已启用
+    Windows 视觉效果|最佳
+    Game Bar|已禁用
+    多平面叠加|已禁用
+    索引|已启用
+    SysMain|已禁用
+    Windows Defender和SmartScreen|已禁用
+    Windows 防火墙|已禁用
+    Windows 更新|已启用
+    UAC|已禁用
+    加速Edge启动和后台运行|已禁用
+  * `电源设置`  
+`PowerX V2` `导入`
 * `奇游加速器` [[qiyou.cn]](https://www.qiyou.cn/)
+* `迅游加速器` [[xunyou.com]](https://www.xunyou.com/)
 * `小黑盒加速器` [[store.steampowered.com]](https://store.steampowered.com/app/1447430/_/)
+* `AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
+* ~~`游侠加速器` [[jsq.ali213.net]](https://jsq.ali213.net/home)~~
 
 [回到顶部](#catalog)
 ## Games
 * `特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
+  * `WeGame` [[wegame.com.cn]](https://www.wegame.com.cn/home/)
+    * `无畏契约`
+    * `英雄联盟`
+* `Counter-Strike 2` [[store.steampowered.com]](https://store.steampowered.com/app/730/CounterStrike_2/)
+* `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
 
 [回到顶部](#catalog)
 ## Android
