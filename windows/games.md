@@ -29,11 +29,30 @@
     加速Edge启动和后台运行|已禁用
   * `电源设置`  
 `PowerX V2` `导入`
-* `奇游加速器` [[qiyou.cn]](https://www.qiyou.cn/)
-* `迅游加速器` [[xunyou.com]](https://www.xunyou.com/)
-* `小黑盒加速器` [[store.steampowered.com]](https://store.steampowered.com/app/1447430/_/)
-* `AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
-* ~~`游侠加速器` [[jsq.ali213.net]](https://jsq.ali213.net/home)~~
+* `Process Lasso` [[bitsum.com]](https://bitsum.com/changes/processlasso/)
+  * `主菜单`  
+`启用 性能模式` `开`
+  * `选项`  
+`电源` `性能模式`
+    * `触发时更改电源配置` `关`
+    * `启用自动检测` `关`
+  * `更新`
+    * `检查周期` `12时`
+    * `包含测试版` `开`
+  * `当前进程`
+    进程名|规则
+    -|-
+    1|1
+    MuMuVMMHeadless.exe|ihH
+    nvcontainer.exe|B12-15
+* `RAMMap` [[learn.microsoft.com]](https://learn.microsoft.com/zh-cn/sysinternals/downloads/rammap)
+* `WinExplorer` [[nirsoft.net]](https://www.nirsoft.net/utils/winexp.html)
+* `加速器`
+  * `奇游加速器` [[qiyou.cn]](https://www.qiyou.cn/)
+  * `迅游加速器` [[xunyou.com]](https://www.xunyou.com/)
+  * `小黑盒加速器` [[store.steampowered.com]](https://store.steampowered.com/app/1447430/_/)
+  * `AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
+  * ~~`游侠加速器` [[jsq.ali213.net]](https://jsq.ali213.net/home)~~
 
 [回到顶部](#catalog)
 ## Games
