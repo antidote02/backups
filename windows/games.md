@@ -42,8 +42,9 @@
   * `当前进程`
     进程名|规则
     -|-
-    1|1
+    VALORANT-Win64-Shipping.exe|ihH
     MuMuVMMHeadless.exe|ihH
+    vgc.exe|B12-15
     nvcontainer.exe|B12-15
 * `RAMMap` [[learn.microsoft.com]](https://learn.microsoft.com/zh-cn/sysinternals/downloads/rammap)
 * `WinExplorer` [[nirsoft.net]](https://www.nirsoft.net/utils/winexp.html)
