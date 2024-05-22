@@ -1,6 +1,7 @@
 ### Catalog
 - [Program Files](#program-files)
 - [Communications](#communications)
+- [Download Managers](#download-managers)
 - [Multimedia](#multimedia)
 - [Drivers](#drivers)
 ## Program Files
@@ -118,8 +119,26 @@
 `无`
 
 [回到顶部](#catalog)
+## Download Managers
+* `qBittorrent Enhanced Edition` [[github.com]](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+  * `设置`
+    * `连接`  
+`每个 torrent 最大连接数：` `500`
+    * `BitTorrent`  
+`Auto matically update public trackers list:` `开` [[trackerslist.com]](https://trackerslist.com/#/zh)
+    ```
+    https://cf.trackerslist.com/all.txt
+    ```
+
+[回到顶部](#catalog)
 ## Multimedia
 * `HandBrake` [[handbrake.fr]](https://handbrake.fr/)
+* `Adobe` [[w14.monkrus.ws]](https://w14.monkrus.ws/)
+  * `Photoshop` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-photoshop-2024-v259-multilingual.html)
+  * `Audition` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-audition-2024-v244-multilingual.html)
+  * `After Effects` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-after-effects-2024-v244.html)
+  * `Media Encoder` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/04/adobe-media-encoder-2024-v243.html)
+  * `Premiere Pro` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/04/adobe-premiere-pro-2024-v243.html)
 
 [回到顶部](#catalog)
 ## Drivers
