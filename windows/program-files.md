@@ -109,6 +109,12 @@
     * `高级设置` `开发者模式`
 * `微信` [[pc.weixin.qq.com]](https://pc.weixin.qq.com/)
   * `微信 多开防撤回免安装` [[mpyit.com]](https://mpyit.com/wechat.html)
+  * `设置及其他`  
+`设置`
+    * `通用设置`  
+`使用系统默认浏览器打开网页`
+    * `快捷键`  
+`无`
 
 [回到顶部](#catalog)
 ## 网盘

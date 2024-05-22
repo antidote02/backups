@@ -160,6 +160,11 @@
   * `Trident Z 控制台` [[gskill.com]](https://www.gskill.com/cn/download/1502180912/1551690847/Trident-Z-Z5-Ripjaws-M5-RGB-%E7%B3%BB%E5%88%97-%E5%B9%BB%E5%85%89%E6%88%9F-%E7%84%B0%E5%85%89%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E5%B0%8A%E7%88%B5%E7%89%88-%E5%B9%BB%E9%94%8B%E6%88%9F-%E7%84%B0%E9%94%8B%E6%88%9F-%E7%84%B0%E5%88%83)
   * `OpenRGB` [[openrgb.org]](https://openrgb.org/#downloads)
 * `SteelSeries GG` [[cn.steelseries.com]](https://cn.steelseries.com/gg)
+  * `设置`
+    * `选择加入测试版：` `开`
+    * `录制和声音`  
+`游戏录制` `关`
+    * `备用设备切换` `关`
 * `FL Esports` [[flesports.com]](http://www.flesports.com/down/)
 * `一键安装安卓驱动工具` [[pc6.com]](https://www.pc6.com/softview/SoftView_685516.html)
 * `DDU` [[wagnardsoft.com]](https://www.wagnardsoft.com/display-driver-uninstaller-DDU)
