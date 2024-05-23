@@ -12,7 +12,7 @@
     * `启动参数`  
 `在启动时居中` `开`
 * `终端预览`
-  * `显示更多选项`
+  * `显示更多选项`/`Windows 10 中的上下文菜单`
     ```
     reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
     ```
