@@ -20,9 +20,11 @@
     进程名|规则
     -|-
     VALORANT-Win64-Shipping.exe|ihH
-    MuMuVMMHeadless.exe|ihH
-    vgc.exe|B12-15
+    MuMuVMMHeadless.exe|ihH0-11
+    vgtray.exe|B12-15
     nvcontainer.exe|B12-15
+    ui32.exe|B12-15
+    walpaper64.exe|B12-15
 * `RAMMap` [[learn.microsoft.com]](https://learn.microsoft.com/zh-cn/sysinternals/downloads/rammap)
 * `WinExplorer` [[nirsoft.net]](https://www.nirsoft.net/utils/winexp.html)
 * `加速器`
