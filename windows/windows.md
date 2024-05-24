@@ -236,8 +236,9 @@
     * `CrxDL` [[crxdl.com]](https://crxdl.com/)
     * `Adblock Plus` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/cfhdojbkjhnklbpkdaibdccddilifddb)
     * `篡改猴测试版` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4%E6%B5%8B%E8%AF%95%E7%89%88/gcalenpjmijncebpfijmoaglllgpjagf)
-      * `大人的Greasyfork` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/23840-greasyfork-search-with-sleazyfork-results-include)
+      * `大人的 Greasyfork` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/23840-greasyfork-search-with-sleazyfork-results-include)
       * `Bing 中国版重定向` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/451285-bing-%E4%B8%AD%E5%9B%BD%E7%89%88%E9%87%8D%E5%AE%9A%E5%90%91)
+      * `懒人专用系列视频下载` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/469521-%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8%E7%B3%BB%E5%88%97-%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD)
       * `媒体资源嗅探及下载` [[reasyfork.org]](https://greasyfork.org/zh-CN/scripts/470154-%E5%AA%92%E4%BD%93%E8%B5%84%E6%BA%90%E5%97%85%E6%8E%A2%E5%8F%8A%E4%B8%8B%E8%BD%BD-%E6%94%AF%E6%8C%81%E4%B8%8B%E8%BD%BDm3u8%E5%92%8Cmp4%E8%A7%86%E9%A2%91%E5%92%8C%E9%9F%B3%E9%A2%91)
       * `网盘直链下载助手` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/436446-%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
         ```

@@ -133,6 +133,7 @@
 [回到顶部](#catalog)
 ## Multimedia
 * `哔哩哔哩` [[app.bilibili.com]](https://app.bilibili.com/)
+* `res-downloader` [[github.com]](https://github.com/putyy/res-downloader/releases)
 * `OBS Studio` [[store.steampowered.com]](https://store.steampowered.com/app/1905180/OBS_Studio/)
 * `HandBrake` [[handbrake.fr]](https://handbrake.fr/)
 * `Adobe` [[w14.monkrus.ws]](https://w14.monkrus.ws/)
