@@ -170,6 +170,7 @@
   * `扩展`
     * `Voukoder` [[voukoder.org]](https://www.voukoder.org/)
     * `Sapphire` [[cgzy.net]](https://www.cgzy.net/36242.html) $_{2024/5/16}$
+    * `Motion Mosh` [[cgzy.net]](https://www.cgzy.net/38917.html) $_{2024/5/7}$
     * `FilmImpact Premium Video Effects` [[cgzy.net]](https://www.cgzy.net/37748.html) $_{2024/5/4}$
     * `Universe` [[cgzy.net]](https://www.cgzy.net/34114.html) $_{2024/4/30}$
     * `Continuum` [[cgzy.net]](https://www.cgzy.net/36860.html) $_{2024/4/19}$
@@ -200,5 +201,6 @@
 * `阿里云盘` [[alipan.com]](https://www.alipan.com/)
   * `蜗牛云盘` [[snail8.cn]](https://snail8.cn/html/index.html)
 * `夸克网盘` [[pan.quark.cn]](https://pan.quark.cn/list#/list/all)
+* `百度网盘` [[pan.baidu.com]](https://pan.baidu.com/download#win)
 
 [回到顶部](#catalog)
