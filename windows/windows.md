@@ -245,7 +245,6 @@
         APGL3
         ```
     * `ZeroOmega` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/zeroomega-proxy-switchy-m/pfnededegaaopdmhkdmcofjmoldfiped)
-      
     * `IDM Integration Module` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
     * `猫抓` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb)
     * `BewlyBewly` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp)
