@@ -21,6 +21,7 @@
     -|-
     VALORANT-Win64-Shipping.exe|ihH
     MuMuVMMHeadless.exe|ihH
+    AfterFX.exe|ihH
     vgtray.exe|ilB
     nvcontainer.exe|B
     ui32.exe|ilB
