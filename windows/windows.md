@@ -202,6 +202,8 @@
 `游戏录制` `关`
     * `备用设备切换` `关`
 * `FL Esports` [[flesports.com]](http://www.flesports.com/down/)
+* `ATK V HUB` [[desktop.vxe.com]](https://desktop.vxe.com/home)
+* `G HUB` [[logitechg.com]](https://www.logitechg.com/zh-cn/innovation/g-hub.html)
 * `一键安装安卓驱动工具` [[pc6.com]](https://www.pc6.com/softview/SoftView_685516.html)
 * `DDU` [[wagnardsoft.com]](https://www.wagnardsoft.com/display-driver-uninstaller-DDU)
 
