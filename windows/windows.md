@@ -17,6 +17,17 @@
 
 [回到顶部](#catalog)
 ## Updates
+* `JDK Azul Zulu` [[azul.com]](https://www.azul.com/downloads/?os=windows#zulu)
+* `ESurfingDialer` [[github.com]](https://github.com/Rsplwe/ESurfingDialer/releases)
+  * 新建`ESurfingDialer`  
+    `C:\Program Files\ESurfingDialer\ESurfingDialer-1.5.0-all.jar`
+  * 新建`ESurfingDialer-1.5.0-all.bat`
+  * 编辑`ESurfingDialer-1.5.0-all.bat`
+    ```
+    java -jar ESurfingDialer-1.5.0-all.jar -u 请输入账号 -p 请输入密码
+    ```
+  * `创建快捷方式`  
+    `C:\Users\17293\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ESurfingDialer-1.5.0-all`
 * `设置`
   * `账户`  
 `账户信息`  

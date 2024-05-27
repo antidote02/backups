@@ -5,3 +5,4 @@
   - [Program Files](/windows/program-files.md)
   - [Games](/windows/games/games.md)
     - [BoosterX](/windows/games/boosterx.md)
+  - [Chinatelecom_JSPortal]
