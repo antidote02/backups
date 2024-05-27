@@ -19,15 +19,57 @@
 ## Updates
 * `JDK Azul Zulu` [[azul.com]](https://www.azul.com/downloads/?os=windows#zulu)
 * `ESurfingDialer` [[github.com]](https://github.com/Rsplwe/ESurfingDialer/releases)
-  * 新建`ESurfingDialer`  
+  * 新建文件夹`ESurfingDialer`  
     `C:\Program Files\ESurfingDialer\ESurfingDialer-1.5.0-all.jar`
-  * 新建`ESurfingDialer-1.5.0-all.bat`
-  * 编辑`ESurfingDialer-1.5.0-all.bat`
+  * 新建`ESurfingDialer.bat`
+  * 编辑`ESurfingDialer.bat`
     ```
     java -jar ESurfingDialer-1.5.0-all.jar -u 请输入账号 -p 请输入密码
     ```
   * `创建快捷方式`  
-    `C:\Users\17293\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ESurfingDialer-1.5.0-all`
+    `C:\Users\17293\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ESurfingDialer`
+  * `控制面板`
+    * `Windows 工具`  
+`计算机管理`  
+`任务计划程序`  
+`创建任务`
+      * `常规`
+        * `名称：`
+        * `不管用户是否登录都要运行`  
+`不存储密码` `关`
+        * `使用最高权限运行` `开`
+        * `配置：` `Windows 10`
+      * `触发器`  
+`新建`
+        * `开始任务：` `发生事件时`
+        * `自定义：` `新建事件筛选器`  
+`XML`  
+`手动编辑查询` `开`
+          ```
+          <QueryList>
+            <Query Id="0" Path="Application">
+              <Select Path="Application">*[System[Provider[@Name='RasClient'] and (Level=4 or Level=0)]]</Select>
+            </Query>
+          </QueryList>
+          ```
+      * `操作`  
+`新建`  
+`程序或脚本：`"C:\Program Files\ESurfingDialer\ESurfingDialer.bat"
+    * `Windows Defender 防火墙`  
+`高级设置`/`高级安全 Windows Defender 防火墙`  
+`Windows Defender 防火墙属性`
+      * `域配置文件`  
+`防火墙状态：` `关闭`
+      * `专用配置文件`  
+`防火墙状态：` `关闭`
+      * `公用配置文件`  
+`防火墙状态：` `关闭`
+    * `鼠标`  
+`指针选项`  
+`提高指针精确度` `关`
+    * `用户账户`  
+`更改用户账户控制设置`  
+`从不通知`
 * `设置`
   * `账户`  
 `账户信息`  
@@ -107,22 +149,6 @@
       * `更多设置`  
 `显示搜索要点`  
 `关`
-* `控制面板`
-  * `Windows Defender 防火墙`  
-`高级设置`/`高级安全 Windows Defender 防火墙`  
-`Windows Defender 防火墙属性`
-    * `域配置文件`  
-`防火墙状态：` `关闭`
-    * `专用配置文件`  
-`防火墙状态：` `关闭`
-    * `公用配置文件`  
-`防火墙状态：` `关闭`
-  * `鼠标`  
-`指针选项`  
-`提高指针精确度` `关`
-  * `用户账户`  
-`更改用户账户控制设置`  
-`从不通知`
 
 [回到顶部](#catalog)
 
