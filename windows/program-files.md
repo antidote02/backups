@@ -6,7 +6,6 @@
 - [Drivers](#drivers)
 - [Remote](#remote)
 ## Program Files
-* `Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/)
 * `Geek` [[geekuninstaller.com]](https://geekuninstaller.com/)
   * `Microsoft OneDrive`  
 `卸载`

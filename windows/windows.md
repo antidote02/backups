@@ -177,7 +177,6 @@
         各向异性过滤|应用程序控制的
         垂直同步|关
         平滑处理 - 模式|应用程序控制的
-        平滑处理 - 模式|应用程序控制的
         纹理过滤 - 各向异性采样优化|开
         纹理过滤 - 质量|高性能
         线程优化|自动
@@ -330,6 +329,7 @@
 
 [回到顶部](#catalog)
 ## 个性化
+* `Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/)
 * `WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
 * `HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
 * `设置`  
