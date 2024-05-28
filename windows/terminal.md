@@ -74,3 +74,7 @@
     ```
     scoop install -k ffmpeg
     ```
+  * `Python`
+    ```
+    scoop install -k python-alpha
+    ```
