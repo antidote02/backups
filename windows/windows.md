@@ -26,7 +26,7 @@
     ```
     java -jar ESurfingDialer-1.5.0-all.jar -u 请输入账号 -p 请输入密码
     ```
-  * `创建快捷方式`  
+  * 创建快捷方式`ESurfingDialer`  
     `C:\Users\17293\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ESurfingDialer`
   * `控制面板`
     * `Windows 工具`  
