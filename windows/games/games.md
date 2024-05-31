@@ -55,8 +55,10 @@
 `只读`
   * `WeGame` [[wegame.com.cn]](https://www.wegame.com.cn/home/)
     * `无畏契约`
+      * 发送到桌面快捷方式`aclos-launcher.exe`
     * `英雄联盟`
 * `Counter-Strike 2` [[store.steampowered.com]](https://store.steampowered.com/app/730/CounterStrike_2/)
+  * `完美世界竞技平台` [[pvp.wanmei.com]](https://pvp.wanmei.com/)
 * `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
 
 [回到顶部](#catalog)
