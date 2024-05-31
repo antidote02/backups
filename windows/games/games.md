@@ -37,65 +37,35 @@
 
 [回到顶部](#catalog)
 ## Games
-* `特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
-  * 编辑`GameUserSettings.ini`
-    ```
-    sg.ViewDistanceQuality=0
-    sg.AntiAliasingQuality=0
-    sg.ShadowQuality=0
-    sg.PostProcessQuality=0
-    sg.TextureQuality=0
-    sg.EffectsQuality=0
-    sg.FoliageQuality=0
-    sg.ShadingQuality=0
-    ```
-    `C:\Users\17293\AppData\Local\VALORANT\Saved\Config\02b7512c-d600-541e-b95b-93f1ed746685-ap\Windows\GameUserSettings.ini`
-    * `GameUserSettings.ini`  
-`属性`  
-`只读`
-  * `WeGame` [[wegame.com.cn]](https://www.wegame.com.cn/home/)
-    * `无畏契约`
-      * 发送到桌面快捷方式`aclos-launcher.exe`
-    * `英雄联盟`
-* `Counter-Strike 2` [[store.steampowered.com]](https://store.steampowered.com/app/730/CounterStrike_2/)
-  * `完美世界竞技平台` [[pvp.wanmei.com]](https://pvp.wanmei.com/)
-  * `CFG`
-    * [wdv3.cfg](/windows/games/cs-2/wdv3.cfg) [[bilibili.com]](https://www.bilibili.com/video/BV18H4y137QZ/?vd_source=85eeb932842b5b15ade257caaa4a9ba8)
-    * [nb.cfg](/windows/games/cs-2/nb.cfg) [[bilibili.com]](https://www.bilibili.com/video/BV1vt421K77g/?vd_source=85eeb932842b5b15ade257caaa4a9ba8)
+* `FPS`
+  * [Valorant](/windows/games/valorant.md)
+  * [CS 2](/windows/games/cs-2/cs-2.md)
+  * `Aimlabs` [[store.steampowered.com]](https://store.steampowered.com/app/714010/Aimlabs/)
+* `Mod`
+  * `WeMod` [[wemod.com]](https://www.wemod.com/zh)
+  * `植物大战僵尸杂交版` [[space.bilibili.com]](https://space.bilibili.com/97213827)
+* `Ghost of Tsushima 导演剪辑版` [[store.steampowered.com]](https://store.steampowered.com/app/2215430/Ghost_of_Tsushima/)
+* `地平线西之绝境完整版` [[store.steampowered.com]](https://store.steampowered.com/app/2420110/_/)
+* `霍格沃茨之遗` [[https://store.steampowered.com/app/990080/_/]](https://store.steampowered.com/app/990080/_/)
+* `刺客信条英灵殿` [[store.steampowered.com]](https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/)
+* `艾尔登法环` [[store.steampowered.com]](https://store.steampowered.com/app/1245620/_/)
+* `消逝的光芒2重装上阵版` [[store.steampowered.com]](https://store.steampowered.com/app/534380/2/)
+* `战地风云2042` [[store.steampowered.com]](https://store.steampowered.com/app/1517290/_2042/)
+* `光明记忆无限` [[store.steampowered.com]](https://store.steampowered.com/app/1178830/_/)
+* `极限竞速地平线5` [[store.steampowered.com]](https://store.steampowered.com/app/1551360/_5/)
+* `双人成行` [[store.steampowered.com]](https://store.steampowered.com/app/1426210/_/)
+* `赛博朋克2077` [[store.steampowered.com]](https://store.steampowered.com/app/1091500/_2077/)
+* `无主之地3` [[store.steampowered.com]](https://store.steampowered.com/app/397540/3/)
+* `只狼影逝二度` [[store.steampowered.com]](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
+* `古墓丽影暗影` [[store.steampowered.com]](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/)
 * `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
 
 [回到顶部](#catalog)
 ## Android
-* `MuMu模拟器` [[mumu.163.com]](https://mumu.163.com/)  
-`设置中心`  
-  * `显卡渲染模式` `Vulkan 模式`  
-  * `性能配置` `高性能`  
-  * `现存使用策略` `画面表现更好`
-  * `分辨率设置` `手机版`  
-  `1080 x 1920`
-  * `帧率设置`
-    * `最高帧率限制`  
-`240`
-    * `显示帧率` `开`
-    * `垂直同步` `开`
-  * `老板键` `创建快捷键`
-  * `手机型号` `自定义型号`
-    * `手机品牌`
-      ```
-      iPad
-      ```
-    * `手机型号`
-      ```
-      iPad
-      ```
-    * `入网型号`
-      ```
-      0
-      ```
-  * `手机号码`
-  * `鼠标指针` `使用模拟器定制鼠标` `关`
+* [MuMu模拟器](/windows/games/mumu/mumu.md)
 ### Apps
-
+* `AppShare` [[appshare.muge.info]](https://appshare.muge.info/)
+  * `小米社区` [[app.sharess.cn]](https://app.sharess.cn/page/app/detail?id=4NinYjva2iboQbuoehzxOw)
 ### Android Games
 * `明日方舟` [[ak.hypergryph.com]](https://ak.hypergryph.com/#index)
   * `森空岛` [[skland.com]](https://www.skland.com/)
