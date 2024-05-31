@@ -135,6 +135,7 @@
 ## Multimedia
 * `哔哩哔哩` [[app.bilibili.com]](https://app.bilibili.com/)
 * `网易云音乐` [[music.163.com]](https://music.163.com/#/download)
+* `M3u8Downloader` [[github.com]](https://github.com/Harlan-H/M3u8Downloader_H/releases)
 * `res-downloader` [[github.com]](https://github.com/putyy/res-downloader/releases)
 * `OBS Studio` [[store.steampowered.com]](https://store.steampowered.com/app/1905180/OBS_Studio/)
 * `HandBrake` [[handbrake.fr]](https://handbrake.fr/)
