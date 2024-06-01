@@ -21,9 +21,12 @@
     -|-|-|-
     VALORANT-Win64-Shipping.exe|H|P核
     vgtray.exe|B|E核
+    sguard64.exe|B|E核
+    sguardsvc64.exe|B|E核
     MuMuVMMHeadless.exe|H|P核
-    AfterFX.exe|H|P核
-    Adobe Premiere Pro.exe|H|P核
+    AfterFX.exe|H
+    Adobe Premiere Pro.exe|H
+    Adobe Media Encoder.exe|H
     nvcontainer.exe|B
     ui32.exe|B
     wallpaper64.exe|B
