@@ -17,15 +17,17 @@
     * `检查周期` `12时`
     * `包含测试版` `开`
   * `当前进程`
-    进程名|规则
-    -|-
-    VALORANT-Win64-Shipping.exe|ihH
-    MuMuVMMHeadless.exe|ihH
-    AfterFX.exe|ihH
-    vgtray.exe|ilB
+    进程名|规则|亲和性|主板
+    -|-|-|-
+    VALORANT-Win64-Shipping.exe|H|P核
+    vgtray.exe|B|E核
+    MuMuVMMHeadless.exe|H|P核
+    AfterFX.exe|H|P核
+    Adobe Premiere Pro.exe|H|P核
     nvcontainer.exe|B
-    ui32.exe|ilB
-    wallpaper64.exe|ilB
+    ui32.exe|B
+    wallpaper64.exe|B
+    LightingService.exe|B|E核|华硕
 * `RAMMap` [[learn.microsoft.com]](https://learn.microsoft.com/zh-cn/sysinternals/downloads/rammap)
 * `WinExplorer` [[nirsoft.net]](https://www.nirsoft.net/utils/winexp.html)
 * `加速器`
