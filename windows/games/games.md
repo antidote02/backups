@@ -33,7 +33,7 @@
   * `迅游加速器` [[xunyou.com]](https://www.xunyou.com/)
   * `小黑盒加速器` [[store.steampowered.com]](https://store.steampowered.com/app/1447430/_/)
   * `AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
-  * ~~`游侠加速器` [[jsq.ali213.net]](https://jsq.ali213.net/home)~~
+  * `游侠加速器` [[jsq.ali213.net]](https://jsq.ali213.net/home)
 
 [回到顶部](#catalog)
 ## Games
@@ -59,12 +59,16 @@
 * `只狼影逝二度` [[store.steampowered.com]](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
 * `古墓丽影暗影` [[store.steampowered.com]](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/)
 * `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
+* Other
+  * `Banana` [[store.steampowered.com]](https://store.steampowered.com/app/2923300/Banana/)
+    * `鼠大侠` [[shudaxia.com]](https://www.shudaxia.com/)
 
 [回到顶部](#catalog)
 ## Android
 * [MuMu模拟器](/windows/games/mumu/mumu.md)
 ### Apps
 * `AppShare` [[appshare.muge.info]](https://appshare.muge.info/)
+  * `TapTap Beta`
   * `小米社区` [[app.sharess.cn]](https://app.sharess.cn/page/app/detail?id=4NinYjva2iboQbuoehzxOw)
 ### Android Games
 * `明日方舟` [[ak.hypergryph.com]](https://ak.hypergryph.com/#index)
