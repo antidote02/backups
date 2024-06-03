@@ -18,5 +18,5 @@
   -|-|-|-|:-:
   魔戒|[t.me](https://t.me/Lord_Rings)|[mojie.co](https://mojie.co/register?aff=dLJZVRjS)|0.07 ~ 0.12|-
   八戒|[t.me](https://t.me/bajiebest)|[bajie.xyz](https://bajie.xyz/register?aff=mb9BWzxH)|0.03 ~ 0.29|-
-  一元|[t.me](https://t.me/yyjc_channel)|[xn--4gq62f52gdss.ink](https://xn--4gq62f52gdss.ink/#/register?code=y2jXYwMb)|0.01 ~ 0.016|月/季/年
+  一元|[t.me](https://t.me/yyjc_channel)|[xn--4gq62f52gdss.ink](https://xn--4gq62f52gdss.ink/#/register?code=y2jXYwMb)|0.01 ~ 0.016|月/季/年/2年
   iKuuu|-|[ikuuu.pw](https://ikuuu.pw/auth/register?code=AqDG)|-|-
