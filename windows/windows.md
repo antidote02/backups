@@ -228,21 +228,7 @@
 [回到顶部](#catalog)
 ## Browsers
 * `Remove-Edge_GUI` [[github.com]](https://github.com/ShadowWhisperer/Remove-MS-Edge)
-* `Clash Verge` [[github.com]](https://github.com/clash-verge-rev/clash-verge-rev/releases)
-  * `订阅`  
-`导入`
-  * `设置`
-    * `服务模式`  
-`安装`
-    * `开机自启`
-    * `静默启动`
-    * `Clash 内核`  
-`Clash Meta`  
-`升级内核`
-    * `更新 GeoData`
-  * `代理`  
-    * `延迟测试`
-    * `按延迟排序`
+* [Clash Verge](/windows/clash-verge.md)
 * `Internet Download Manager` [[internetdownloadmanager.com]](https://www.internetdownloadmanager.com/download.html)
   * `选项`
     * `保存至`  
