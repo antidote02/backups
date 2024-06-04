@@ -33,4 +33,9 @@
         ```
         .\payload-dumper-go.exe -p init_boot -o .\img .\payload.bin
         ```
+      * `img`
+        ```
+        explorer .\img
+        ```
+        `C:\Users\17293\Downloads\payload-dumper-go_1.2.2_windows_amd64\img`
 * `搞机工具箱` [[jamcz.com]](https://jamcz.com/gjgjx/)
