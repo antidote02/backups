@@ -62,7 +62,7 @@
 
     scoop cache rm *
     ```
-  * `Curl`
+  * `cURL`
     ```
     scoop install -k curl
 
