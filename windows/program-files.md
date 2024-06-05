@@ -149,6 +149,7 @@
 * `Edit`
   * `HandBrake` [[handbrake.fr]](https://handbrake.fr/)
   * [Adobe](/windows/program-files/adobe.md)
+  * [视频码率计算器](/windows/program-files/码率计算器.html) [[bilibili.com]](https://www.bilibili.com/video/BV1Np4y197nb/?vd_source=85eeb932842b5b15ade257caaa4a9ba8)
 
 [回到顶部](#catalog)
 ## Drivers
