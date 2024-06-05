@@ -70,11 +70,8 @@
 
     curl 4.ipw.cn
     ```
-  * `FFmpeg`
-    ```
-    scoop install -k ffmpeg
-    ```
-  * `Python`
+  * [FFmpeg](/terminal/ffmpeg.md)
+  * `Python-alpha`
     ```
     scoop install -k python-alpha
     ```
