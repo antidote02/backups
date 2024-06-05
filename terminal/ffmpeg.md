@@ -18,3 +18,4 @@
   ffmpeg -i 'input.mp4' -vf thumbnail -vframes 1 'output.png'
   # output.mp4
   ffmpeg -i 'input.mp4' -i 'input.png' -map 0 -map 1 -c copy -disposition:v:1 attached_pic 'output.mp4'
+  ```
