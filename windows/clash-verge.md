@@ -7,7 +7,7 @@
     * `开机自启`
     * `静默启动`
     * `Clash 内核`  
-`Clash Meta`  
+`Clash Meta Alpha`  
 `升级内核`
     * `更新 GeoData`
   * `代理`  

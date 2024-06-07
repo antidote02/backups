@@ -17,7 +17,7 @@
 
 [回到顶部](#catalog)
 ## Updates
-* `JDK Azul Zulu` [[azul.com]](https://www.azul.com/downloads/?os=windows#zulu)
+* `JDK Azul Zulu` [[azul.com]](https://www.azul.com/downloads/?os=windows&architecture=x86-64-bit&package=jdk#zulu)
 * `ESurfingDialer` [[github.com]](https://github.com/Rsplwe/ESurfingDialer/releases)
   * 新建文件夹`ESurfingDialer`  
     `C:\Program Files\ESurfingDialer\ESurfingDialer-1.5.0-all.jar`
@@ -44,7 +44,6 @@
     * `用户账户`  
 `更改用户账户控制设置`  
 `从不通知`
-  * [FTP](/windows/ftp/ftp.md)
 * `设置`
   * `账户`  
 `账户信息`  
@@ -62,6 +61,7 @@
 `允许从其他电脑下载` `关`
     * `检查更新`
     * `Microsoft Update Catalog` [[catalog.update.microsoft.com]](https://www.catalog.update.microsoft.com/home.aspx)
+* [Clash Verge](/windows/clash-verge.md)
 * `Microsoft Store`  
 `库`  
 `检查更新`
@@ -97,6 +97,10 @@
 `高级系统设置`/`系统属性`  
 `性能` `设置`  
 `调整为最佳外观`
+  * `网络和 Internet`  
+`高级网络设置`  
+`高级共享设置`  
+`开`
   * `游戏`
     * `Game Bar`  
 `允许控制器打开 Game Bar` `关`
@@ -124,6 +128,40 @@
       * `更多设置`  
 `显示搜索要点`  
 `关`
+* `文件资源管理器`  
+`C:`  
+`属性`  
+  * `共享`  
+`高级共享`  
+`共享此文件夹` `开`  
+`权限`
+    Everyone 的权限|允许|拒绝
+    -|:-:|-
+    完全控制|√
+  * `安全`  
+`编辑`  
+`添加`
+    ```
+    Everyone
+    ```
+  * `地址`
+    ```
+    \\Desktop-1np4dce\c
+    ```
+    `输入网络凭据`
+    * `用户名`  
+`运行`
+      ```
+      control userpasswords2
+      ```
+      用户名|组
+      -|-
+      1729304580@qq.com|Administrastor
+    * `密码`
+      * `设置`  
+`账户`  
+`登录选项`  
+`PIN`
 
 [回到顶部](#catalog)
 
@@ -202,7 +240,6 @@
 [回到顶部](#catalog)
 ## Browsers
 * `Remove-Edge_GUI` [[github.com]](https://github.com/ShadowWhisperer/Remove-MS-Edge)
-* [Clash Verge](/windows/clash-verge.md)
 * `Internet Download Manager` [[internetdownloadmanager.com]](https://www.internetdownloadmanager.com/download.html)
   * `选项`
     * `保存至`  

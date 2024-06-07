@@ -5,6 +5,7 @@
 - [Multimedia](#multimedia)
 - [Drivers](#drivers)
 - [Remote](#remote)
+- [Shell]()
 ## Program Files
 * `联想应用商店` [[lestore.lenovo.com]](https://lestore.lenovo.com/)
 * `Geek` [[geekuninstaller.com]](https://geekuninstaller.com/)
@@ -160,4 +161,8 @@
 
 [回到顶部](#catalog)
 ## Remote
-  * `ToDesk` [[todesk.com]](https://www.todesk.com/)
+* `ToDesk` [[todesk.com]](https://www.todesk.com/)
+
+[回到顶部](#catalog)
+## Shell
+* `Xftp` [[xshell.com]](https://www.xshell.com/zh/version-8-open-beta/)

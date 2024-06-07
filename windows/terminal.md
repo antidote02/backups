@@ -18,7 +18,7 @@
     ```
   * `执行策略`
     ```
-    Set-ExecutionPolicy -ExecutionPolicy ByPass -Scope CurrentUser
+    set-executionpolicy -executionpolicy bypass -scope currentuser
 
     get-executionpolicy -list
     ```
