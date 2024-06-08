@@ -166,6 +166,7 @@
 [回到顶部](#catalog)
 
 ## Drivers
+* `Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/)
 * `NVIDIA 驱动程序` [[nvidia.cn]](https://www.nvidia.cn/Download/index.aspx?lang=cn)
   * `NVIDIA` [[nvidia.cn]](https://www.nvidia.cn/software/nvidia-app/)
     * `图形`  
@@ -272,6 +273,7 @@
     * `录制和声音`  
 `游戏录制` `关`
     * `备用设备切换` `关`
+* `MelGeek Hive` [[melgeek.cn]](https://www.melgeek.cn/download)
 * `FL Esports` [[flesports.com]](http://www.flesports.com/down/)
 * `ATK V HUB` [[desktop.vxe.com]](https://desktop.vxe.com/home)
 * `G HUB` [[logitechg.com]](https://www.logitechg.com/zh-cn/innovation/g-hub.html)
@@ -387,7 +389,6 @@
 
 [回到顶部](#catalog)
 ## 个性化
-* `Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/)
 * `WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
 * `HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
 * `设置`  
