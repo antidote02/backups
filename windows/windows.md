@@ -83,16 +83,16 @@
 `开`
       * `窗口化游戏优化`  
 `关`
+    * `通知`
+      * `请勿打扰` `关`
+      * `自动启用“请勿打扰”`  
+`关`
     * `电源`  
       * `屏幕和睡眠`  
 `插入电源时，闲置以下时间后关闭屏幕：` `从不`
       * `电源模式` `最佳性能`
     * `远程桌面` `开`  
 `要求设备使用网络级别身份验证连接` `关`
-    * `通知`
-      * `请勿打扰` `关`
-      * `自动启用“请勿打扰”`  
-`关`
     * `系统信息`  
 `高级系统设置`/`系统属性`  
 `性能` `设置`  
@@ -202,6 +202,10 @@
 `全屏`  
 `覆盖由游戏和程序设置的缩放模式`
   * `Nvidia Broadcast` [[nvidia.cn]](https://www.nvidia.cn/geforce/broadcasting/broadcast-app/)
+* `AMD Software` [[amd.com]](https://www.amd.com/zh-cn/support/download/drivers.html)
+  * `显卡`
+    * `Radeon RX 6750 GRE 10GB` [[amd.com]](https://www.amd.com/zh-cn/support/downloads/drivers.html/graphics/radeon-rx/radeon-rx-6000-series/amd-radeon-rx-6750-gre-10gb.html)
+  * `
 * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
 * `Driver Booster` [[mpyit.com]](https://mpyit.com/driverbooster11.html)
 * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
