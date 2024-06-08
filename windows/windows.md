@@ -205,7 +205,60 @@
 * `AMD Software` [[amd.com]](https://www.amd.com/zh-cn/support/download/drivers.html)
   * `显卡`
     * `Radeon RX 6750 GRE 10GB` [[amd.com]](https://www.amd.com/zh-cn/support/downloads/drivers.html/graphics/radeon-rx/radeon-rx-6000-series/amd-radeon-rx-6750-gre-10gb.html)
-  * `
+  * `AMD Software: Adrenalin Edition`
+    * `游戏`  
+      * `显卡`
+        * `全局游戏体验`  
+`默认`
+          显示卡选项|选项
+          -|-
+          Radeon Super Resolution|已禁用
+          AMD Fluid Motion Frames|已禁用
+          Radeon Anti-Lag|已启用
+          Radeon Booster|已禁用
+          Radeon Chill|已禁用
+          Radeon Image Sharpening|已禁用
+          等待垂直刷新|始终关闭
+          帧数目标控制|已禁用
+          抗锯齿|使用应用程序设置
+          抗锯齿方法|多重采样
+          形态抗锯齿|已禁用
+          各向异性过滤|已禁用
+          纹理过滤质量|性能
+          表面格式优化|已启用
+          镶嵌模式|使用应用程序设置
+          OpenGL 三重缓冲|已禁用
+          10 位像素格式|已禁用
+      * `显示器`
+        * `显示选项`
+          显示选项|选项
+          -|-
+          Adaptive Sync Compatible|已禁用
+          Virtual Super Resolution|已禁用
+          GPU 缩放|已禁用
+          缩放模式|整个面板
+        * `自定义分辨率`
+    * `录制和直播`
+      * `录制`
+        控制|选项
+        -|-
+        全屏幕
+        麦克风|关
+        麦克风音量|100%
+        按键说话|关
+      * `设置`
+        录制|选项
+        -|-
+        显示指示器|已启用
+        录制桌面|已启用
+        无边框区域拍摄|已禁用
+        录制分辨率|游戏内
+        录制 FPS|120 fps
+        视频码率|20
+        音频码率|320
+        声道|立体
+    * `设置`  
+`首选的软件版本` `推荐 + 可选`
 * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
 * `Driver Booster` [[mpyit.com]](https://mpyit.com/driverbooster11.html)
 * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
