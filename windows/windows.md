@@ -414,6 +414,7 @@
     * `搜索` `隐藏`
     * `任务视图` `关`
     * `小组件`
+* 
 * `Watt Toolkit` [[github.com]](https://github.com/BeyondDimension/SteamTools/releases)
   * `Steam` [[store.steampowered.com]](https://store.steampowered.com/about)
     * `壁纸引擎` [[store.steampowered.com]](https://store.steampowered.com/app/431960/Wallpaper_Engine/)
@@ -439,20 +440,6 @@
           * `防止崩溃：` `关`
           * `使用季节主题：` `关`
           * `进程优先级：` `低于正常`
-* `TrafficMonitor` [[github.com]](https://github.com/zhongyang219/TrafficMonitor)
-  * `显示任务栏窗口` `开`
-  * `显示主窗口` `关`
-  * `选项`
-    * `字体:` `黑体`
-    * `字体大小：` `9`
-    * `网速显示简洁模式` `开`
-    * `数值右对齐` `开`
-    * `网速数据宽度：` `3`
-    * `项目间距：` `4`
-    * `单位选择：`  
-`固定为 MB/s`
-    * `不显示网速单位` `开`
-    * `不显示百分号` `开`
 
 [回到顶部](#catalog)
 ## Windows 10

@@ -66,6 +66,10 @@
 * `只狼影逝二度` [[store.steampowered.com]](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
 * `古墓丽影暗影` [[store.steampowered.com]](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/)
 * `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
+* Fake
+  * `漫威蜘蛛侠2` [[flysheep6.com]](https://www.flysheep6.com/archives/37674) / [[jmdyh.com]](https://www.jmdyh.com/jx/mzajpb)
+  * Installation
+    * `DODI` [[jmdyh.com]](https://www.jmdyh.com/jx/q1pcia)
 * Other
   * `Banana` [[store.steampowered.com]](https://store.steampowered.com/app/2923300/Banana/)
     * `鼠大侠` [[shudaxia.com]](https://www.shudaxia.com/)
