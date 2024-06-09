@@ -1,33 +1,11 @@
 * `Adobe` [[w14.monkrus.ws]](https://w14.monkrus.ws/)
-  * `Photoshop` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-photoshop-2024-v259-multilingual.html)
-  * `Audition` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-audition-2024-v244-multilingual.html)
-  * `After Effects` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-after-effects-2024-v244.html)
-    * `文件`  
-`项目设置`
-      * `使用范围`  
-`Mercury CPU 加速`
-      * `颜色`  
-`位深度` `每通道8位`
-    * `编辑`  
-`首选项`
-      * `预览`
-        * `Adaptive Resolution Limit` `1/16`
-        * `显示内部线框` `开`
-        * `缩放质量：` `更准确`
-        * `色彩管理品质：` `更准确`
-      * `显示`  
-`硬件加速合成、图层和素材面板` `开`
-      * `媒体和磁盘缓存`
-        * `启用磁盘缓存` `开`
-        * `最大磁盘缓存大小` `100GB`
-      * `内存与性能`
-        * `为其他应用程序保留的 RAM` `4`
-        * `启用多帧渲染` `开`  
-`为其他应用程序保留 CPU：` `10%`
-      * `脚本和表达式`  
-`允许脚本写入文件并访问网络` `开`
-  * `Media Encoder` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/04/adobe-media-encoder-2024-v243.html)
   * `Premiere Pro` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/04/adobe-premiere-pro-2024-v243.html)
+  * [After Effects](/windows/program-files/adobe/afterfx.md)
+  * `Audition` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-audition-2024-v244-multilingual.html)
+  * `Media Encoder` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/04/adobe-media-encoder-2024-v243.html)
+    * `预设`
+      * `Jable` [EPR](/windows/program-files/adobe/J%20900.epr)
+  * `Photoshop` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-photoshop-2024-v259-multilingual.html)
   * `扩展`
     * `Voukoder` [[voukoder.org]](https://www.voukoder.org/)
     * `Sapphire` [[cgzy.net]](https://www.cgzy.net/36242.html) $_{2024/5/16}$
