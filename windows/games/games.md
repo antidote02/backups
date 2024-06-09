@@ -67,7 +67,7 @@
 * `古墓丽影：暗影` [[store.steampowered.com]](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/)
 * `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
 * Fake
-  * `漫威蜘蛛侠2` [[flysheep6.com]](https://www.flysheep6.com/archives/37674) / [[jmdyh.com]](https://www.jmdyh.com/jx/mzajpb)
+  * `漫威蜘蛛侠2` [[ame-repack.site]](https://game-repack.site/2024/06/06/marvels-spider-man-2/) / [[flysheep6.com]](https://www.flysheep6.com/archives/37674) / [[jmdyh.com]](https://www.jmdyh.com/jx/mzajpb)
     * `漫威蜘蛛侠：迈尔斯·莫拉莱斯` [[gamer520.com]](https://www.gamer520.com/45936.html)
   * Downloader
     * `飞猫盘` [[feimaoyun.com]](https://www.feimaoyun.com/app)
