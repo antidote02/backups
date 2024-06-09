@@ -46,8 +46,7 @@
 `从不通知`
 * `设置`
   * `账户`  
-`账户信息`  
-`账户设置`
+`你的信息`
   * `Windows更新`
     * `在最新更新可用后立即获取`
     * `高级选项`
@@ -261,6 +260,7 @@
     * `设置`  
 `首选的软件版本` `推荐 + 可选`
 * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
+* `AMD Ryzen Master` [[amd.com]](https://www.amd.com/zh-cn/products/software/ryzen-master.html)
 * `Driver Booster` [[mpyit.com]](https://mpyit.com/driverbooster11.html)
 * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
 * RGB
@@ -338,7 +338,7 @@
       * `媒体资源嗅探及下载` [[reasyfork.org]](https://greasyfork.org/zh-CN/scripts/470154-%E5%AA%92%E4%BD%93%E8%B5%84%E6%BA%90%E5%97%85%E6%8E%A2%E5%8F%8A%E4%B8%8B%E8%BD%BD-%E6%94%AF%E6%8C%81%E4%B8%8B%E8%BD%BDm3u8%E5%92%8Cmp4%E8%A7%86%E9%A2%91%E5%92%8C%E9%9F%B3%E9%A2%91)
       * `网盘直链下载助手` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/436446-%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
         ```
-        APGL3
+        AGPL3
         ```
     * `ZeroOmega` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/zeroomega-proxy-switchy-m/pfnededegaaopdmhkdmcofjmoldfiped)
     * `IDM Integration Module` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
