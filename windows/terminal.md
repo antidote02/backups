@@ -62,6 +62,8 @@
 
     scoop cache rm *
     ```
+  * [AList](/terminal/alist.md)
+  * [FFmpeg](/terminal/ffmpeg.md)
   * `cURL`
     ```
     scoop install -k curl
@@ -70,7 +72,6 @@
 
     curl 4.ipw.cn
     ```
-  * [FFmpeg](/terminal/ffmpeg.md)
   * `Python-alpha`
     ```
     scoop install -k python-alpha
