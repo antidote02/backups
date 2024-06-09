@@ -47,6 +47,7 @@
   * [Valorant](/windows/games/valorant.md)
   * [CS 2](/windows/games/cs-2/cs-2.md)
   * `Aimlabs` [[store.steampowered.com]](https://store.steampowered.com/app/714010/Aimlabs/)
+* `英雄联盟`
 * `Mod`
   * `WeMod` [[wemod.com]](https://www.wemod.com/zh)
   * [植物大战僵尸杂交版](/windows/games/pvzhe.md)
