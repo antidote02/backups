@@ -66,9 +66,15 @@
 * `只狼：影逝二度` [[store.steampowered.com]](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
 * `古墓丽影：暗影` [[store.steampowered.com]](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/)
 * `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
-* Fake
-  * `漫威蜘蛛侠2` [[ame-repack.site]](https://game-repack.site/2024/06/06/marvels-spider-man-2/) / [[flysheep6.com]](https://www.flysheep6.com/archives/37674) / [[jmdyh.com]](https://www.jmdyh.com/jx/mzajpb)
-    * `漫威蜘蛛侠：迈尔斯·莫拉莱斯` [[gamer520.com]](https://www.gamer520.com/45936.html)
+* `Repack`
+  * `漫威蜘蛛侠2` [[game-repack.site]](https://game-repack.site/2024/06/06/marvels-spider-man-2/)
+    * `漫威蜘蛛侠：迈尔斯·莫拉莱斯` [[game-repack.site]](https://game-repack.site/2024/04/23/marvels-spider-man-miles-morales-portable-v2-1012-build-12424782-dlc-included/)
+    * `蜘蛛侠：破碎维度` [[game-repack.site]](https://game-repack.site/2024/05/06/spider-man-shattered-dimensions/)
+    * `蜘蛛侠：暗影之网` [[dodi-repacks.site]](https://dodi-repacks.site/610-spider-man-web-of-shadows-v-1-1-from-3-66-gb-dodi-repack/)
+      * `Revive Graphics Mod` [[ktmx.pro]](https://www.ktmx.pro/2021/09/spider-man-web-of-shadows-revive.html)
+        * `ReShade` [[reshade.me]](https://reshade.me/#download)
+        * `TexMod` [[gamebanana.com]](https://gamebanana.com/tools/5383)
+        * `Mod files (Preset and Textures)` [[bilibili.com]](https://www.bilibili.com/video/BV1334y1X74G/?vd_source=85eeb932842b5b15ade257caaa4a9ba8)
   * Downloader
     * `飞猫盘` [[feimaoyun.com]](https://www.feimaoyun.com/app)
   * Installation
