@@ -1,6 +1,5 @@
 ### Terminal
-* `终端`  
-`卸载`
+* 卸载`终端`
 * `终端预览` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9n8g5rfz9xk3?hl=zh-cn&gl=CN)
   * `固定到任务栏`
   * `PowerShell` [[github.com]](https://github.com/PowerShell/PowerShell/releases)
@@ -11,7 +10,7 @@
     * `新建实例行为` `附加到此桌面上最近的窗口`
     * `启动参数`  
 `在启动时居中` `开`
-* `终端预览`
+* `PowerShell`
   * `显示更多选项`/`Windows 10 中的上下文菜单`
     ```
     reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
