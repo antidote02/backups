@@ -261,10 +261,9 @@
 `首选的软件版本` `推荐 + 可选`
 * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
 * `AMD Ryzen Master` [[amd.com]](https://www.amd.com/zh-cn/products/software/ryzen-master.html)
+* `Armoury Crate` [[asus.com.cn]](https://www.asus.com.cn/supportonly/armoury%20crate/helpdesk_download/)
 * `Driver Booster` [[mpyit.com]](https://mpyit.com/driverbooster11.html)
 * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
-* RGB
-  * `Armoury Crate` [[asus.com.cn]](https://www.asus.com.cn/supportonly/armoury%20crate/helpdesk_download/)
   * `Trident Z 控制台` [[gskill.com]](https://www.gskill.com/cn/download/1502180912/1551690847/Trident-Z-Z5-Ripjaws-M5-RGB-%E7%B3%BB%E5%88%97-%E5%B9%BB%E5%85%89%E6%88%9F-%E7%84%B0%E5%85%89%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E5%B0%8A%E7%88%B5%E7%89%88-%E5%B9%BB%E9%94%8B%E6%88%9F-%E7%84%B0%E9%94%8B%E6%88%9F-%E7%84%B0%E5%88%83)
   * `OpenRGB` [[openrgb.org]](https://openrgb.org/#downloads)
 * `SteelSeries GG` [[cn.steelseries.com]](https://cn.steelseries.com/gg)
@@ -290,7 +289,7 @@
     * `.NET 8.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
     * `.NET 7.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/7.0)
     * `.NET 6.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
-  * `.NET Framework 4.8` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48)
+  * `.NET Framework 4.8.1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net481)
   * `.NET Framework 4.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net40)
   * `.NET Framework 3.5 SP1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net35-sp1)
 * `Visual C++ Redistributable` [[microsoft.com]](https://www.microsoft.com/zh-CN/download/details.aspx?id=48145)
@@ -300,24 +299,6 @@
 [回到顶部](#catalog)
 ## Browsers
 * `Remove-Edge_GUI` [[github.com]](https://github.com/ShadowWhisperer/Remove-MS-Edge)
-* `Internet Download Manager` [[internetdownloadmanager.com]](https://www.internetdownloadmanager.com/download.html)
-  * `选项`
-    * `保存至`  
-`另存为`  
-`C:\Users\17293\Downloads`
-    * `连接`  
-`默认最大连接数` `32`
-    * `代理服务器`  
-`手动配置 代理/socks`  
-`地址`
-      ```
-      localhost
-      ```
-      `端口`
-      ```
-      7897
-      ```
-  * `IDM Activation Script` [[github.com]](https://github.com/lstprjct/IDM-Activation-Script)
 * `Google Chrome 开发者版` [[google.cn]](https://www.google.cn/intl/zh-CN/chrome/dev/)
   * `F12`  
 `Console`
@@ -383,6 +364,24 @@
       edge://flags/#enable-parallel-downloading
       ```
       `Enabled`
+* `Internet Download Manager` [[internetdownloadmanager.com]](https://www.internetdownloadmanager.com/download.html)
+  * `选项`
+    * `保存至`  
+`另存为`  
+`C:\Users\17293\Downloads`
+    * `连接`  
+`默认最大连接数` `32`
+    * `代理服务器`  
+`手动配置 代理/socks`  
+`地址`
+      ```
+      localhost
+      ```
+      `端口`
+      ```
+      7897
+      ```
+  * `IDM Activation Script` [[github.com]](https://github.com/lstprjct/IDM-Activation-Script)
 * `设置`  
 `应用`  
 `默认应用`  
