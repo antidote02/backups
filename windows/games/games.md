@@ -70,7 +70,7 @@
   * Games
     * `漫威蜘蛛侠2` [[game-repack.site]](https://game-repack.site/2024/06/06/marvels-spider-man-2/)
       * `漫威蜘蛛侠：迈尔斯·莫拉莱斯` [[game-repack.site]](https://game-repack.site/2024/04/23/marvels-spider-man-miles-morales-portable-v2-1012-build-12424782-dlc-included/)
-    * `蜘蛛侠：破碎维度` [[game-repack.site]](https://game-repack.site/2024/05/06/spider-man-shattered-dimensions/)
+    * [蜘蛛侠：破碎维度](/windows/games/spider-man-shattered-dimensions/spider-man-shattered-dimensions.md)
   * Website
     * `Game Repack` [[game-repack.site]](https://game-repack.site/)
     * `Fitgirl Repacks` [[fitgirl-repacks.site]](https://fitgirl-repacks.site/)

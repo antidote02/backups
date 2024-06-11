@@ -294,8 +294,8 @@
   * `.NET Framework 4.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net40)
   * `.NET Framework 3.5 SP1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net35-sp1)
 * `Visual C++ Redistributable` [[microsoft.com]](https://www.microsoft.com/zh-CN/download/details.aspx?id=48145)
+* `Visual C++ 2008` [[microsoft.com]](https://www.microsoft.com/zh-cn/download/details.aspx?id=26368)
 * `XNA Framework Redistributable 4.0` [[microsoft.com]](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
-* `Visual C++ 2008 SP1` [[microsoft.com]](https://www.microsoft.com/zh-CN/download/details.aspx?id=5718)
 
 [回到顶部](#catalog)
 ## Browsers
