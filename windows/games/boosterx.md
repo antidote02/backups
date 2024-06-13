@@ -3,6 +3,7 @@
   - [优化](#优化)
     - [基本设置](#基本设置)
     - [电源设置](#电源设置)
+  - [应用](#应用)
 ## BoosterX
 [[boosterx.org]](https://boosterx.org/en/)
 ### 优化
@@ -73,3 +74,5 @@ PowerX V2|导入
 * [`解锁所有高级选项`/`电源选项`](/windows/terminal.md)
 
 [回到顶部](#catalog)
+### 应用
+* `Steam`
