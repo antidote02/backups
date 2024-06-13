@@ -140,6 +140,7 @@
   * `哔哩哔哩` [[app.bilibili.com]](https://app.bilibili.com/)
   * `弹弹play` [[dandanplay.com]](https://www.dandanplay.com/)
     * [bangumi](/windows/program-files/bangumi.md)
+  * `real-url` [[github.com]](https://github.com/wbt5/real-url)
   * `网易云音乐` [[music.163.com]](https://music.163.com/#/download)
 * `Downloads`
   * `M3u8Downloader` [[github.com]](https://github.com/Harlan-H/M3u8Downloader_H/releases)
