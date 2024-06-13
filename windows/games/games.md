@@ -50,7 +50,7 @@
 * `英雄联盟`
 * `Mod`
   * `WeMod` [[wemod.com]](https://www.wemod.com/zh)
-* `Ghost of Tsushima 导演剪辑版` [[store.steampowered.com]](https://store.steampowered.com/app/2215430/Ghost_of_Tsushima/)
+* `对马岛之魂` [[store.steampowered.com]](https://store.steampowered.com/app/2215430/Ghost_of_Tsushima/)
 * `地平线 西之绝境` [[store.steampowered.com]](https://store.steampowered.com/app/2420110/_/)
 * `刺客信条：幻景` [[zh-cn.ubisoft.com]](https://zh-cn.ubisoft.com/acm/)
 * `霍格沃茨之遗` [[https://store.steampowered.com/app/990080/_/]](https://store.steampowered.com/app/990080/_/)
