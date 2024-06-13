@@ -1,3 +1,4 @@
+* `植物大战僵尸` [[store.steampowered.com]](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/)
 * `植物大战僵尸杂交版` [[space.bilibili.com]](https://space.bilibili.com/97213827/dynamic)
   * `属性`  
 `兼容性`  

@@ -50,7 +50,6 @@
 * `英雄联盟`
 * `Mod`
   * `WeMod` [[wemod.com]](https://www.wemod.com/zh)
-  * [植物大战僵尸杂交版](/windows/games/pvzhe.md)
 * `Ghost of Tsushima 导演剪辑版` [[store.steampowered.com]](https://store.steampowered.com/app/2215430/Ghost_of_Tsushima/)
 * `地平线 西之绝境 完整版` [[store.steampowered.com]](https://store.steampowered.com/app/2420110/_/)
 * `刺客信条：幻景` [[zh-cn.ubisoft.com]](https://zh-cn.ubisoft.com/acm/)
@@ -66,15 +65,7 @@
 * `只狼：影逝二度` [[store.steampowered.com]](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
 * `古墓丽影：暗影` [[store.steampowered.com]](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/)
 * `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
-* Repack
-  * Games
-    * `漫威蜘蛛侠2` [[game-repack.site]](https://game-repack.site/2024/06/06/marvels-spider-man-2/)
-      * `漫威蜘蛛侠：迈尔斯·莫拉莱斯` [[game-repack.site]](https://game-repack.site/2024/04/23/marvels-spider-man-miles-morales-portable-v2-1012-build-12424782-dlc-included/)
-  * Website
-    * `Game Repack` [[game-repack.site]](https://game-repack.site/)
-    * `Fitgirl Repacks` [[fitgirl-repacks.site]](https://fitgirl-repacks.site/)
-  * Installation
-    * `DODI` [[jmdyh.com]](https://www.jmdyh.com/jx/q1pcia)
+* [Repack](/windows/games/repack/repack.md)
 * Other
   * `Banana` [[store.steampowered.com]](https://store.steampowered.com/app/2923300/Banana/)
     * `鼠大侠` [[shudaxia.com]](https://www.shudaxia.com/)
