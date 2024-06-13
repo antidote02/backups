@@ -12,6 +12,6 @@
     - [BoosterX](/windows/games/boosterx.md)
     - [Valorant](/windows/games/valorant.md)
     - [CS 2](/windows/games/cs-2/cs-2.md)
-    - [PVZHE](/windows/games/pvzhe.md)
-    - [MuMu](/windows/games/mumu/mumu.md)
+    - [Repack](/windows/games/repack/repack.md)
+      - [PVZ](/windows/games/repack/pvzhe.md)
 - [Android](/android/android.md)
