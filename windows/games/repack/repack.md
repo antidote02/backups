@@ -20,5 +20,6 @@
 ## Website
 * `Game Repack` [[game-repack.site]](https://game-repack.site/)
 * `Fitgirl Repacks` [[fitgirl-repacks.site]](https://fitgirl-repacks.site/)
+* `FreeTP` [[freetp.org]](https://freetp.org/)
 
 [回到顶部](#repack学习版-索引)
