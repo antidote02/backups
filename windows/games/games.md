@@ -23,9 +23,11 @@
     vgtray.exe|B|E核
     sguard64.exe|B|E核
     sguardsvc64.exe|B|E核
-    CrossProxy.exe|B|P核
+    CrossProxy.exe|B|E核
+    steam.exe|B|E核
+    steamwebhelper.exe|B|E核
     MuMuVMMHeadless.exe|H|P核
-    HandBrake.Worker.exe|A
+    HandBrake.Worker.exe|H
     AfterFX.exe|H
     Adobe Premiere Pro.exe|H
     Adobe Media Encoder.exe|H
