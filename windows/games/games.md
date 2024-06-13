@@ -23,6 +23,7 @@
     vgtray.exe|B|E核
     sguard64.exe|B|E核
     sguardsvc64.exe|B|E核
+    CrossProxy.exe|B|P核
     MuMuVMMHeadless.exe|H|P核
     HandBrake.Worker.exe|A
     AfterFX.exe|H
