@@ -17,9 +17,9 @@
 - [Android](/android/android.md)
 
 ### About
-* Personal
-  * `B站` [[space.bilibili.com]](https://space.bilibili.com/13790079)
-  * `抖音` [[douyin.com]](https://www.douyin.com/user/MS4wLjABAAAAUP1PTicjItw9J-CVLw0JiNEQyY3arAWKl3IFfxYSy94)
 * Group
   * `Oopz` [[oopz.cn]](https://oopz.cn/i/jMbLMT)
   * ~~`Kook`~~
+* Personal
+  * `B站` [[space.bilibili.com]](https://space.bilibili.com/13790079)
+  * `抖音` [[douyin.com]](https://www.douyin.com/user/MS4wLjABAAAAUP1PTicjItw9J-CVLw0JiNEQyY3arAWKl3IFfxYSy94)
