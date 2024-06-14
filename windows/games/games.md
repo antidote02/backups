@@ -31,7 +31,6 @@
     AfterFX.exe|H
     Adobe Premiere Pro.exe|H
     Adobe Media Encoder.exe|H
-    nvcontainer.exe|B
     ui32.exe|B
     wallpaper64.exe|B
     LightingService.exe|B|E核|华硕
