@@ -15,6 +15,14 @@
     ```
     reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
     ```
+  * `保留的存储`
+    ```
+    DISM.exe /Online /Set-ReservedStorageState /State:Disabled
+    ```
+  * `休眠文件`
+    ```
+    powercfg -h off
+    ```
   * `执行策略`
     ```
     set-executionpolicy -executionpolicy bypass -scope currentuser

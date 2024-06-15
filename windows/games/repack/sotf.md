@@ -7,4 +7,5 @@
       * `ModMenu Plus` [[nexusmods.com]](https://www.nexusmods.com/sonsoftheforest/mods/113)
       * `低配电脑优化设置` [[down.gamersky.com]](https://down.gamersky.com/pc/202303/1578092.shtml)
 * 分流
-  * `森林之子` 
+  * `123云盘` [[123pan.com]](https://www.123pan.com/s/Hn60Vv-8lcKd)  
+`Jj5Y`
