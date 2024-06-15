@@ -7,7 +7,8 @@
 - [Remote](#remote)
 - [Shell]()
 ## Program Files
-* `联想应用商店` [[lestore.lenovo.com]](https://lestore.lenovo.com/)
+* `联想应用商店` [[lestore.lenovo.com]](https://lestore.lenovo.com/)  
+`C:\Program Files (x86)\Lenovo\LeAppStore`
 * `Geek` [[geekuninstaller.com]](https://geekuninstaller.com/)
   * `Microsoft OneDrive`  
 `卸载`
