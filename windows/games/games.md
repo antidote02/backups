@@ -27,6 +27,7 @@
     steam.exe|B|E核
     steamwebhelper.exe|B|E核
     MuMuVMMHeadless.exe|H|P核
+    MAA.exe|H|P核
     HandBrake.Worker.exe|H
     AfterFX.exe|H
     Adobe Premiere Pro.exe|H
