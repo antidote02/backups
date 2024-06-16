@@ -1,6 +1,6 @@
 ## Catalog
-- [Software]
-- [Games]
+- [Software](#software)
+- [Games](#games)
 ## Software
 
 [回到顶部](#catalog)
