@@ -280,7 +280,6 @@
 * [Android](/android/android.md)
 
 [回到顶部](#catalog)
-
 ## Runtimes
 * `Microsoft Edge Webview2` [[developer.microsoft.com]](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2?form=MA13LH)
 * `.NET`
@@ -292,6 +291,7 @@
   * `.NET Framework 4.8.1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net481)
   * `.NET Framework 4.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net40)
   * `.NET Framework 3.5 SP1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net35-sp1)
+    * `.NET Core 3.0` [[dotnet.microsoft.com](https://dotnet.microsoft.com/zh-cn/download/dotnet/3.1)
 * `Visual C++ 2015-2022 Redistributable` [[learn.microsoft.com]](https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version)
 * `Visual C++ 2008` [[microsoft.com]](https://www.microsoft.com/zh-cn/download/details.aspx?id=26368)
 * `XNA Framework Redistributable 4.0` [[microsoft.com]](https://www.microsoft.com/en-us/download/details.aspx?id=20914)

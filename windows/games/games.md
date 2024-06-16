@@ -16,25 +16,7 @@
   * `更新`
     * `检查周期` `12时`
     * `包含测试版` `开`
-  * `当前进程`
-    进程名|规则|亲和性|主板
-    -|-|-|-
-    VALORANT-Win64-Shipping.exe|H|P核
-    vgtray.exe|B|E核
-    sguard64.exe|B|E核
-    sguardsvc64.exe|B|E核
-    CrossProxy.exe|B|E核
-    steam.exe|B|E核
-    steamwebhelper.exe|B|E核
-    MuMuVMMHeadless.exe|H|P核
-    MAA.exe|H|P核
-    HandBrake.Worker.exe|H
-    AfterFX.exe|H
-    Adobe Premiere Pro.exe|H
-    Adobe Media Encoder.exe|H
-    ui32.exe|B
-    wallpaper64.exe|B
-    LightingService.exe|B|E核|华硕
+  * [当前进程](/windows/games/process-lasso/process-lasso.md)
 * `RAMMap` [[learn.microsoft.com]](https://learn.microsoft.com/zh-cn/sysinternals/downloads/rammap)
 * `WinExplorer` [[nirsoft.net]](https://www.nirsoft.net/utils/winexp.html)
 * `加速器`
