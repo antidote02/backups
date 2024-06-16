@@ -6,6 +6,7 @@
   - [Runtimes](#runtimes)
   - [Browsers](#browsers)
   - [个性化](#个性化)
+  - [BenchMark](#benchmark)
   - [Windows 10](#windows-10)
 
 ## Windows
@@ -441,6 +442,10 @@
           * `防止崩溃：` `关`
           * `使用季节主题：` `关`
           * `进程优先级：` `低于正常`
+
+[回到顶部](#catalog)
+## BenchMark
+[BenchMark](/windows/benchmark.md)
 
 [回到顶部](#catalog)
 ## Windows 10
