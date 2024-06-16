@@ -445,7 +445,7 @@
 
 [回到顶部](#catalog)
 ## BenchMark
-[BenchMark](/windows/benchmark.md)
+[BenchMark](/windows/benchmark/benchmark.md)
 
 [回到顶部](#catalog)
 ## Windows 10
