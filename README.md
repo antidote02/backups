@@ -13,7 +13,9 @@
     - [Valorant](/windows/games/valorant.md)
     - [CS 2](/windows/games/cs-2/cs-2.md)
     - [Repack](/windows/games/repack/repack.md)
+      - [SOTF](/windows/games/repack/sotf.md)
       - [PVZ](/windows/games/repack/pvzhe.md)
+  - [BenchMark](/windows/benchmark/benchmark.md)
 - [Android](/android/android.md)
 
 ### About
