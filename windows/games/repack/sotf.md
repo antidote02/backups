@@ -27,7 +27,8 @@
   胶片颗粒|关
   风格|默认值
 * `Mod`
-  * `Steam 联机` [[dl.3dmgame.com]](https://dl.3dmgame.com/patch/244466.html)
+  * `Fix Repair Steam Generic` [[online-fix.me]](https://online-fix.me/games/survival/17220-sons-of-the-forest-po-seti.html)  
+`online-fix.me`
   * 可选
     * `BepInEx` [[thunderstore.io]](https://thunderstore.io/c/sons-of-the-forest/p/BepInEx/BepInExPack_IL2CPP/)
       * `ModMenu Plus` [[nexusmods.com]](https://www.nexusmods.com/sonsoftheforest/mods/113)
@@ -35,3 +36,5 @@
 * 分流
   * `123云盘` [[123pan.com]](https://www.123pan.com/s/Hn60Vv-8lcKd)  
 `Jj5Y`
+    * `SOTF_Fix_Repair_Steam_Generic.rar`  
+`online-fix.me`
