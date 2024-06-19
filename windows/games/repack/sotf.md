@@ -36,5 +36,3 @@
 * 分流
   * `123云盘` [[123pan.com]](https://www.123pan.com/s/Hn60Vv-8lcKd)  
 `Jj5Y`
-    * `SOTF_Fix_Repair_Steam_Generic.rar`  
-`online-fix.me`
