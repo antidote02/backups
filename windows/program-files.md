@@ -51,7 +51,7 @@
     * `扩展`
       * `Horizon Theme` [[marketplace.visualstudio.com]](https://marketplace.visualstudio.com/items?itemName=alexandernanberg.horizon-theme-vscode)
 * `电影和电视`
-  * `PotPlayer` [[potplayer.daum.net]](https://potplayer.daum.net/?lang=zh_CN)  
+  * `PotPlayer` [[potplayer.tv]](https://potplayer.tv/?lang=zh_CN)  
     * `参数选项`
       * `基本`
 `多重处理方式：` `单个进程即选即播`
