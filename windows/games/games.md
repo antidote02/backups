@@ -48,7 +48,7 @@
 * `赛博朋克2077` [[store.steampowered.com]](https://store.steampowered.com/app/1091500/_2077/)
 * `无主之地3` [[store.steampowered.com]](https://store.steampowered.com/app/397540/3/)
 * `只狼：影逝二度` [[store.steampowered.com]](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
-* `古墓丽影：暗影` [[store.steampowered.com]](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/)
+* `古墓丽影：暗影` [[SOTTR]](/windows/games/sottr.md)
 * `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
 * [Repack](/windows/games/repack/repack.md)
 * Other
