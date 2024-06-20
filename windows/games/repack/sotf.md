@@ -61,6 +61,8 @@
     spawnitem 437
     # 手枪
     spawnitem 355
+    # 手枪轨
+    spawnitem 376
     # 9mm子弹
     spawnitem 362
     # 散弹枪
@@ -70,3 +72,5 @@
     spawnitem 378
     # 散弹子弹块
     spawnitem 363
+    # 激光瞄准镜
+    spawnitem 375
