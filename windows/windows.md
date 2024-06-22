@@ -262,7 +262,7 @@
 `首选的软件版本` `推荐 + 可选`
 * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
 * `AMD Ryzen Master` [[amd.com]](https://www.amd.com/zh-cn/products/software/ryzen-master.html)
-* `Armoury Crate` [[asus.com.cn]](https://www.asus.com.cn/supportonly/armoury%20crate/helpdesk_download/)
+* `Armoury Crate` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9pm9dfqrdh3f?hl=zh-cn&gl=CN)
 * `Driver Booster` [[mpyit.com]](https://mpyit.com/driverbooster11.html)
 * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
   * `Trident Z 控制台` [[gskill.com]](https://www.gskill.com/cn/download/1502180912/1551690847/Trident-Z-Z5-Ripjaws-M5-RGB-%E7%B3%BB%E5%88%97-%E5%B9%BB%E5%85%89%E6%88%9F-%E7%84%B0%E5%85%89%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E5%B0%8A%E7%88%B5%E7%89%88-%E5%B9%BB%E9%94%8B%E6%88%9F-%E7%84%B0%E9%94%8B%E6%88%9F-%E7%84%B0%E5%88%83)

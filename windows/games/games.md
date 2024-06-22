@@ -59,9 +59,12 @@
 ## Android
 * [MuMu模拟器](/windows/games/mumu/mumu.md)
 ### Apps
-* `AppShare` [[appshare.muge.info]](https://appshare.muge.info/)
-  * `TapTap Beta`
+* `InstallX` [[t.me]](https://t.me/rosan_installer)
+* `AppShare` [[app.sharess.cn]](https://app.sharess.cn/)
+  * `Play 商店` [[app.sharess.cn]](https://app.sharess.cn/page/app/detail?id=WeHbJPzZT5fPcIg0OcfyEQ%3D%3D)
+  * `TapTap Beta` [[app.sharess.cn]](https://app.sharess.cn/page/app/detail?id=uKdpOZwE_Ee206IENPN4Iw%3D%3D)
   * `小米社区` [[app.sharess.cn]](https://app.sharess.cn/page/app/detail?id=4NinYjva2iboQbuoehzxOw)
+
 ### Android Games
 * `明日方舟` [[ak.hypergryph.com]](https://ak.hypergryph.com/#index)
   * `森空岛` [[skland.com]](https://www.skland.com/)
