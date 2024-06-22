@@ -37,6 +37,7 @@ Adobe Media Encoder.exe|H
 -|-|-|-
 WeChat.exe|B|E核
 WeChatAppEx.exe|B|E核
+KOOK.exe|B|E核
 * `个性化`
 
 进程名|规则|亲和性|主板
