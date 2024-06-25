@@ -1,8 +1,9 @@
 * `Adobe` [[w14.monkrus.ws]](https://w14.monkrus.ws/)
-  * `Premiere Pro` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/04/adobe-premiere-pro-2024-v243.html)
+  * `Media Encoder` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/06/adobe-media-encoder-2024-v245.html)
   * [After Effects](/windows/program-files/adobe/afterfx.md)
-  * `Audition` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-audition-2024-v244-multilingual.html)
-  * `Media Encoder` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/04/adobe-media-encoder-2024-v243.html)
+  * `Premiere Pro` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/06/adobe-premiere-pro-2024-v245.html)
+  * `Acrobat Pro` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/06/adobe-acrobat-pro-2024-v24220857-x64.html)
+  * `Audition` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-audition-2024-v2441-multilingual.html)
     * `预设`
       * `Jable` [EPR](/windows/program-files/adobe/J%20900.epr)
   * `Photoshop` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-photoshop-2024-v259-multilingual.html)
