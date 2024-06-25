@@ -28,11 +28,13 @@
 
 [回到顶部](#catalog)
 ## Games
-* `FPS`
-  * [Valorant](/windows/games/valorant.md)
-  * [CS 2](/windows/games/cs-2/cs-2.md)
-  * `Aimlabs` [[store.steampowered.com]](https://store.steampowered.com/app/714010/Aimlabs/)
-* `英雄联盟`
+* [Valorant](/windows/games/valorant.md)
+* [CS 2](/windows/games/cs-2/cs-2.md)
+* `Aimlabs` [[store.steampowered.com]](https://store.steampowered.com/app/714010/Aimlabs/)
+* `Servers`
+  * `我的世界`
+  * `未转变者`
+  * `幻兽帕鲁`
 * `Mod`
   * `WeMod` [[wemod.com]](https://www.wemod.com/zh)
 * `对马岛之魂` [[store.steampowered.com]](https://store.steampowered.com/app/2215430/Ghost_of_Tsushima/)

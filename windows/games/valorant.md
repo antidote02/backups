@@ -39,3 +39,4 @@
 `只读`
       * 创建快捷方式`aclos-launcher`  
 `C:\WeGameApps\rail_apps\无畏契约(2001715)\ACLOS\aclos-launcher.exe`
+    * `英雄联盟`
