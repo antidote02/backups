@@ -11,4 +11,6 @@
     * `PlantsVsZombies.exe`
     * `uninst.exe`
     * `pvzHE-Launcher.exe`
-  * `杂交版腐竹` [[space.bilibili.com]](https://space.bilibili.com/1492411588/dynamic)
+  * `杂交版腐竹` [[link3.cc]](https://link3.cc/bilibilihanhanwenhao)
+  * `yourdata`  
+`C:\ProgramData\PopCap Games\PlantsVsZombies\pvzHE\yourdata`
