@@ -6,10 +6,10 @@
 -|-|-|-
 VALORANT-Win64-Shipping.exe|H|P核
 VALORANT.exe|H|P核
-vgtray.exe|B|E核*1
-sguard64.exe|B|E核*1
-sguardsvc64.exe|B|E核*1
-CrossProxy.exe|B|E核*1
+vgtray.exe|B|E核 * 1
+sguard64.exe|B|E核 * 1
+sguardsvc64.exe|B|E核 * 1
+CrossProxy.exe|B|E核 * 1
 无畏契约登录器.exe|B|E核
 * `CS 2`
 
