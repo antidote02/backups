@@ -4,13 +4,14 @@
 ## Games
   Games||Downloads|Date
   -|-|-|-
-  对马岛之魂|Ghost of Tsushima|[[game-repack.site]](https://game-repack.site/2024/06/05/ghost-of-tsushima-directors-cut-dlc-build-14596343/)|2024/5/16
-  森林之子|Sons Of The Forest|[SOTF](/windows/games/repack/sotf.md)|2024/2/23
-  漫威蜘蛛侠2|Marvel’s Spider-Man 2|[[game-repack.site]](https://game-repack.site/2024/06/12/marvels-spider-man-2/)|2023/10/20
-  漫威蜘蛛侠：迈尔斯·莫拉莱斯|Marvel’s Spider-Man: Miles Morales|[[game-repack.site]](https://game-repack.site/2024/04/23/marvels-spider-man-miles-morales-portable-v2-1012-build-12424782-dlc-included/)|2022/11/18
-  孤岛危机3|Crysis 3 Remastered|[[game-repack.site]](https://game-repack.site/2022/11/18/1476-crysis-3-remastered-no-denuvo-multi12-from-10-2-gb-dodi-repack/)|2022/11/17
-  消逝的光芒2 人与仁之战|Dying Light 2 Stay Human|[Dying Light 2 Stay Human](/windows/games/repack/dying-light-2.md)|2022/2/4
-  植物大战僵尸|Plants vs. Zombies GOTY Edition|[PVZHE](/windows/games/repack/pvzhe.md)|2009/5/6
+  对马岛之魂：导演剪辑版|Ghost of Tsushima DIRECTOR'S CUT|[Ghost of Tsushima DIRECTOR'S CUT](/windows/games/repack/ghost-of-tsushima-director's-cut.md)|2024/5/16
+  森林之子|Sons Of The Forest|[Son Of The Forest](/windows/games/repack/sons-of-the-forest.md)|2024/2/23
+  漫威蜘蛛侠：迈尔斯·墨拉莱斯|Marvel’s Spider-Man: Miles Morales|[Marvel’s Spider-Man: Miles Morales](/windows/games/repack/marvel's-spider-man-miles-morales.md)|2022/11/18
+  孤岛危机3：重置版|Crysis 3 Remastered|[Crysis 3 Remastered](/windows/games/repack/crysis-3-remastered.md)|2022/11/17
+  消逝的光芒2：重装上阵版|Dying Light 2 Stay Human: Reloaded Edtion|[Dying Light 2 Stay Human](/windows/games/repack/dying-light-2-stay-human-reloaded-edtion.md.md)|2022/2/4
+  赛博朋克2077|Cyberpunk 2077|[Cyberpunk 2077](/windows/games/repack/cyberpunk-2077.md)|2020/12/10
+  古墓丽影：暗影|Shadow of the Tomb Raider: Definitive Edtion|[Shadow of the Tomb Raider: Definitive Edtion](/windows/games/repack/shadow-of-the-tomb-raider-definitive-edtion.md)|2018/9/15
+  植物大战僵尸|Plants vs. Zombies GOTY Edition|[Plants vs. Zombies GOTY Edition](/windows/games/repack/plants-vs.-zombies-goty-detion.md)|2009/5/5
 
 [回到顶部](#repack学习版-索引)
 ## Installation 

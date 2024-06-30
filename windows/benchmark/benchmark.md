@@ -16,6 +16,8 @@ PugetBench|[[pugetsystems.com]](https://www.pugetsystems.com/pugetbench/creators
 Games|Downloads|
 -|-
 CS2 FPS BENCHMARK|[[steamcommunity.com]](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604)
-古墓丽影：暗影|[[store.steampowered.com]](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/)
+赛博朋克2077|[Cyberpunk 2077](/windows/games/repack/cyberpunk-2077.md)
+古墓丽影：暗影|[[Shadow of the Tomb Raider: Definitive Edtion]](/windows/games/repack/shadow-of-the-tomb-raider-definitive-edtion.md)
+
 
 [回到顶部](#catalog)

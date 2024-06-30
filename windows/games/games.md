@@ -37,12 +37,10 @@
   * `幻兽帕鲁`
 * `Mod`
   * `WeMod` [[wemod.com]](https://www.wemod.com/zh)
-* `对马岛之魂` [[store.steampowered.com]](https://store.steampowered.com/app/2215430/Ghost_of_Tsushima/)
 * `地平线 西之绝境` [[store.steampowered.com]](https://store.steampowered.com/app/2420110/_/)
 * `刺客信条：幻景` [[zh-cn.ubisoft.com]](https://zh-cn.ubisoft.com/acm/)
 * `霍格沃茨之遗` [[https://store.steampowered.com/app/990080/_/]](https://store.steampowered.com/app/990080/_/)
 * `艾尔登法环` [[store.steampowered.com]](https://store.steampowered.com/app/1245620/_/)
-* `消逝的光芒2 人与仁之战` [[store.steampowered.com]](https://store.steampowered.com/app/534380/2/)
 * `战地风云2042` [[store.steampowered.com]](https://store.steampowered.com/app/1517290/_2042/)
 * `光明记忆：无限` [[store.steampowered.com]](https://store.steampowered.com/app/1178830/_/)
 * `极限竞速 地平线5` [[store.steampowered.com]](https://store.steampowered.com/app/1551360/_5/)
@@ -50,7 +48,6 @@
 * `赛博朋克2077` [[store.steampowered.com]](https://store.steampowered.com/app/1091500/_2077/)
 * `无主之地3` [[store.steampowered.com]](https://store.steampowered.com/app/397540/3/)
 * `只狼：影逝二度` [[store.steampowered.com]](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
-* `古墓丽影：暗影` [[SOTTR]](/windows/games/sottr.md)
 * `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
 * [Repack](/windows/games/repack/repack.md)
 * Other

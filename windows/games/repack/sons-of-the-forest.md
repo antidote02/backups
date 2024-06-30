@@ -1,16 +1,11 @@
-## SOTF
-`森林之子` ([[game-repack.site]](https://game-repack.site/2024/05/17/sons-of-the-forest-build-14378241/))
+## 森林之子
+* `Steam` [[store.steampowered.com]](https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/)
+* `Online Fix` [[online-fix.me]](https://online-fix.me/games/survival/17220-sons-of-the-forest-po-seti.html)
 * `Mod`
-  * `Fix Repair Steam Generic` [[online-fix.me]](https://online-fix.me/games/survival/17220-sons-of-the-forest-po-seti.html)  
-`online-fix.me`
-  * 可选
     * `BepInEx` [[github.com]](https://github.com/BepInEx/BepInEx/releases)
       * `ModMenu Plus` [[nexusmods.com]](https://www.nexusmods.com/sonsoftheforest/mods/113)
-      * `低配电脑优化设置` [[down.gamersky.com]](https://down.gamersky.com/pc/202303/1578092.shtml)
-* 分流
-  * `123云盘` [[123pan.com]](https://www.123pan.com/s/Hn60Vv-8lcKd)  
-`Jj5Y`
-* `选项`
+* `森林之子`  
+`选项`
   图形|选项
   -|-
   绘制距离|中
@@ -27,7 +22,7 @@
   纹理分辨率|超高
   抗锯齿|关
   动态分辨率|DLSS / FSR 3.0
-  DLSS / FSR 3.0|质量 / 超级性能
+  DLSS / FSR 3.0|质量
   光晕|开
   屏幕空间反射|关
   运动模糊|开
@@ -36,5 +31,3 @@
   色差|关
   胶片颗粒|关
   风格|默认值
-* `cheatstick`  
-`~`
