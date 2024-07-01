@@ -39,6 +39,8 @@
 
     scoop install -k git
 
+    git config --global http.sslBackend "schannel"
+
     # Github Name
     git config --global user.name  "antidote02"
 
