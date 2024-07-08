@@ -44,29 +44,32 @@
         * `AMD CBS`
           * `Global C-state Control` `Disabled`
       * `CPPC Preferred Cores` `Disabled`
-
-* `临时`
-  * `中文（简体）`
-    * `欢迎`
-  * `进阶模式`
-    * `Tweaker`
-      * `Advanced CPU Settings`
-        * `SVM Mode` `启用`
-        * `Precision Boost Overdrive` `Advanced`
-          * `PBO Limits` `Disabled`
-          * `Precision Boost Overdrive Scalar` `10X`
-          * `CPU Boost Clock Override` `Enabled(Positive)`
-          * `Max CPU Boost Clock Override` `200`
-          * `Platform Thermal Throttle Ctrl` `Manual`
-          * `Platform Thermal Throttle Limit` `100`
-          * `Curve Optimizer` `All Cores`
-            * `All Core Curve Optimizer Sign` `Negative`
-            * `All Core Curve Optimizer Magnitude`
-              ```
-              30
-              ```
-      * `EWetreme Memory Profile` `EXPO 1`
-      * `低延迟` `启用`
-      * `XMP/EXPO 高频宽` `启用`
-      * `Infinity Fabric Frequency and Dividers` `2000 MHz`
-      * `UCLK DIV1 MODE` `UCLK=MEMCLK`
+* `技嘉`
+  * `AMD`
+    * `B660M GAMING WIFI`  
+`ADVANCED MODE`
+      * `系统信息`
+        * `系统语言` `中文（简体）`
+        * `Q-Flash`
+      * `频率/电压控制`
+        * `Adcanced CPU Settings`
+          * `SVM Enable` `Enabled`
+          * `PSS Support` `停用`
+          * `Global C-State Control` `停用`
+          * `Precision Boost Overdrive` `Advanced`
+            * `PBO Limits` `Disable`
+            * `Precision Boost Overdrive Scalar Ctrl` `Manual`
+            * `Precision Boost Overdrive Scalar` `10X`
+            * `CPU Boost Clock Override` `Enable (Positive)`
+            * `Max CPU Boost Clock Override(+)` `200`
+            * `Platform Thermal Throttle Ctrl` `89` （89+）
+            * `Curve Optimizer` `All Cores`
+              * `All Core Curve Optimizer Sign` `Negative`
+              * `All Core Curve Optimizer Magnitude` `30`
+            * `XMP/EXPO Prefile` `EXPO 1`
+        * `低延迟` `启用`
+        * `XMP/EXPO 高频宽` `启用`
+        * `Infinity Fabric Frequency and Dividers` `2000 MHz`
+        * `UCLK DIV1 MODE` `UCLK=MEMCLK`
+        * `处理器/VRM设置`
+          * `CPU Vcore Loadline 校正` `High`
