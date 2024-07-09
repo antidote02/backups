@@ -67,9 +67,20 @@
               * `All Core Curve Optimizer Sign` `Negative`
               * `All Core Curve Optimizer Magnitude` `30`
             * `XMP/EXPO Prefile` `EXPO 1`
-        * `低延迟` `启用`
+        * `低延迟` `停用`
         * `XMP/EXPO 高频宽` `启用`
         * `Infinity Fabric Frequency and Dividers` `2000 MHz`
         * `UCLK DIV1 MODE` `UCLK=MEMCLK`
         * `处理器/VRM设置`
-          * `CPU Vcore Loadline 校正` `High`
+          * `CPU Vcore Loadline 校正` `Ultra Extreme`
+          * `Vcore SOC Loadline Calivration` `Extreme`
+      * `设置`
+        * `IO Ports`
+          * `Integrated Graphics` `停用`
+        * `Miscellaneous`
+          * `PCIEX16 Slot Link Speed` `Gen4`
+          * `IOMMU` `停用`
+          * `TSME` `停用`
+        * `AMD CBS`
+          * `SMU Common Options`
+            * `CPPC Dynamic Preferred Cores` `Cache`

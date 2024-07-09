@@ -292,7 +292,7 @@
   * `.NET Framework 4.8.1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net481)
   * `.NET Framework 4.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net40)
   * `.NET Framework 3.5 SP1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net35-sp1)
-    * `.NET Core 3.0` [[dotnet.microsoft.com](https://dotnet.microsoft.com/zh-cn/download/dotnet/3.1)
+    * `.NET Core 3.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/3.1)
 * `Visual C++`
   * `Visual Studio 2015-2022` [[learn.microsoft.com]](https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
   * `Visual Studio 2013` [[support.microsoft.com]](https://support.microsoft.com/zh-cn/topic/update-for-visual-c-2013-redistributable-package-d8ccd6a5-4e26-c290-517b-8da6cfdf4f10)
