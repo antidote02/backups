@@ -6,6 +6,7 @@ Software|Downloads
 -|-
 图吧工具箱|[[tbtool.cn]](https://www.tbtool.cn/)
 CPU-Z|[[cpuid.com]](https://cpuid.com/softwares/cpu-z.html)
+HWiNFO|[[sourceforge.net]](https://sourceforge.net/projects/hwinfo/)
 7-Zip|[[7-zip.org]](https://7-zip.org/)
 游戏加加|[[gamepp.com]](https://gamepp.com/)
 鲁大师|[[ludashi.com]](https://www.ludashi.com/)

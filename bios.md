@@ -55,32 +55,37 @@
         * `Adcanced CPU Settings`
           * `SVM Enable` `Enabled`
           * `PSS Support` `停用`
-          * `Global C-State Control` `停用`
+          * `Global C-State Control` `自动`
           * `Precision Boost Overdrive` `Advanced`
-            * `PBO Limits` `Disable`
-            * `Precision Boost Overdrive Scalar Ctrl` `Manual`
-            * `Precision Boost Overdrive Scalar` `10X`
-            * `CPU Boost Clock Override` `Enable (Positive)`
-            * `Max CPU Boost Clock Override(+)` `200`
-            * `Platform Thermal Throttle Ctrl` `89` （89+）
+            * `PBO Limits` `Auto`
+            * `Precision Boost Overdrive Scalar Ctrl` `Auto`
+            * `CPU Boost Clock Override` `Disable`
+            * `Platform Thermal Throttle Ctrl` `Auto`
             * `Curve Optimizer` `All Cores`
               * `All Core Curve Optimizer Sign` `Negative`
-              * `All Core Curve Optimizer Magnitude` `30`
+              * `All Core Curve Optimizer Magnitude` `25`
             * `XMP/EXPO Prefile` `EXPO 1`
         * `低延迟` `停用`
         * `XMP/EXPO 高频宽` `启用`
         * `Infinity Fabric Frequency and Dividers` `2000 MHz`
         * `UCLK DIV1 MODE` `UCLK=MEMCLK`
+        * `高级内存设定`
+          * `Power Down Enable` `Disable` ——
+          * `Memory Context Restore` `Disable` ——
         * `处理器/VRM设置`
-          * `CPU Vcore Loadline 校正` `Ultra Extreme`
+          * `CPU Vcore Loadline 校正` `High`
           * `Vcore SOC Loadline Calivration` `Extreme`
       * `设置`
         * `IO Ports`
           * `Integrated Graphics` `停用`
+          * `4G 以上解码` `停用`
+          * `Re-Size Bar Support` `停用`
         * `Miscellaneous`
           * `PCIEX16 Slot Link Speed` `Gen4`
           * `IOMMU` `停用`
           * `TSME` `停用`
         * `AMD CBS`
+          * `CPU Common Options`
+            * `AVX512` `Disable`
           * `SMU Common Options`
             * `CPPC Dynamic Preferred Cores` `Cache`
