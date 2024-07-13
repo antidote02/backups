@@ -6,12 +6,16 @@ Software|Downloads
 -|-
 图吧工具箱|[[tbtool.cn]](https://www.tbtool.cn/)
 CPU-Z|[[cpuid.com]](https://cpuid.com/softwares/cpu-z.html)
+AIDA64|[[aida64.com]](https://www.aida64.com/downloads)
 HWiNFO|[[sourceforge.net]](https://sourceforge.net/projects/hwinfo/)
+Cinebench|[[maxon.net]](https://www.maxon.net/zh/cinebench)
 7-Zip|[[7-zip.org]](https://7-zip.org/)
-游戏加加|[[gamepp.com]](https://gamepp.com/)
-鲁大师|[[ludashi.com]](https://www.ludashi.com/)
+FurMark|[[geeks3d.com]](https://geeks3d.com/furmark/downloads/)
+GPU-Z|[[techpowerup.com]](https://www.techpowerup.com/download/techpowerup-gpu-z/)
 3DMark|[[store.steampowered.com]](https://store.steampowered.com/app/223850/3DMark/)
 PugetBench|[[pugetsystems.com]](https://www.pugetsystems.com/pugetbench/creators/)
+游戏加加|[[gamepp.com]](https://gamepp.com/)
+鲁大师|[[ludashi.com]](https://www.ludashi.com/)
 
 [回到顶部](#catalog)
 ## Games
