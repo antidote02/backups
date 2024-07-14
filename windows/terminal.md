@@ -47,6 +47,8 @@
     # Github Emails
     git config --global user.email  "1729304580@qq.com"
 
+    git config --global http.sslVerify false
+
     scoop bucket add extras
 
     scoop bucket add versions
