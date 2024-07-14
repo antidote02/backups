@@ -88,4 +88,4 @@
           * `CPU Common Options`
             * `AVX512` `Disable`
           * `SMU Common Options`
-            * `CPPC Dynamic Preferred Cores` `Cache`
+            * `CPPC Dynamic Preferred Cores` `Auto`

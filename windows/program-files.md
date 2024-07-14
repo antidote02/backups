@@ -40,7 +40,7 @@
 `声音方案：` `现代`
 * `记事本`
   * `Notepad3` [[rizonesoft.com]](https://www.rizonesoft.com/downloads/notepad3/)
-  * `VS Code Insiders` [[code.visualstudio.com]](https://code.visualstudio.com/)
+  * `VS Code Insiders` [[code.visualstudio.com]](https://code.visualstudio.com/insiders/)
     * `Ctrl`+`P`  
       ```
       >Configure Display Language
