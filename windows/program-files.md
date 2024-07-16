@@ -144,7 +144,7 @@
 
 [回到顶部](#catalog)
 ## Remote
-* `ToDesk` [[todesk.com]](https://www.todesk.com/)
+* `ToDesk` [[todesk.com]](https://www.todesk.com/download.html)
 
 [回到顶部](#catalog)
 ## Shell
