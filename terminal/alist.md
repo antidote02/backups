@@ -19,7 +19,7 @@
   Wscript.quit
   ```
   `C:\Users\17293\scoop\apps\alist\启动.vbs`
-* 创建快捷方式`启动`
+* 创建快捷方式`启动`  
   `C:\Users\17293\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\启动`
 * `存储` (http://localhost:5244/@manage/storages)
   * `本机存储`

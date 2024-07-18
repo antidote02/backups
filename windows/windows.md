@@ -193,7 +193,7 @@
         平滑处理 - 模式|应用程序控制的
         纹理过滤 - 各向异性采样优化|开
         纹理过滤 - 质量|高性能
-        线程优化|自动
+        线程优化|开
         首选刷新率|最高可用
       * `配置 Surround、PhsyX`  
 `处理器`
@@ -262,6 +262,7 @@
 `首选的软件版本` `推荐 + 可选`
 * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
 * `AMD Ryzen Master` [[amd.com]](https://www.amd.com/zh-cn/products/software/ryzen-master.html)
+* `GCC` [[gigabyte.cn]](https://www.gigabyte.cn/Consumer/Software/GIGABYTE-Control-Center/)
 * `Armoury Crate` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9pm9dfqrdh3f?hl=zh-cn&gl=CN)
 * `Driver Booster` [[mpyit.com]](https://mpyit.com/driverbooster11.html)
 * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
