@@ -264,7 +264,7 @@
 * `AMD Ryzen Master` [[amd.com]](https://www.amd.com/zh-cn/products/software/ryzen-master.html)
 * `GCC` [[gigabyte.cn]](https://www.gigabyte.cn/Consumer/Software/GIGABYTE-Control-Center/)
 * `Armoury Crate` [[asus.com.cn]](https://www.asus.com.cn/supportonly/armoury%20crate/helpdesk_download/)
-* `Driver Booster` [[mpyit.com]](https://mpyit.com/driverbooster11.html)
+* `Driver Booster` [[mpyit.com]](https://mpyit.com/driverbooster11.html) / [[iobit.com]](https://www.iobit.com/en/driver-booster)
 * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
   * `Trident Z 控制台` [[gskill.com]](https://www.gskill.com/cn/download/1502180912/1551690847/Trident-Z-Z5-Ripjaws-M5-RGB-%E7%B3%BB%E5%88%97-%E5%B9%BB%E5%85%89%E6%88%9F-%E7%84%B0%E5%85%89%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E5%B0%8A%E7%88%B5%E7%89%88-%E5%B9%BB%E9%94%8B%E6%88%9F-%E7%84%B0%E9%94%8B%E6%88%9F-%E7%84%B0%E5%88%83)
   * `OpenRGB` [[openrgb.org]](https://openrgb.org/#downloads)
@@ -275,6 +275,7 @@
 `游戏录制` `关`
     * `备用设备切换` `关`
 * `MelGeek Hive` [[melgeek.cn]](https://www.melgeek.cn/download)
+* `DrunkDeer Keybroad Driver` [[drunkdeer-antler.cn]](https://drunkdeer-antler.cn/)
 * `FL Esports` [[flesports.com]](http://www.flesports.com/down/)
 * `ATK V HUB` [[desktop.vxe.com]](https://desktop.vxe.com/home)
 * `G HUB` [[logitechg.com]](https://www.logitechg.com/zh-cn/innovation/g-hub.html)
@@ -293,7 +294,7 @@
   * `.NET Framework 4.8.1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net481)
   * `.NET Framework 4.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net40)
   * `.NET Framework 3.5 SP1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net35-sp1)
-    * `.NET Core 3.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/3.1)
+    * `.NET Core 3.1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/3.1)
 * `Visual C++`
   * `Visual Studio 2015-2022` [[learn.microsoft.com]](https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
   * `Visual Studio 2013` [[support.microsoft.com]](https://support.microsoft.com/zh-cn/topic/update-for-visual-c-2013-redistributable-package-d8ccd6a5-4e26-c290-517b-8da6cfdf4f10)
@@ -311,7 +312,7 @@
   * `F12`  
 `Console`
     ```
-    allow pasting
+    允许粘贴
     ```
   * `Parallel downloading`
     ```
@@ -398,7 +399,6 @@
 
 [回到顶部](#catalog)
 ## 个性化
-* `WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
 * `HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
 * `设置`  
 `个性化`

@@ -1,6 +1,6 @@
 * `特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
   * `RiotLocalMachine.ini`
-    `C:\Users\17293\AppData\Local\VALORANT\Saved\Config\Windows\RiotLocalMachine.ini`
+    `C:\Users\a1729\AppData\Local\VALORANT\Saved\Config\Windows\RiotLocalMachine.ini`
     ![](/windows/games/valorant/屏幕截图%202024-06-10%20025801.png)
   * 编辑`GameUserSettings.ini`
     ```
