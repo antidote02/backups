@@ -51,26 +51,7 @@
     * `扩展`
       * `Horizon Theme` [[marketplace.visualstudio.com]](https://marketplace.visualstudio.com/items?itemName=alexandernanberg.horizon-theme-vscode)
 * `电影和电视`
-  * `PotPlayer` [[potplayer.tv]](https://potplayer.tv/?lang=zh_CN)  
-    * `参数选项`
-      * `基本`
-`多重处理方式：` `单个进程即选即播`
-        * `鼠标`  
-`左键单击：` `播放|暂停`  
-`左键双击：` `全屏|默认尺寸`
-      * `滤镜`
-        * `视频解码器`  
-`内置解码器/DXVA 设置`
-          * `使用硬件加速(DXVA)`  
-            * `优先使用 D3D11 DXVA`  
-          * `使用 FFmpeg DXVA 解码器`
-      * `视频`  
-        * `视频渲染器：` `内置 Direct3D 11 视频渲染器`  
-        * `Direct3D 输出设备：`
-      * `声音`  
-`规格化/混响`
-`播放时开启规格化` `关`
-    * `H/W`
+  * [Potplayer](/windows/program-files/potplayer.md)
 * `QQ` [[im.qq.com]](https://im.qq.com/pcqq/index.shtml)
   * [搜狗输入法](/windows/program-files/sogou.md)
   * `设置`  
@@ -111,9 +92,9 @@
 `每个 torrent 最大连接数：` `500`
     * `BitTorrent`  
 `Auto matically update public trackers list:` `开` [[trackerslist.com]](https://trackerslist.com/#/zh)
-    ```
-    https://cf.trackerslist.com/all.txt
-    ```
+      ```
+      https://cf.trackerslist.com/all.txt
+      ```
 
 [回到顶部](#catalog)
 ## Multimedia

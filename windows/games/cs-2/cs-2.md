@@ -9,7 +9,7 @@
 `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg`
     * [wdv3.cfg](/windows/games/cs-2/wdv3.cfg) [[bilibili.com]](https://www.bilibili.com/video/BV18H4y137QZ/?vd_source=85eeb932842b5b15ade257caaa4a9ba8)
     * [nb.cfg](/windows/games/cs-2/nb.cfg) [[bilibili.com]](https://www.bilibili.com/video/BV1vt421K77g/?vd_source=85eeb932842b5b15ade257caaa4a9ba8)
-    * [jiting.cfg](/windows/games/cs-2/jiting.cfg) [[bilibili.com]](https://www.bilibili.com/video/BV1SG411y7HT/?vd_source=3e550345beb8ade4a8060e36c79b04bc)
+    * [jt.cfg](/windows/games/cs-2/jt.cfg) [[bilibili.com]](https://www.bilibili.com/opus/855353955470802962)
   * `各项设置菜单`  
 `视频设置`
 
