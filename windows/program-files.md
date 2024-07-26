@@ -5,7 +5,7 @@
 - [Multimedia](#multimedia)
 - [Drivers](#drivers)
 - [Remote](#remote)
-- [Shell]()
+- [Shell](#shell)
 ## Program Files
 * `联想应用商店` [[lestore.lenovo.com]](https://lestore.lenovo.com/)  
 `C:\Program Files (x86)\Lenovo\LeAppStore`
@@ -101,10 +101,12 @@
   * `哔哩哔哩` [[app.bilibili.com]](https://app.bilibili.com/)
   * `弹弹play` [[dandanplay.com]](https://www.dandanplay.com/)
     * [bangumi](/windows/program-files/bangumi.md)
-  * `real-url` [[github.com]](https://github.com/wbt5/real-url)
+  * `Lossless Scaling` [[store.steampowered.com]](https://store.steampowered.com/app/993090/Lossless_Scaling/)
+    * `果核剥壳` [[ghxi.com]](https://www.ghxi.com/losslessscaling.html)
   * `网易云音乐` [[music.163.com]](https://music.163.com/#/download)
 * `Downloads`
   * `M3u8Downloader` [[github.com]](https://github.com/Harlan-H/M3u8Downloader_H/releases)
+  * `real-url` [[github.com]](https://github.com/wbt5/real-url)
   * `res-downloader` [[github.com]](https://github.com/putyy/res-downloader/releases)
 * `Streaming`
   * `OBS Studio` [[store.steampowered.com]](https://store.steampowered.com/app/1905180/OBS_Studio/)
