@@ -1,14 +1,14 @@
 * `Adobe` [[w14.monkrus.ws]](https://w14.monkrus.ws/)
+  * `Acrobat Pro` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/07/adobe-acrobat-pro-2024-v24220965-x64.html)
+  * `Photoshop` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/07/adobe-photoshop-2024-v2511-multilingual.html)
   * `Media Encoder` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/06/adobe-media-encoder-2024-v245.html)
   * [After Effects](/windows/program-files/adobe/afterfx.md)
   * `Premiere Pro` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/06/adobe-premiere-pro-2024-v245.html)
-  * `Acrobat Pro` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/06/adobe-acrobat-pro-2024-v24220857-x64.html)
   * `Audition` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-audition-2024-v2441-multilingual.html)
-  * `Photoshop` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-photoshop-2024-v259-multilingual.html)
-    * `预设`
-      * `Jable`
-        * `AV1` [EPR](/windows/program-files/adobe/J%20900.epr)
-        * `HEVC` [EPR](/windows/program-files/adobe/j%20hevc%201100.epr)
+  * `预设`
+    * `Jable`
+      * `AV1` [EPR](/windows/program-files/adobe/J%20900.epr)
+      * `HEVC` [EPR](/windows/program-files/adobe/j%20hevc%201100.epr)
   * `扩展`
     * `Voukoder` [[voukoder.org]](https://www.voukoder.org/)
     * `Sapphire` [[cgzy.net]](https://www.cgzy.net/36242.html) $_{2024/5/16}$
