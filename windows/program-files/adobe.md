@@ -8,7 +8,7 @@
   * `预设`
     * `Jable`
       * `AV1` [EPR](/windows/program-files/adobe/J%20900.epr)
-      * `HEVC` [EPR](/windows/program-files/adobe/j%20hevc%201100.epr)
+      * `HEVC` [EPR](/windows/program-files/adobe/j%20hevc%201000.epr)
   * `扩展`
     * `Voukoder` [[voukoder.org]](https://www.voukoder.org/)
     * `Sapphire` [[cgzy.net]](https://www.cgzy.net/36242.html) $_{2024/5/16}$
