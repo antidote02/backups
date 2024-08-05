@@ -274,12 +274,26 @@
     * `录制和声音`  
 `游戏录制` `关`
     * `备用设备切换` `关`
-* `MelGeek Hive` [[melgeek.cn]](https://www.melgeek.cn/download)
 * `DrunkDeer Keybroad Driver` [[drunkdeer-antler.cn]](https://drunkdeer-antler.cn/)
-* `FL Esports` [[flesports.com]](http://www.flesports.com/down/)
+* `MelGeek Hive` [[melgeek.cn]](https://www.melgeek.cn/download)
 * `ATK V HUB` [[desktop.vxe.com]](https://desktop.vxe.com/home)
+* `FL Esports` [[flesports.com]](http://www.flesports.com/down/)
 * `G HUB` [[logitechg.com]](https://www.logitechg.com/zh-cn/innovation/g-hub.html)
-* `DDU` [[wagnardsoft.com]](https://www.wagnardsoft.com/display-driver-uninstaller-DDU)
+* `图吧工具箱`
+  * `CPU-Z` [[cpuid.com]](https://www.cpuid.com/softwares/cpu-z.html)  
+`C:\图吧工具箱\图吧工具箱202407\tools\处理器工具\CPUZ`
+    * 删除`cpuz_x64.exe`
+    * `cpuz.exe`重命名`cpuz_x64.exe`
+  * `GPU-Z` [[techpowerup.com]](https://www.techpowerup.com/download/techpowerup-gpu-z/)  
+`C:\图吧工具箱\图吧工具箱202407\tools\显卡工具\GPUZ`
+    * 删除`GPU-Z.exe`
+    * `GPU-Z.2.59.0.exe`重命名`GPU-Z.exe`
+  * `FurMark` [[geeks3d.com]](https://www.geeks3d.com/furmark/downloads/)  
+`C:\图吧工具箱\图吧工具箱202407\tools\烤鸡工具\FurMark_win64`
+  * `DDU` [[wagnardsoft.com]](https://www.wagnardsoft.com/display-driver-uninstaller-DDU)  
+`C:\图吧工具箱\图吧工具箱202407\tools\显卡工具\DDU`
+  * `DiskInfo` [[crystalmark.info]](https://crystalmark.info/en/software/crystaldiskinfo/)  
+`C:\图吧工具箱\图吧工具箱202407\tools\硬盘工具\CrystalDiskInfo`
 * [Android](/android/android.md)
 
 [回到顶部](#catalog)
