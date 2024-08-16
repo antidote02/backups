@@ -4,6 +4,7 @@
 ## Games
   Games||Downloads|Date
   -|-|-|-
+  黑神话：悟空|Black Myth: Wukong|
   对马岛之魂：导演剪辑版|Ghost of Tsushima DIRECTOR'S CUT|[Ghost of Tsushima DIRECTOR'S CUT](/windows/games/repack/ghost-of-tsushima-director's-cut.md)|2024/5/16
   森林之子|Sons Of The Forest|[Son Of The Forest](/windows/games/repack/sons-of-the-forest.md)|2024/2/23
   全面战争：法老|Total War: PHARAOH|[Total War: PHARAOH]()
