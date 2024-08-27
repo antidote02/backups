@@ -37,6 +37,7 @@
   * `幻兽帕鲁`
 * `Mod`
   * `WeMod` [[wemod.com]](https://www.wemod.com/zh)
+  * `Cheat Engine` [[52pojie.cn]](https://www.52pojie.cn/thread-1844927-1-1.html)
 * `地平线 西之绝境` [[store.steampowered.com]](https://store.steampowered.com/app/2420110/_/)
 * `刺客信条：幻景` [[zh-cn.ubisoft.com]](https://zh-cn.ubisoft.com/acm/)
 * `霍格沃茨之遗` [[https://store.steampowered.com/app/990080/_/]](https://store.steampowered.com/app/990080/_/)
