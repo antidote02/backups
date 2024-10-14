@@ -98,4 +98,3 @@
     * `Dynamic Night Time` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/2072)
     * `Lookup Anything` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/541)
     * `NPC Map Locations` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/239)
-    * `Gift Taste Helper` [[github.com]](https://github.com/tstaples/GiftTasteHelper/releases)
