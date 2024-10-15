@@ -77,6 +77,7 @@
     *.*.*.*:*2 #*2=remotePort
     ```
   * `Mods`
+    * `Stardrop` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/10455)
     * `Generic Mod Config Menu` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/5098)
     * `UIInfoSuite2` [[github.com]](https://github.com/Annosz/UIInfoSuite2/releases)
     * `Gift Taste Helper Continued x2` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/21001)
@@ -98,3 +99,5 @@
     * `Dynamic Night Time` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/2072)
     * `Lookup Anything` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/541)
     * `NPC Map Locations` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/239)
+    * `CJB Item Spawner` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/93)
+    * `CJB Cheats Menu` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/4)
