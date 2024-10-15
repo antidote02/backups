@@ -43,10 +43,10 @@
       type = "udp"
       localIP = "127.0.0.1"
       localPort = 24642
-      remotePort = *2 #1~65535 ≠localPort
+      remotePort = *2 # *2 = 1~65535 ≠ localPort
     * 编辑`frps.toml`
       ```
-      bindPort = * # =serverPort
+      bindPort = *1 # *1 = serverPort
       ```
     * `远程桌面连接`
       * 复制`frp`  
@@ -74,12 +74,13 @@
 `合作`  
 `加入局域网游戏`
     ```
-    *.*.*.*:*2 #*2=remotePort
+    *.*.*.*:*2 # *2 = remotePort
     ```
   * `Mods`
     * `Stardrop` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/10455)
     * `Generic Mod Config Menu` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/5098)
     * `UIInfoSuite2` [[github.com]](https://github.com/Annosz/UIInfoSuite2/releases)
+    * `Better Cabin` [[github.com]](https://www.nexusmods.com/stardewvalley/mods/25368)
     * `Gift Taste Helper Continued x2` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/21001)
     * `Fishing Info Overlays` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/8970)
     * `Visible Fish` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/8897)
