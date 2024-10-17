@@ -4,19 +4,8 @@
 * Mods
   * `dlssg-to-fsr3` [[nexusmods.com]](https://www.nexusmods.com/site/mods/738?tab=files)  
 `C:\Program Files (x86)\Steam\steamapps\common\Black Myth Wukong Benchmark Tool\b1\Binaries\Win64`
-  * `SPF` [[nexusmods.com]](https://www.nexusmods.com/blackmythwukong/mods/13?tab=files)
-    * 新建文件夹`~mods`  
-`C:\Program Files (x86)\Steam\steamapps\common\BlackMythWukong\b1\Content\Paks\~mods`
-    * 复制`pakchunk99-Mods_CustomMod_P.pak`  
-`C:\Program Files (x86)\Steam\steamapps\common\BlackMythWukong\b1\Content\Paks\~mods\pakchunk99-Mods_CustomMod_P.pak`
-    * `Steam`  
-`库`  
-`黑神话：悟空`  
-`属性`  
-`启动选项`
-      ```
-      -fileopenlog
-      ```
+  * `SPF` [[nexusmods.com]](https://www.nexusmods.com/blackmythwukong/mods/13?tab=files)  
+`C:\Users\a1729\AppData\Local\b1\Saved\Config\Windows\Engine.ini`
 * `设置`  
 `画质`
   画质|自定义
