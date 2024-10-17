@@ -1,6 +1,5 @@
 ## 黑神话：悟空
 * `Steam`
-  * `黑神话：悟空 性能测试工具` [[store.steampowered.com]](https://store.steampowered.com/app/3132990/_/)
   *  [[store.steampowered.com]](https://store.steampowered.com/app/2358720/_/)
 * Mods
   * `dlssg-to-fsr3` [[nexusmods.com]](https://www.nexusmods.com/site/mods/738?tab=files)  

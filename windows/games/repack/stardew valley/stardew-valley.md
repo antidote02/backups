@@ -1,5 +1,6 @@
 ## 星露谷物语
 * `Steam` [[store.steampowered.com]](https://store.steampowered.com/app/413150/Stardew_Valley/)
+* `Online Fix` [[online-fix.me]](https://online-fix.me/games/sandbox/16274-stardew-valley-po-seti.html)
   * `开始游戏`
   * `Stardew Valley`
     * `中文`
