@@ -81,6 +81,9 @@
     * `Generic Mod Config Menu` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/5098)
     * `UIInfoSuite2` [[github.com]](https://github.com/Annosz/UIInfoSuite2/releases)
     * `Better Cabin` [[github.com]](https://www.nexusmods.com/stardewvalley/mods/25368)
+    * `Lazy Mod` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/22826)  
+编辑[config.json](/windows/games/repack/stardew%20valley/lazy%20mod/config.json)  
+`C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\LazyMod\config.json`
     * `Gift Taste Helper Continued x2` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/21001)
     * `Fishing Info Overlays` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/8970)
     * `Visible Fish` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/8897)
