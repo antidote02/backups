@@ -97,6 +97,7 @@
         * `Elle's New Horses` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3169)
         * `Elle's New Coop Animals` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3168)
         * `Elle's New Barn Animals` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3167)
+        * `Ladder Locator` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3094)
         * `Elle's Seasonal Buildings` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/1993)
         * `Elle's Grass Replacement` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/1967)
         * `Elle's Town Animals` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/1965)
