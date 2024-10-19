@@ -104,6 +104,9 @@
     * `Skip Fishing Minigame` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/2697)
     * `Dynamic Night Time` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/2072)
     * `Lookup Anything` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/541)
+    * `Skip Intro` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/533)
     * `NPC Map Locations` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/239)
     * `CJB Item Spawner` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/93)
     * `CJB Cheats Menu` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/4)
+  * `Portraits`
+    * `Fisharia anime portraits` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/10442)
