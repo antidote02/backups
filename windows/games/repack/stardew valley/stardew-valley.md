@@ -68,7 +68,16 @@
     * 编辑`config.json`  
 `C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\UnlimitedPlayers\config.json`
       ```
+      {
         "PlayerLimit": 10,
+        "ClientMods": {
+          "Denylist": [
+            "CJBok.CheatsMenu",
+            "Ryaon.JunimoKartCheater",
+            "CJBok.ItemSpawner"
+          ]
+        }
+      }
       ```
   * 客户端  
 `Stardew Valley`  
