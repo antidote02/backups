@@ -1,10 +1,11 @@
 ## 黑神话：悟空
 * `Steam`
   *  [[store.steampowered.com]](https://store.steampowered.com/app/2358720/_/)
+* `Game Repack` [[game-repack.site]](https://game-repack.site/2024/10/03/black-myth-wukong/)
 * Mods
-  * `dlssg-to-fsr3` [[nexusmods.com]](https://www.nexusmods.com/site/mods/738?tab=files)  
+  * `dlssg-to-fsr3` [[nexusmods.com]](https://www.nexusmods.com/site/mods/738)  
 `C:\Program Files (x86)\Steam\steamapps\common\Black Myth Wukong Benchmark Tool\b1\Binaries\Win64`
-  * `SPF` [[nexusmods.com]](https://www.nexusmods.com/blackmythwukong/mods/13?tab=files)  
+  * `SPF` [[nexusmods.com]](https://www.nexusmods.com/blackmythwukong/mods/13)  
 `C:\Users\a1729\AppData\Local\b1\Saved\Config\Windows\Engine.ini`
 * `设置`  
 `画质`
