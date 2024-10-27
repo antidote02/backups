@@ -112,6 +112,7 @@
         * `Elle's Town Animals` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/1965)
     * `Skip Fishing Minigame` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/2697)
     * `Dynamic Night Time` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/2072)
+    * `Automate` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/1063)
     * `Lookup Anything` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/541)
     * `Skip Intro` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/533)
     * `NPC Map Locations` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/239)
