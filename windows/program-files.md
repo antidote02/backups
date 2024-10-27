@@ -99,6 +99,7 @@
 ## Multimedia
 * `Multimedia`
   * `哔哩哔哩` [[app.bilibili.com]](https://app.bilibili.com/)
+    * `Bilidown` [[zhouql.vip]](https://zhouql.vip/bilibili/pc/)
   * `弹弹play` [[dandanplay.com]](https://www.dandanplay.com/)
     * [bangumi](/windows/program-files/bangumi.md)
   * `Lossless Scaling` [[store.steampowered.com]](https://store.steampowered.com/app/993090/Lossless_Scaling/)
