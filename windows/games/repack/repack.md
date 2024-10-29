@@ -21,6 +21,7 @@
   胡闹厨房 全都好吃|Overcooked! All Can Eat|[Overcooked! All Can Eat](/windows/games/repack/overcooked!-all-can-eat.md)|2021/3/24
   赛博朋克2077|Cyberpunk 2077|[Cyberpunk 2077](/windows/games/repack/cyberpunk-2077.md)|2020/12/10
   尘埃5|DIRT 5|[DIRT 5](/windows/games/repack/dirt-5.md)|2020/11/6
+  一起开火车！|Unrailed!|[Unrailed!](/windows/games/repack/unrailed!.md)|2020/9/24
   地铁：离乡|Metro Exodus|[Metro Exodus](/windows/games/repack/metro-exodus.md)|2020/2/15
   荒野大镖客：救赎2|Red Dead Redemption 2|[Red Dead Redemption 2](/windows/games/repack/red-dead-redemption-2.md)|2019/12/6
   战争机器5|Gears 5|[Gears 5](/windows/games/repack/gears-5.md)|2019/9/10
