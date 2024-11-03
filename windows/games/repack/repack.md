@@ -9,6 +9,7 @@
   骗子酒吧|Liar's Bar|[Liar's Bar](/windows/games/repack/liar's-bar.md)|2024/10/2
   PICO PARK 2|PICO PARK 2|[PICO PARK 2](/windows/games/repack/pico-park-2.md)|2024/9/12
   黑神话：悟空|Black Myth: Wukong|[Black Myth: Wukong](/windows/games/repack/black-myth-wukong.md)|2024/8/20
+  犯罪现场清洁工|Crime Scene Cleaner|[Crime Scene Cleaner](/windows/games/repack/crime-scene-cleaner.md)|2024/8/14
   对马岛之魂：导演剪辑版|Ghost of Tsushima DIRECTOR'S CUT|[Ghost of Tsushima DIRECTOR'S CUT](/windows/games/repack/ghost-of-tsushima-director's-cut.md)|2024/5/16
   森林之子|Sons Of The Forest|[Son Of The Forest](/windows/games/repack/sons-of-the-forest.md)|2024/2/23
   杯杯倒满|Feed the Cups|[Feed the Cups](/windows/games/repack/feed-the-cups.md)|2024/2/21
