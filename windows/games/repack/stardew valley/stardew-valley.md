@@ -28,7 +28,6 @@
 `C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\Stardew Multiplayer Server Mod\config.json`
       ```
       {
-        "petname": "*",
         "lockPlayerChests": false,
       }
     * `PowerShell`
@@ -38,16 +37,16 @@
     * 编辑`frpc.toml`
       ```
       serverAddr = "*.*.*.*"
-      serverPort = *1 #1~65535
+      serverPort = *1 //1~65535
 
       name = "*"
       type = "udp"
       localIP = "127.0.0.1"
       localPort = 24642
-      remotePort = *2 # *2 = 1~65535 ≠ localPort
+      remotePort = *2 //*2 = 1~65535 ≠ localPort
     * 编辑`frps.toml`
       ```
-      bindPort = *1 # *1 = serverPort
+      bindPort = *1 //*1 = serverPort
       ```
     * `远程桌面连接`
       * 复制`frp`  
@@ -84,38 +83,35 @@
 `合作`  
 `加入局域网游戏`
     ```
-    *.*.*.*:*2 # *2 = remotePort
+    *.*.*.*:*2 //*2 = remotePort
     ```
   * `Mods`
     * `Stardrop` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/10455)
     * `Generic Mod Config Menu` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/5098)
-    * `UIInfoSuite2` [[github.com]](https://github.com/Annosz/UIInfoSuite2/releases)
-    * `Better Cabin` [[github.com]](https://www.nexusmods.com/stardewvalley/mods/25368)
-    * `Lazy Mod` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/22826)  
-编辑[config.json](/windows/games/repack/stardew%20valley/lazy%20mod/config.json)  
+    * `UI Info Suite 2` [[github.com]](https://github.com/Annosz/UIInfoSuite2/releases)
+    * `Better Cabin` [[github.com]](https://www.nexusmods.com/stardewvalley/mods/25368) 
 `C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\LazyMod\config.json`
-    * `Gift Taste Helper Continued x2` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/21001)
     * `Fishing Info Overlays` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/8970)
     * `Visible Fish` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/8897)
-    * `Animated Fish` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/5735)
+    * `Event Lookup` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/8505)
     * `Content Patcher` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/1915)
-      * `Seasonal Outfits` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/5450)
       * `Elle`
         * `Elle's Cat Replacements` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3872)
         * `Elle's Dog Replacements` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3871)
         * `Elle's New Horses` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3169)
         * `Elle's New Coop Animals` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3168)
         * `Elle's New Barn Animals` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3167)
-        * `Ladder Locator` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3094)
         * `Elle's Seasonal Buildings` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/1993)
         * `Elle's Grass Replacement` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/1967)
         * `Elle's Town Animals` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/1965)
+    * `Ladder Locator` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/3094)
     * `Skip Fishing Minigame` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/2697)
     * `Dynamic Night Time` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/2072)
     * `Automate` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/1063)
     * `Lookup Anything` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/541)
     * `Skip Intro` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/533)
     * `NPC Map Locations` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/239)
+    * `TimeSpeed` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/169)
     * `CJB Item Spawner` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/93)
     * `CJB Cheats Menu` [[nexusmods.com]](https://www.nexusmods.com/stardewvalley/mods/4)
   * `Portraits`
