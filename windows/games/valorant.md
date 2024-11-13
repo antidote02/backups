@@ -1,9 +1,31 @@
 * `特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
   * `RiotLocalMachine.ini`
     `C:\Users\a1729\AppData\Local\VALORANT\Saved\Config\Windows\RiotLocalMachine.ini`
-    ![](/windows/games/valorant/屏幕截图%202024-06-10%20025801.png)
+    ```
+    [UserInfo]
+    LastKnownUser=
+    ```
   * 编辑`GameUserSettings.ini`
     ```
+    [/Script/ShooterGame.ShooterGameUserSettings]
+    DefaultMonitorDeviceID="MONITOR\\*"
+    *
+    bShouldLetterbox=False
+    bLastConfirmedShouldLetterbox=False
+    *
+    ResolutionSizeX=1440
+    ResolutionSizeY=1080
+    LastUserConfirmedResolutionSizeX=1440
+    LastUserConfirmedResolutionSizeY=1080
+    *
+    LastConfirmedFullscreenMode=2
+    PreferredFullscreenMode=2
+    *
+    HDRDisplayOutputNits=1000
+    FullscreenMode=2
+
+    [/Script/Engine.GameUserSettings]
+    *
     sg.ViewDistanceQuality=0
     sg.AntiAliasingQuality=3
     sg.ShadowQuality=0
@@ -13,7 +35,7 @@
     sg.FoliageQuality=0
     sg.ShadingQuality=0
     ```
-    `C:\Users\17293\AppData\Local\VALORANT\Saved\Config\02b7512c-d600-541e-b95b-93f1ed746685-ap\Windows\GameUserSettings.ini`
+    `C:\Users\17293\AppData\Local\VALORANT\Saved\Config\*\Windows\GameUserSettings.ini`
     * `GameUserSettings.ini`  
 `属性`  
 `只读`
@@ -21,9 +43,18 @@
     * `无畏契约`
       * `RiotLocalMachine.ini`  
 `C:\WeGameApps\rail_apps\无畏契约(2001715)\live\ShooterGame\Saved\Config\Windows\RiotLocalMachine.ini`
-        ![](/windows/games/valorant/屏幕截图%202024-06-10%20030131.png)
       * 编辑`GameUserSettings.ini`
         ```
+        bShouldLetterbox=False
+        bLastConfirmedShouldLetterbox=False
+        ResolutionSizeX=1440
+        ResolutionSizeY=1080
+        LastUserConfirmedResolutionSizeX=1440
+        LastUserConfirmedResolutionSizeY=1080
+        LastConfirmedFullscreenMode=2
+        HDRDisplayOutputNits=1000
+        FullscreenMode=2
+
         sg.ViewDistanceQuality=0
         sg.AntiAliasingQuality=3
         sg.ShadowQuality=0
