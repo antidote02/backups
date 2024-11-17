@@ -274,7 +274,8 @@
     * `录制和声音`  
 `游戏录制` `关`
     * `备用设备切换` `关`
-* `DrunkDeer Keybroad Driver` [[drunkdeer-antler.cn]](https://drunkdeer-antler.cn/)
+* `醉鹿驱动` [[beta.drunkdeer-antler.com]](https://beta.drunkdeer-antler.com/)  
+[配置文件](/windows/配置文件1.json)
 * `MelGeek Hive` [[melgeek.cn]](https://www.melgeek.cn/download)
 * `ATK V HUB` [[desktop.vxe.com]](https://desktop.vxe.com/home)
 * `FL Esports` [[flesports.com]](http://www.flesports.com/down/)
