@@ -29,6 +29,15 @@
 
     get-executionpolicy -list
     ```
+  * `Reg`
+    ```
+    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FeatureManagement\Overrides\8\2897279119"
+    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FeatureManagement\Overrides\8\2897279119" /v EnabledState /t REG_DWORD /d 00000001 /f
+    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FeatureManagement\Overrides\8\2897279119" /v EnabledStateOptions /t REG_DWORD /d 00000000 /f
+    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FeatureManagement\Overrides\8\2897279119" /v Variant /t REG_DWORD /d 00000000 /f
+    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FeatureManagement\Overrides\8\2897279119" /v VariantPayload /t REG_DWORD /d 00000000 /f
+    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FeatureManagement\Overrides\8\2897279119" /v VariantPayloadKind /t REG_DWORD /d 00000000 /f
+    ```
   * `Scoop`
     ```
     Invoke-RestMethod -Uri https://get.scoop.sh -Proxy 'http://localhost:7897' | Invoke-Expression

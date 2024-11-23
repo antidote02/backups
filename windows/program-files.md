@@ -116,6 +116,18 @@
 * `Edit`
   * `HandBrake` [[handbrake.fr]](https://handbrake.fr/)
   * [Adobe](/windows/program-files/adobe.md)
+  * `Vegas Pro 22` [[karanpc.com]](https://karanpc.com/magix-vegas-pro-22/)
+    * `注册表编辑器`  
+修改`ULangID`  
+`计算机\HKEY_LOCAL_MACHINE\SOFTWARE\VEGAS Creative Software\VEGAS Pro\22.0\Lang`
+      * `数据数值：`
+        ```
+        804
+        ```
+      * `基数`  
+`十六进制`
+    * 重命名`local_de_DE.cfg` `local_zh_CN.cfg`  
+`C:\Program Files\VEGAS\VEGAS Pro 22.0\language\local_zh_CN.cfg`
   * [视频码率计算器](/windows/program-files/码率计算器.html) [[bilibili.com]](https://www.bilibili.com/video/BV1Np4y197nb/?vd_source=85eeb932842b5b15ade257caaa4a9ba8)
 
 [回到顶部](#catalog)

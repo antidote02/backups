@@ -19,16 +19,16 @@
 [回到顶部](#catalog)
 ## Updates
 * `JDK Azul Zulu` [[azul.com]](https://www.azul.com/downloads/?os=windows&architecture=x86-64-bit&package=jdk#zulu)
-* `ESurfingDialer` [[github.com]](https://github.com/Rsplwe/ESurfingDialer/releases)
+* `ESurfingDialer` [[github.com]](https://github.com/Rsplwe/ESurfingDialer/releases)  
+`C:\Program Files\ESurfingDialer-1.7.0-all`
   * 新建文件夹`ESurfingDialer`  
-    `C:\Program Files\ESurfingDialer\ESurfingDialer-1.5.0-all.jar`
+    `C:\Program Files\ESurfingDialer\ESurfingDialer-1.7.0-all.jar`
   * 新建`ESurfingDialer.bat`
-  * 编辑`ESurfingDialer.bat`
     ```
-    java -jar ESurfingDialer-1.5.0-all.jar -u 请输入账号 -p 请输入密码
+    java -jar ESurfingDialer-1.7.0-all.jar -u 请输入账号 -p 请输入密码
     ```
-  * 创建快捷方式`ESurfingDialer`  
-    `C:\Users\17293\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ESurfingDialer`
+  * 创建快捷方式`ESurfingDialer-1.7.0-all`  
+    `C:\Users\17293\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ESurfingDialer-1.7.0-all`
 * `控制面板`
     * `Windows Defender 防火墙`  
 `高级设置`/`高级安全 Windows Defender 防火墙`  
@@ -351,7 +351,6 @@
     * `猫抓` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb)
     * `BewlyBewly` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp)
     * `ACG助手` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/acg%E5%8A%A9%E6%89%8B%EF%BC%9Abilibili-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh)
-    * `B站下载助手` [[csser.top]](https://csser.top/)
     * `购物党自动比价助手` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)
     * `SteamDB` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
     * `全网VIP视频免费破解` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/438657-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3-%E4%B8%93%E6%B3%A8%E4%B8%80%E4%B8%AA%E8%84%9A%E6%9C%AC%E5%8F%AA%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%E4%BB%B6)
