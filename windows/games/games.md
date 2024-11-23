@@ -71,5 +71,27 @@
   * `MAA` [[github.com]](https://github.com/MaaAssistantArknights/MaaRelease/releases)  
 `企鹅物流汇报ID`  
 `906404004`
+    * 新建`MAA.bat`
+      ```
+      @echo off
+      setlocal enabledelayedexpansion
+
+      set "baseDir=C:\Program Files"
+      set "shortcutName=MAA"
+      set "shortcutPath=%USERPROFILE%\Desktop\%shortcutName%.lnk"
+
+      for /d %%D in ("%baseDir%\MAA*") do (
+          set "exePath=%%D\MAA.exe"
+          if exist "!exePath!" (
+              if exist "%shortcutPath%" del "%shortcutPath%"
+              powershell -Command "$s=(New-Object -COM WScript.Shell).CreateShortcut('%shortcutPath%'); $s.TargetPath='!exePath!'; $s.WorkingDirectory='%%D'; $s.Save()"
+              exit /b
+          )
+      )
+
+      echo 未找到 MAA.exe。
+      pause
+      ```
+      `C:\Program Files\MAA*\MAA.bat`
 
 [回到顶部](#catalog)
