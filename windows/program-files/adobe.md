@@ -7,8 +7,7 @@
   * `Audition` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/05/adobe-audition-2024-v2441-multilingual.html)
   * `预设`
     * `Jable`
-      * `AV1` [EPR](/windows/program-files/adobe/J%20900.epr)
-      * `HEVC` [EPR](/windows/program-files/adobe/j%20hevc%201000.epr)
+      * `HEVC` [EPR](/windows/program-files/adobe/J%20700.epr)
   * `扩展`
     * `Voukoder` [[voukoder.org]](https://www.voukoder.org/)
     * `Sapphire` [[cgzy.net]](https://www.cgzy.net/36242.html) $_{2024/5/16}$
