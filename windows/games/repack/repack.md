@@ -7,6 +7,7 @@
   ||Borderlands 4|[Borderlands 4](/windows/games/repack/borderlands-4.md)|
   ||Marvel's Spider-Man 2|[Marvel's Spider-Man 2](/windows/games/repack/marvel's-spider-man-2.md)|2025/1/31
   骗子酒吧|Liar's Bar|[Liar's Bar](/windows/games/repack/liar's-bar.md)|2024/10/2
+  不要害怕 2|Don't Be Afraid 2|[Don't Be Afraid 2](/windows/games/repack/don't-be-afraid-2.md)|2024/10/28
   PICO PARK 2|PICO PARK 2|[PICO PARK 2](/windows/games/repack/pico-park-2.md)|2024/9/12
   黑神话：悟空|Black Myth: Wukong|[Black Myth: Wukong](/windows/games/repack/black-myth-wukong.md)|2024/8/20
   犯罪现场清洁工|Crime Scene Cleaner|[Crime Scene Cleaner](/windows/games/repack/crime-scene-cleaner.md)|2024/8/14
