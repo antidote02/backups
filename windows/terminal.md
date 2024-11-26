@@ -76,14 +76,10 @@
 
     scoop bucket add games
 
-    scoop bucket add dorado https://github.com/chawyehsu/dorado
-
     scoop update -k *
 
     scoop cache rm *
     ```
-  * [AList](/terminal/alist.md)
-  * [FFmpeg](/terminal/ffmpeg.md)
   * `cURL`
     ```
     scoop install -k curl
@@ -92,6 +88,9 @@
 
     curl 4.ipw.cn
     ```
+  * [WLAN](/terminal/wlan.md)
+  * [AList](/terminal/alist.md)
+  * [FFmpeg](/terminal/ffmpeg.md)
   * `Python-alpha`
     ```
     scoop install -k python-alpha

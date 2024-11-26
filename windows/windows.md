@@ -71,6 +71,7 @@
 `获取更新`
     * [终端预览](/windows/terminal.md)
     * `计算器` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfhvn5?hl=zh-cn&gl=CN)
+    * `Windows Notepad` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=zh-cn&gl=CN)
     * `截图和草图` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=zh-cn&gl=CN)
     * `闹钟和时钟` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfj3pr?hl=zh-cn&gl=CN)
     * `Microsoft 远程桌面` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfj3ps?hl=zh-cn&gl=CN)
@@ -123,18 +124,11 @@
 `关`
     * `诊断和反馈`
       * `发送可选诊断数据` `关`
+      * `量身定制的体验`  
+`关`
       * `删除诊断数据`  
 `删除`
-      * `反馈频率` `每周一次`
-    * `搜索权限`
-      * `安全搜索`  
-`关闭`
-      * `历史记录`
-        * `关`
-        * `清除设备搜索历史纪录`
-      * `更多设置`  
-`显示搜索要点`  
-`关`
+      * `反馈频率` `从不`
 * `文件资源管理器`  
 `C:`  
 `属性`  
@@ -181,7 +175,7 @@
       * `低延时模式` `开`
       * `电源管理模式` `最高性能优先`
       * `着色器缓存大小` `无限制`
-      * `垂直同步` `关`
+      * `垂直同步` `使用 3D 应用程序设置`
     * `设置`  
 `游戏滤镜及照片模式` `关`
     * `NVIDIA 控制面板`  
@@ -194,7 +188,7 @@
         OpenGL 渲染 GPU
         Vulkan/OpenGL 现行方法|优先本机
         三重缓冲|关
-        低延时模式|开
+        低延时模式|超高
         各向异性过滤|应用程序控制的
         垂直同步|使用 3D 应用程序设置
         平滑处理 - 模式|应用程序控制的
@@ -271,7 +265,7 @@
 * `AMD Ryzen Master` [[amd.com]](https://www.amd.com/zh-cn/products/software/ryzen-master.html)
 * `GCC` [[gigabyte.cn]](https://www.gigabyte.cn/Consumer/Software/GIGABYTE-Control-Center/)
 * `Armoury Crate` [[asus.com.cn]](https://www.asus.com.cn/supportonly/armoury%20crate/helpdesk_download/)
-* `Driver Booster` [[mpyit.com]](https://mpyit.com/driverbooster11.html) / [[iobit.com]](https://www.iobit.com/en/driver-booster)
+* `驱动程序助推器` [[mpyit.com]](https://mpyit.com/driverbooster12.html) / [[iobit.com]](https://www.iobit.com/en/driver-booster)
 * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
   * `Trident Z 控制台` [[gskill.com]](https://www.gskill.com/cn/download/1502180912/1551690847/Trident-Z-Z5-Ripjaws-M5-RGB-%E7%B3%BB%E5%88%97-%E5%B9%BB%E5%85%89%E6%88%9F-%E7%84%B0%E5%85%89%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E5%B0%8A%E7%88%B5%E7%89%88-%E5%B9%BB%E9%94%8B%E6%88%9F-%E7%84%B0%E9%94%8B%E6%88%9F-%E7%84%B0%E5%88%83)
   * `OpenRGB` [[openrgb.org]](https://openrgb.org/#downloads)
@@ -348,7 +342,6 @@
       * `大人的 Greasyfork` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/23840-greasyfork-search-with-sleazyfork-results-include)
       * `Bing 中国版重定向` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/451285-bing-%E4%B8%AD%E5%9B%BD%E7%89%88%E9%87%8D%E5%AE%9A%E5%90%91)
       * `懒人专用系列视频下载` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/469521-%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8%E7%B3%BB%E5%88%97-%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD)
-      * `媒体资源嗅探及下载` [[reasyfork.org]](https://greasyfork.org/zh-CN/scripts/470154-%E5%AA%92%E4%BD%93%E8%B5%84%E6%BA%90%E5%97%85%E6%8E%A2%E5%8F%8A%E4%B8%8B%E8%BD%BD-%E6%94%AF%E6%8C%81%E4%B8%8B%E8%BD%BDm3u8%E5%92%8Cmp4%E8%A7%86%E9%A2%91%E5%92%8C%E9%9F%B3%E9%A2%91)
       * `网盘直链下载助手` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/436446-%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
         ```
         AGPL3
