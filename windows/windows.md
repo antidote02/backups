@@ -63,14 +63,21 @@
     * `Microsoft Update Catalog` [[catalog.update.microsoft.com]](https://www.catalog.update.microsoft.com/home.aspx)
 * [Clash Verge](/windows/clash-verge.md)
 * `Microsoft Store`  
-`库`  
-`检查更新`
-  * [终端预览](/windows/terminal.md)
-  * `计算器` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfhvn5?hl=zh-cn&gl=CN)
-  * `闹钟和时钟` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfj3pr?hl=zh-cn&gl=CN)
-  * `Microsoft 远程桌面` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfj3ps?hl=zh-cn&gl=CN)
-  * `TranslucentTB` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=zh-cn&gl=CN)
-  * `AV1 Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9mvzqvxjbq9v?hl=zh-cn&gl=CN)
+  * `运行`
+    ```
+    wsreset -i
+    ```
+  * `下载`  
+`获取更新`
+    * [终端预览](/windows/terminal.md)
+    * `计算器` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfhvn5?hl=zh-cn&gl=CN)
+    * `截图和草图` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=zh-cn&gl=CN)
+    * `闹钟和时钟` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfj3pr?hl=zh-cn&gl=CN)
+    * `Microsoft 远程桌面` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfj3ps?hl=zh-cn&gl=CN)
+    * `TranslucentTB` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=zh-cn&gl=CN)  
+`高级`  
+`编辑设置`
+    * `AV1 Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9mvzqvxjbq9v?hl=zh-cn&gl=CN)
 
 [回到顶部](#catalog)
 ## Settings
@@ -389,6 +396,11 @@
       `Enabled`
 * `Internet Download Manager` [[internetdownloadmanager.com]](https://www.internetdownloadmanager.com/download.html)
   * `选项`
+    * `文件类型`  
+`自动开始下载下列类型的文件：`
+      ```
+      3GP 7Z AAC ACE AIF APK ARJ ASF AVI BAT BIN BZ2 EXE GZ GZIP IMG ISO JAR LZH M4A M4V MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU OGG OGV PDF PLJ PPS PPT QT R0* R1* RA RAR RM RMVB SEA SIT SITX TAR TIF TIFF TORRENT WAV WMA WMV Z ZIP
+      ```
     * `保存至`  
 `另存为`  
 `C:\Users\17293\Downloads`

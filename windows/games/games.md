@@ -51,9 +51,6 @@
 * `只狼：影逝二度` [[store.steampowered.com]](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
 * `雀魂麻将` [[store.steampowered.com]](https://store.steampowered.com/app/1329410/MahjongSoul/)
 * [Repack](/windows/games/repack/repack.md)
-* Other
-  * `Banana` [[store.steampowered.com]](https://store.steampowered.com/app/2923300/Banana/)
-    * `鼠大侠` [[shudaxia.com]](https://www.shudaxia.com/)
 
 [回到顶部](#catalog)
 ## Android
