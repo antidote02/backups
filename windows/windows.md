@@ -71,14 +71,21 @@
 `获取更新`
     * [终端预览](/windows/terminal.md)
     * `计算器` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfhvn5?hl=zh-cn&gl=CN)
-    * `Windows Notepad` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=zh-cn&gl=CN)
     * `截图和草图` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=zh-cn&gl=CN)
     * `闹钟和时钟` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfj3pr?hl=zh-cn&gl=CN)
     * `Microsoft 远程桌面` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9wzdncrfj3ps?hl=zh-cn&gl=CN)
+    * `MPEG-2 视频扩展` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9n95q1zzpmh4?hl=zh-cn&gl=CN)
+    * `原始图像扩展` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9nctdw2w1bh8?hl=zh-cn&gl=CN)
+    * `VP9 视频扩展` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9n4d0msmp0pt?hl=zh-cn&gl=CN)
+    * `AV1 Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9mvzqvxjbq9v?hl=zh-cn&gl=CN)
+    * `Web 媒体扩展` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9n5tdp8vcmhs?hl=zh-cn&gl=CN)
+    * `HEIF 图像扩展` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9pmmsr1cgpwg?hl=zh-cn&gl=CN)
+    * `OpenCL™、OpenGL® 和 Vulkan® 兼容包` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9nqpsl29bfff?hl=zh-cn&gl=CN)
+    * `Webp 图像扩展` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9pg2dk419drg?hl=zh-cn&gl=CN)
+    * `AVC Encoder Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9pb0trcnrhfx?hl=zh-cn&gl=CN)
     * `TranslucentTB` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=zh-cn&gl=CN)  
 `高级`  
-`编辑设置`
-    * `AV1 Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9mvzqvxjbq9v?hl=zh-cn&gl=CN)
+[编辑设置](/windows/translucenttb/settings.json)
 
 [回到顶部](#catalog)
 ## Settings
@@ -90,7 +97,7 @@
       * `硬件加速 GPU 计划`  
 `开`
       * `窗口化游戏优化`  
-`关`
+`开`
     * `通知`
       * `请勿打扰` `关`
       * `自动启用“请勿打扰”`  
@@ -426,7 +433,7 @@
       * `选择你的默认 Windows 颜色` `深色`
       * `选择默认应用模式` `浅色`
     * `主题色` **<font color=#3b266d>#3b266d</font>**  
-`在标题栏和窗口边框上显示颜色` `开`
+`在标题栏和窗口边框上显示强调色` `开`
   * `主题`  
 `桌面图标设置`  
 `开`

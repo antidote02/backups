@@ -26,5 +26,6 @@
 `播放时开启规格化` `关`
 * `H/W`
 * `皮肤`
-  * `theSimpleThing` [[deviantart.com]](https://www.deviantart.com/flydonkey/art/PotPlayer-Skin-theSimpleThing-2-0-444035536)
+  * `theSimpleThing` [[deviantart.com]](https://www.deviantart.com/flydonkey/art/PotPlayer-Skin-theSimpleThing-2-0-444035536)  
+`theSimpleThing2 Black Small [no Border]`
 * [PotPlayerMini64.reg](/windows/program-files/potplayer/PotPlayerMini64.reg)

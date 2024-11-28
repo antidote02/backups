@@ -54,7 +54,7 @@
 
 [回到顶部](#catalog)
 ## Android
-* [MuMu模拟器](/windows/games/mumu/mumu.md)
+* [MuMu模拟器](/windows/games/mumu/mumu.md)  
 ### Apps
 * `InstallX` [[t.me]](https://t.me/rosan_installer)
 * `AppShare` [[app.sharess.cn]](https://app.sharess.cn/)
