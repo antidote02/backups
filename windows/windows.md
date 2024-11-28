@@ -276,12 +276,8 @@
 * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
   * `Trident Z 控制台` [[gskill.com]](https://www.gskill.com/cn/download/1502180912/1551690847/Trident-Z-Z5-Ripjaws-M5-RGB-%E7%B3%BB%E5%88%97-%E5%B9%BB%E5%85%89%E6%88%9F-%E7%84%B0%E5%85%89%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E7%9A%87%E5%AE%B6%E6%88%9F-%E5%B0%8A%E7%88%B5%E7%89%88-%E5%B9%BB%E9%94%8B%E6%88%9F-%E7%84%B0%E9%94%8B%E6%88%9F-%E7%84%B0%E5%88%83)
   * `OpenRGB` [[openrgb.org]](https://openrgb.org/#downloads)
-* `SteelSeries GG` [[cn.steelseries.com]](https://cn.steelseries.com/gg)
-  * `设置`
-    * `选择加入测试版：` `开`
-    * `录制和声音`  
-`游戏录制` `关`
-    * `备用设备切换` `关`
+  * `FxSound` [[github.com]](https://github.com/fxsound2/fxsound-app/releases)  
+[导入预设](/windows/Val.fac)
 * `醉鹿驱动` [[beta.drunkdeer-antler.com]](https://beta.drunkdeer-antler.com/)  
 [配置文件](/windows/配置文件1.json)
 * `MelGeek Hive` [[melgeek.cn]](https://www.melgeek.cn/download)
