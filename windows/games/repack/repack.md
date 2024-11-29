@@ -20,6 +20,7 @@
   孤岛惊魂6|Far Cry 6|[Far Cry 6](/windows/games/repack/far-cry-6.md)|2023/5/12
   生化危机4 重置版|Resident Evil 4|[Resident Evil 4](/windows/games/repack/resident-evil-4.md)|2023/3/24
   孤岛危机3：重置版|Crysis 3 Remastered|[Crysis 3 Remastered](/windows/games/repack/crysis-3-remastered.md)|2022/11/17
+  速速上菜！|PlateUp!|[PlateUp!](/windows/games/repack/plateup/plateup.md)|2022/8/4
   消逝的光芒2：重装上阵版|Dying Light 2 Stay Human: Reloaded Edtion|[Dying Light 2 Stay Human](/windows/games/repack/dying-light-2-stay-human-reloaded-edtion.md.md)|2022/2/4
   胡闹厨房 全都好吃|Overcooked! All Can Eat|[Overcooked! All Can Eat](/windows/games/repack/overcooked!-all-can-eat.md)|2021/3/24
   赛博朋克2077|Cyberpunk 2077|[Cyberpunk 2077](/windows/games/repack/cyberpunk-2077.md)|2020/12/10
