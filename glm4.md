@@ -1,9 +1,17 @@
 ## GLM 4
-* `PowerShell`
+* `GLM-4`  
+`PowerShell`
   ```
-  git clone https://github.com/THUDM/GLM-4.git
+  cd "C:\Program Files"
 
+  git clone https://github.com/THUDM/GLM-4.git
+  ```
+* `glm-4-9b-chat-hf`  
+`PowerShell`
+  ```
   git lfs install
 
-  git clone https://www.modelscope.cn/ZhipuAI/glm-4-9b-chat.git
+  cd "C:\Program Files"
+
+  git clone https://www.modelscope.cn/ZhipuAI/glm-4-9b-chat-hf.git
   ```
