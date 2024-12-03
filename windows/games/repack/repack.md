@@ -17,6 +17,7 @@
   刺客信条：幻景|Assassin's Creed Mirage|[Assassin's Creed Mirage](/windows/games/repack/assassin's-creed-mirage.md)|2023/10/6
   三位一体5：发条阴谋|Trine 5: A Clockwork Conspiracy|[Trine 5: A Clockwork Conspiracy](/windows/games/repack/trine-5-a-clockwork-conspicary)|2023/8/31
   胡闹搬家2|Moving Out 2|[Moving Out 2](/windows/games/repack/moving-out-2.md)|2023/8/16
+  潜水员戴夫|DAVE THE DIVER|[DAVE THE DIVER](./dave-the-diver.md)|2023/6/28
   孤岛惊魂6|Far Cry 6|[Far Cry 6](/windows/games/repack/far-cry-6.md)|2023/5/12
   生化危机4 重置版|Resident Evil 4|[Resident Evil 4](/windows/games/repack/resident-evil-4.md)|2023/3/24
   孤岛危机3：重置版|Crysis 3 Remastered|[Crysis 3 Remastered](/windows/games/repack/crysis-3-remastered.md)|2022/11/17
