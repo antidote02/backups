@@ -1,11 +1,13 @@
 ## 荒野大镖客：救赎2
 * `Steam` [[store.steampowered.com]](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
 * `Game Repack` [[game-repack.site]](https://game-repack.site/2024/05/02/red-dead-redemption-ii-ultimate-edition-portable-v1491-50-title-update-1-32-build-13773296-dlcs-included/)
+* `线上一键卡单人战局工具` [[mod.3dmgame.com]](https://mod.3dmgame.com/mod/175242)
 * `荒野大镖客：救赎2`  
 `设置`
   图形|设置
   -|-
-  NVIDIA Reflex 低延迟|已启用 + 提升
+  NVIDIA Reflex 低延迟|关闭
+  三重缓冲|关闭
   质量预设等级（注重质量）|14
   阴影质量|中
   远影质量|中
