@@ -10,6 +10,7 @@
       * `HEVC` [EPR](/windows/program-files/adobe/J%20700.epr)
   * `扩展`
     * `Voukoder` [[voukoder.org]](https://www.voukoder.org/)
+    * `RE:Vision FX` [[cgzy.net]](https://www.cgzy.net/3194.html) $_{2024/10/22}$
     * `Sapphire` [[cgzy.net]](https://www.cgzy.net/36242.html) $_{2024/5/16}$
     * `Motion Mosh` [[cgzy.net]](https://www.cgzy.net/38917.html) $_{2024/5/7}$
     * `FilmImpact Premium Video Effects` [[cgzy.net]](https://www.cgzy.net/37748.html) $_{2024/5/4}$
@@ -18,7 +19,6 @@
     * `Trapcode` [[cgzy.net]](https://www.cgzy.net/34082.html) $_{2024/4/12}$
     * `Magic Bullet Studio` [[cgzy.net]](https://www.cgzy.net/34107.html) $_{2024/4/12}$
     * `Influx` [[cgzy.net]](https://www.cgzy.net/5683.html) $_{2024/3/28}$
-    * `RE:Vision Effects` [[cgzy.net]](https://www.cgzy.net/3194.html) $_{2024/1/27}$
     * `Motion` [[cgzy.net]](https://www.cgzy.net/9462.html) $_{2024/1/12}$
     * `Deep Glow` [[cgzy.net]](https://www.cgzy.net/12040.html) $_{2023/11/24}$
     * `Film Damage Overlays` [[cgzy.net]](https://www.cgzy.net/33009.html) $_{2023/8/23}$

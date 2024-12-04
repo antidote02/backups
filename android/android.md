@@ -4,6 +4,7 @@
 - [Magisk](#magisk)
 #### Drivers
 * `fastboot一键刷入skkk_TWRP` [[coolapk.com]](https://www.coolapk.com/feed/53094534?shareKey=ODFjOTc3NDRlZDliNjY1ZTIzMzM)
+* `MiFlash` [[miuiver.com]](https://miuiver.com/miflash/)
 
 [回到顶部](#catalog)
 #### Magisk
