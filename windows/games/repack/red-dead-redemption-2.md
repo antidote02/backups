@@ -8,22 +8,35 @@
     -|-
     分辨率|
     刷新率|
-    屏幕类型|全屏
     垂直同步|关闭
     三重缓冲|关闭
     质量预设等级（注重质量）|14
     高级设置|解除锁定
     图形 API|DirectX 12
   * `Youtube` [[youtube.com]](https://www.youtube.com/watch?v=Jvd55cqB85o)
+    * `RDR2_FSR_3.1_FG.zip` [[sharemods.com]](https://sharemods.com/h7rl4syjn80d)  
+`C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2`
+      * 编辑`RDR2Upscaler.ini`
+        ```
+        mUpscaleType = 3
+
+        mDLSSPreset = 1
+        ```
     * `RDR_2_FSR_3.1.2_FG.zip` [[sharemods.com]](https://sharemods.com/72ybsz7j9nf4)  
 `C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2`
       * `EnableSignatureOverride.reg`  
 `C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\DlssOverrides\EnableSignatureOverride.reg`
-      * 编辑`nvngx.ini`
-        ```
-        OverrideNvapiDll=ture
-        ```
-* `线上一键卡单人战局工具` [[mod.3dmgame.com]](https://mod.3dmgame.com/mod/175242)
+    * `荒野大镖客：救赎2`
+      * `Home`  
+`AMD FidelityFX Contrast Adaptive Sharpening`
+      * `End`
+        * `Enable Frame Generation`
+        * `Enable HUD Fix`
+* `线上一键卡单人战局工具` [[mod.3dmgame.com]](https://mod.3dmgame.com/mod/175242)  
+`单人代码`  
+  ```
+  9272697918694
+  ```
 * `荒野大镖客：救赎2`  
 `设置`
   图形|设置
