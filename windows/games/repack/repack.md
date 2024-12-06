@@ -28,7 +28,7 @@
   尘埃5|DIRT 5|[DIRT 5](/windows/games/repack/dirt-5.md)|2020/11/6
   一起开火车！|Unrailed!|[Unrailed!](/windows/games/repack/unrailed!.md)|2020/9/24
   地铁：离乡|Metro Exodus|[Metro Exodus](/windows/games/repack/metro-exodus.md)|2020/2/15
-  荒野大镖客：救赎2|Red Dead Redemption 2|[Red Dead Redemption 2](/windows/games/repack/red-dead-redemption-2.md)|2019/12/6
+  荒野大镖客：救赎2|Red Dead Redemption 2|[Red Dead Redemption 2](./red%20dead%20redemption%202/red-dead-redemption-2.md)|2019/12/6
   战争机器5|Gears 5|[Gears 5](/windows/games/repack/gears-5.md)|2019/9/10
   古墓丽影：暗影|Shadow of the Tomb Raider: Definitive Edtion|[Shadow of the Tomb Raider: Definitive Edtion](/windows/games/repack/shadow-of-the-tomb-raider-definitive-edtion.md)|2018/9/15
   茶杯头|Cuphead|[Cuphead](/windows/games/repack/cuphead.md)|2017/9/29

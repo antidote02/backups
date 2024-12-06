@@ -1,37 +1,21 @@
 ## 荒野大镖客：救赎2
 * `Steam` [[store.steampowered.com]](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
 * `Game Repack` [[game-repack.site]](https://game-repack.site/2024/05/02/red-dead-redemption-ii-ultimate-edition-portable-v1491-50-title-update-1-32-build-13773296-dlcs-included/)
-* `RDR_2_FSR_3.1.2_FG`
-  * `荒野大镖客：救赎2`  
-`设置`
-    图形|设置
-    -|-
-    分辨率|
-    刷新率|
-    垂直同步|关闭
-    三重缓冲|关闭
-    质量预设等级（注重质量）|14
-    高级设置|解除锁定
-    图形 API|DirectX 12
-  * `Youtube` [[youtube.com]](https://www.youtube.com/watch?v=Jvd55cqB85o)
-    * `RDR2_FSR_3.1_FG.zip` [[sharemods.com]](https://sharemods.com/h7rl4syjn80d)  
+* `FSR`
+  * `RDR2_FSR_3.1_FG` [[youtube.com]](https://www.youtube.com/watch?v=Jvd55cqB85o) / [[sharemods.com]](https://sharemods.com/h7rl4syjn80d)  
 `C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2`
-      * 编辑`RDR2Upscaler.ini`
-        ```
-        mUpscaleType = 3
+    * 编辑`RDR2Upscaler.ini`
+      ```
+      [Settings]
 
-        mDLSSPreset = 1
-        ```
-    * `RDR_2_FSR_3.1.2_FG.zip` [[sharemods.com]](https://sharemods.com/72ybsz7j9nf4)  
+      mUpscaleType = 3
+
+      mDLSSPreset = 1
+      ```
+  * `OptiScaler` [[github.com]](https://github.com/cdozdil/OptiScaler/releases)  
 `C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2`
-      * `EnableSignatureOverride.reg`  
-`C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\DlssOverrides\EnableSignatureOverride.reg`
-    * `荒野大镖客：救赎2`
-      * `Home`  
-`AMD FidelityFX Contrast Adaptive Sharpening`
-      * `End`
-        * `Enable Frame Generation`
-        * `Enable HUD Fix`
+    * `nvngx.dll`重命名`dxgi.dll`  
+`C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\dxgi.dll`
 * `线上一键卡单人战局工具` [[mod.3dmgame.com]](https://mod.3dmgame.com/mod/175242)  
 `单人代码`  
   ```
