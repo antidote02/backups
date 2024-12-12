@@ -5,6 +5,8 @@
 * `白霜拼音` [[github.com]](https://github.com/gaboolic/rime-frost)  
 `C:\Users\a1729\AppData\Roaming\Rime`
   * `重新部署`
+  * `输入法设定`
+    * `白霜拼音`
   * `无智能模型时的输入效果`
     ```
     各个国家有各个国家的国歌
