@@ -25,10 +25,17 @@
     `C:\Program Files\ESurfingDialer\ESurfingDialer-1.7.0-all.jar`
   * 新建`ESurfingDialer.bat`
     ```
+    echo on
+    :loop
     java -jar ESurfingDialer-1.7.0-all.jar -u 请输入账号 -p 请输入密码
+    if %errorlevel% neq 0 (
+        timeout /t 6
+    )
+    goto loop
     ```
   * 创建快捷方式`ESurfingDialer-1.7.0-all`  
-    `C:\Users\17293\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ESurfingDialer-1.7.0-all`
+    `C:\Users\17293\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ESurfingDialer-1.7.0-all`  
+    `C:\Users\a1729\Desktop\ESurfingDialer-1.7.0-all`
 * `控制面板`
     * `Windows Defender 防火墙`  
 `高级设置`/`高级安全 Windows Defender 防火墙`  

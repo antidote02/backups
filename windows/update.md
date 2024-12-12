@@ -6,8 +6,6 @@
   - [Runtime](#runtime)
   - [Program Files](#program-files)
 ### Network
-* `Redmi_8F01` [[192.168.31.1]](http://192.168.31.1/cgi-bin/luci/web)
-  * `China-Net-2.4G-AA64` ()
 * `ESurfingDialer` [[github.com]](https://github.com/Rsplwe/ESurfingDialer/releases)
 * `Clash Verge` [[github.com]](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 ### Windows 
