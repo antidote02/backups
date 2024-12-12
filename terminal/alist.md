@@ -11,7 +11,7 @@
 
   alist restart
   ```
-* 新建文本文档`启动.vbs`
+* 新建文本文档 [启动.vbs](./启动.vbs)
   ```
   Dim ws
   Set ws = Wscript.CreateObject("Wscript.Shell")

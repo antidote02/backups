@@ -1,0 +1,818 @@
+{
+  "encrypted": "",
+  "settings": [
+    {
+      "key": "version",
+      "value": "v3.35.0",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 1,
+      "flag": 2
+    },
+    {
+      "key": "site_title",
+      "value": "AList",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 1,
+      "flag": 0
+    },
+    {
+      "key": "announcement",
+      "value": "### repo\nhttps://github.com/alist-org/alist",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 1,
+      "flag": 0
+    },
+    {
+      "key": "pagination_type",
+      "value": "all",
+      "help": "",
+      "type": "select",
+      "options": "all,pagination,load_more,auto_load_more",
+      "group": 1,
+      "flag": 0
+    },
+    {
+      "key": "default_page_size",
+      "value": "30",
+      "help": "",
+      "type": "number",
+      "options": "",
+      "group": 1,
+      "flag": 0
+    },
+    {
+      "key": "allow_indexed",
+      "value": "false",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 1,
+      "flag": 0
+    },
+    {
+      "key": "allow_mounted",
+      "value": "true",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 1,
+      "flag": 0
+    },
+    {
+      "key": "robots_txt",
+      "value": "User-agent: *\nAllow: /",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 1,
+      "flag": 0
+    },
+    {
+      "key": "logo",
+      "value": "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 2,
+      "flag": 0
+    },
+    {
+      "key": "favicon",
+      "value": "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 2,
+      "flag": 0
+    },
+    {
+      "key": "main_color",
+      "value": "#1890ff",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 2,
+      "flag": 0
+    },
+    {
+      "key": "home_icon",
+      "value": "🏠",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 2,
+      "flag": 0
+    },
+    {
+      "key": "home_container",
+      "value": "max_980px",
+      "help": "",
+      "type": "select",
+      "options": "max_980px,hope_container",
+      "group": 2,
+      "flag": 0
+    },
+    {
+      "key": "settings_layout",
+      "value": "list",
+      "help": "",
+      "type": "select",
+      "options": "list,responsive",
+      "group": 2,
+      "flag": 0
+    },
+    {
+      "key": "text_types",
+      "value": "txt,htm,html,xml,java,properties,sql,js,md,json,conf,ini,vue,php,py,bat,gitignore,yml,go,sh,c,cpp,h,hpp,tsx,vtt,srt,ass,rs,lrc",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 3,
+      "flag": 1
+    },
+    {
+      "key": "audio_types",
+      "value": "mp3,flac,ogg,m4a,wav,opus,wma",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 3,
+      "flag": 1
+    },
+    {
+      "key": "video_types",
+      "value": "mp4,mkv,avi,mov,rmvb,webm,flv,m3u8",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 3,
+      "flag": 1
+    },
+    {
+      "key": "image_types",
+      "value": "jpg,tiff,jpeg,png,gif,bmp,svg,ico,swf,webp",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 3,
+      "flag": 1
+    },
+    {
+      "key": "proxy_types",
+      "value": "m3u8",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 3,
+      "flag": 1
+    },
+    {
+      "key": "proxy_ignore_headers",
+      "value": "authorization,referer",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 3,
+      "flag": 1
+    },
+    {
+      "key": "external_previews",
+      "value": "{}",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 3,
+      "flag": 0
+    },
+    {
+      "key": "iframe_previews",
+      "value": "{\n\t\"doc,docx,xls,xlsx,ppt,pptx\": {\n\t\t\"Microsoft\":\"https://view.officeapps.live.com/op/view.aspx?src=$e_url\",\n\t\t\"Google\":\"https://docs.google.com/gview?url=$e_url&embedded=true\"\n\t},\n\t\"pdf\": {\n\t\t\"PDF.js\":\"https://alist-org.github.io/pdf.js/web/viewer.html?file=$e_url\"\n\t},\n\t\"epub\": {\n\t\t\"EPUB.js\":\"https://alist-org.github.io/static/epub.js/viewer.html?url=$e_url\"\n\t}\n}",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 3,
+      "flag": 0
+    },
+    {
+      "key": "audio_cover",
+      "value": "https://jsd.nn.ci/gh/alist-org/logo@main/logo.svg",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 3,
+      "flag": 0
+    },
+    {
+      "key": "audio_autoplay",
+      "value": "true",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 3,
+      "flag": 0
+    },
+    {
+      "key": "video_autoplay",
+      "value": "true",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 3,
+      "flag": 0
+    },
+    {
+      "key": "hide_files",
+      "value": "/\\/README.md/i",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 4,
+      "flag": 0
+    },
+    {
+      "key": "package_download",
+      "value": "true",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 4,
+      "flag": 0
+    },
+    {
+      "key": "customize_head",
+      "value": "",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 4,
+      "flag": 1
+    },
+    {
+      "key": "customize_body",
+      "value": "",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 4,
+      "flag": 1
+    },
+    {
+      "key": "link_expiration",
+      "value": "0",
+      "help": "",
+      "type": "number",
+      "options": "",
+      "group": 4,
+      "flag": 1
+    },
+    {
+      "key": "sign_all",
+      "value": "true",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 4,
+      "flag": 1
+    },
+    {
+      "key": "privacy_regs",
+      "value": "(?:(?:\\d|[1-9]\\d|1\\d\\d|2[0-4]\\d|25[0-5])\\.){3}(?:\\d|[1-9]\\d|1\\d\\d|2[0-4]\\d|25[0-5])\n([[:xdigit:]]{1,4}(?::[[:xdigit:]]{1,4}){7}|::|:(?::[[:xdigit:]]{1,4}){1,6}|[[:xdigit:]]{1,4}:(?::[[:xdigit:]]{1,4}){1,5}|(?:[[:xdigit:]]{1,4}:){2}(?::[[:xdigit:]]{1,4}){1,4}|(?:[[:xdigit:]]{1,4}:){3}(?::[[:xdigit:]]{1,4}){1,3}|(?:[[:xdigit:]]{1,4}:){4}(?::[[:xdigit:]]{1,4}){1,2}|(?:[[:xdigit:]]{1,4}:){5}:[[:xdigit:]]{1,4}|(?:[[:xdigit:]]{1,4}:){1,6}:)\n(?U)access_token=(.*)&",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 4,
+      "flag": 1
+    },
+    {
+      "key": "ocr_api",
+      "value": "https://api.nn.ci/ocr/file/json",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 4,
+      "flag": 0
+    },
+    {
+      "key": "filename_char_mapping",
+      "value": "{\"/\": \"|\"}",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 4,
+      "flag": 0
+    },
+    {
+      "key": "forward_direct_link_params",
+      "value": "false",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 4,
+      "flag": 0
+    },
+    {
+      "key": "ignore_direct_link_params",
+      "value": "sign,alist_ts",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 4,
+      "flag": 0
+    },
+    {
+      "key": "webauthn_login_enabled",
+      "value": "false",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 4,
+      "flag": 0
+    },
+    {
+      "key": "token",
+      "value": "alist-c5766e56-e1d2-43fc-baba-896715c23f30AmLvgB5mASnoL8FTSKVdoBZijzQavNpvK35n3Z52uqMWsnOGNG2nLwD2BDbV8gax",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 0,
+      "flag": 1
+    },
+    {
+      "key": "search_index",
+      "value": "none",
+      "help": "",
+      "type": "select",
+      "options": "database,database_non_full_text,bleve,meilisearch,none",
+      "group": 6,
+      "flag": 0
+    },
+    {
+      "key": "auto_update_index",
+      "value": "false",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 6,
+      "flag": 0
+    },
+    {
+      "key": "ignore_paths",
+      "value": "",
+      "help": "one path per line",
+      "type": "text",
+      "options": "",
+      "group": 6,
+      "flag": 1
+    },
+    {
+      "key": "max_index_depth",
+      "value": "20",
+      "help": "max depth of index",
+      "type": "number",
+      "options": "",
+      "group": 6,
+      "flag": 1
+    },
+    {
+      "key": "index_progress",
+      "value": "{\"obj_count\":0,\"is_done\":true,\"last_done_time\":null,\"error\":\"\"}",
+      "help": "",
+      "type": "text",
+      "options": "",
+      "group": 0,
+      "flag": 1
+    },
+    {
+      "key": "sso_login_enabled",
+      "value": "false",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 7,
+      "flag": 0
+    },
+    {
+      "key": "sso_login_platform",
+      "value": "",
+      "help": "",
+      "type": "select",
+      "options": "Casdoor,Github,Microsoft,Google,Dingtalk,OIDC",
+      "group": 7,
+      "flag": 0
+    },
+    {
+      "key": "sso_client_id",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 7,
+      "flag": 1
+    },
+    {
+      "key": "sso_client_secret",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 7,
+      "flag": 1
+    },
+    {
+      "key": "sso_oidc_username_key",
+      "value": "name",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 7,
+      "flag": 1
+    },
+    {
+      "key": "sso_organization_name",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 7,
+      "flag": 1
+    },
+    {
+      "key": "sso_application_name",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 7,
+      "flag": 1
+    },
+    {
+      "key": "sso_endpoint_name",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 7,
+      "flag": 1
+    },
+    {
+      "key": "sso_jwt_public_key",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 7,
+      "flag": 1
+    },
+    {
+      "key": "sso_auto_register",
+      "value": "false",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 7,
+      "flag": 1
+    },
+    {
+      "key": "sso_default_dir",
+      "value": "/",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 7,
+      "flag": 1
+    },
+    {
+      "key": "sso_default_permission",
+      "value": "0",
+      "help": "",
+      "type": "number",
+      "options": "",
+      "group": 7,
+      "flag": 1
+    },
+    {
+      "key": "sso_compatibility_mode",
+      "value": "false",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 7,
+      "flag": 0
+    },
+    {
+      "key": "ldap_login_enabled",
+      "value": "false",
+      "help": "",
+      "type": "bool",
+      "options": "",
+      "group": 8,
+      "flag": 0
+    },
+    {
+      "key": "ldap_server",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 8,
+      "flag": 1
+    },
+    {
+      "key": "ldap_manager_dn",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 8,
+      "flag": 1
+    },
+    {
+      "key": "ldap_manager_password",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 8,
+      "flag": 1
+    },
+    {
+      "key": "ldap_user_search_base",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 8,
+      "flag": 1
+    },
+    {
+      "key": "ldap_user_search_filter",
+      "value": "(uid=%s)",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 8,
+      "flag": 1
+    },
+    {
+      "key": "ldap_default_dir",
+      "value": "/",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 8,
+      "flag": 1
+    },
+    {
+      "key": "ldap_default_permission",
+      "value": "0",
+      "help": "",
+      "type": "number",
+      "options": "",
+      "group": 8,
+      "flag": 1
+    },
+    {
+      "key": "ldap_login_tips",
+      "value": "login with ldap",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 8,
+      "flag": 0
+    },
+    {
+      "key": "s3_access_key_id",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 9,
+      "flag": 1
+    },
+    {
+      "key": "s3_secret_access_key",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 9,
+      "flag": 1
+    },
+    {
+      "key": "s3_buckets",
+      "value": "[]",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 9,
+      "flag": 1
+    },
+    {
+      "key": "aria2_uri",
+      "value": "http://localhost:6800/jsonrpc",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 5,
+      "flag": 1
+    },
+    {
+      "key": "aria2_secret",
+      "value": "",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 5,
+      "flag": 1
+    },
+    {
+      "key": "qbittorrent_url",
+      "value": "http://admin:adminadmin@localhost:8080/",
+      "help": "",
+      "type": "string",
+      "options": "",
+      "group": 5,
+      "flag": 1
+    },
+    {
+      "key": "qbittorrent_seedtime",
+      "value": "0",
+      "help": "",
+      "type": "number",
+      "options": "",
+      "group": 5,
+      "flag": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "",
+      "base_path": "/",
+      "role": 2,
+      "disabled": false,
+      "permission": 0,
+      "sso_id": ""
+    },
+    {
+      "id": 2,
+      "username": "guest",
+      "password": "",
+      "base_path": "/阿里云盘Open/Public",
+      "role": 1,
+      "disabled": false,
+      "permission": 10,
+      "sso_id": ""
+    }
+  ],
+  "storages": [
+    {
+      "id": 1,
+      "mount_path": "/DESKTOP-1NP4DCE",
+      "order": 0,
+      "driver": "Local",
+      "cache_expiration": 0,
+      "status": "work",
+      "addition": "{\"root_folder_path\":\"C:\\\\\",\"thumbnail\":true,\"thumb_cache_folder\":\"\",\"show_hidden\":true,\"mkdir_perm\":\"777\",\"recycle_bin_path\":\"delete permanently\"}",
+      "remark": "",
+      "modified": "2024-06-18T09:58:23.7537265+08:00",
+      "disabled": false,
+      "enable_sign": false,
+      "order_by": "modified",
+      "order_direction": "desc",
+      "extract_folder": "",
+      "web_proxy": false,
+      "webdav_policy": "native_proxy",
+      "proxy_range": false,
+      "down_proxy_url": ""
+    },
+    {
+      "id": 2,
+      "mount_path": "/阿里云盘Open",
+      "order": 0,
+      "driver": "AliyundriveOpen",
+      "cache_expiration": 30,
+      "status": "work",
+      "addition": "{\"drive_type\":\"default\",\"root_folder_id\":\"root\",\"refresh_token\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJmM2U3ODNiMzNlM2Q0ZDVmOWVjMzI0YjI1NzQ5YzdiNiIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzQxNzkzNDM0LCJpYXQiOjE3MzQwMTc0MzQsImp0aSI6IjA2ZDkwMDhlMjY0MTRlZjU5OWEzMmJhNTQ2NjY3ZjdjIn0.cWaIiGipoWqnqJ7QdS6JPFRoHlnSGAPbFfWUMtlj44g22uU6LkxrE0ix-TZixWhi8WkLxaOhc9BdujX53obIBg\",\"order_by\":\"updated_at\",\"order_direction\":\"DESC\",\"oauth_token_url\":\"https://api.nn.ci/alist/ali_open/token\",\"client_id\":\"\",\"client_secret\":\"\",\"remove_way\":\"trash\",\"rapid_upload\":true,\"internal_upload\":false,\"livp_download_format\":\"jpeg\",\"AccessToken\":\"eyJraWQiOiJLcU8iLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmM2U3ODNiMzNlM2Q0ZDVmOWVjMzI0YjI1NzQ5YzdiNiIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwicyI6ImNkYSIsImQiOiIzODc1NzYyMSw5Mjg5Mzk5NzIiLCJpc3MiOiJhbGlwYW4iLCJleHAiOjE3MzQwMjQ2MzcsImwiOjIsImlhdCI6MTczNDAxNzQzNCwianRpIjoiNzMxYTA1MDYzZGE0NGEyOWFmOWMxYzMyZWM5ZjJmMWEifQ.hWWt6CUewbluEk0BlZ936gIy8r9EBNG7zzZk-5Kjpnw\"}",
+      "remark": "",
+      "modified": "2024-06-18T09:58:23.7775183+08:00",
+      "disabled": false,
+      "enable_sign": false,
+      "order_by": "",
+      "order_direction": "",
+      "extract_folder": "",
+      "web_proxy": false,
+      "webdav_policy": "302_redirect",
+      "proxy_range": false,
+      "down_proxy_url": ""
+    },
+    {
+      "id": 3,
+      "mount_path": "/Onedrive",
+      "order": 0,
+      "driver": "Onedrive",
+      "cache_expiration": 30,
+      "status": "work",
+      "addition": "{\"root_folder_path\":\"/\",\"region\":\"global\",\"is_sharepoint\":false,\"client_id\":\"ec42f5f5-1104-4ede-979c-c6ec8259e17b\",\"client_secret\":\"Ivb8Q~AiKJQPbdQBY5v9mSeQpLKbDWap4MoQTct3\",\"redirect_uri\":\"https://alist.nn.ci/tool/onedrive/callback\",\"refresh_token\":\"M.C542_SN1.0.U.-CgF4UX3v0dqF21d25nPcejy3yEa2c3TE8t0sggiXOWAMomPj4Dgr3r0QUN!d*61eZhrtGo43FkI!EPtzKSRnlEjfSFCU0G8IQLTgKfikZscETlBIAq9P5MZEnlBiMgS1PuQY4LK9!q3NyQ8VL7ZTWNeU66W7IDKy2Fav4tctnwIpQX7uHHhAgpwt2NgkRdedrb1EiP6QeiK7mZB2TrmJ59NpIS6YHsdXe3NDdW1Jtn5LWuw88aW*sf7LZCyr1z2mZ9NuEC5g9gGT*mCWgm5yB7kYmUslHEUC7zu!yEKo6JpCe00a*PgWJ2uRQW2mph4!F!BJY7o3Z7mhZU7Od*uvmBI$\",\"site_id\":\"\",\"chunk_size\":5,\"custom_host\":\"\"}",
+      "remark": "",
+      "modified": "2024-06-18T09:58:24.1223832+08:00",
+      "disabled": false,
+      "enable_sign": false,
+      "order_by": "modified",
+      "order_direction": "desc",
+      "extract_folder": "",
+      "web_proxy": false,
+      "webdav_policy": "302_redirect",
+      "proxy_range": false,
+      "down_proxy_url": ""
+    },
+    {
+      "id": 4,
+      "mount_path": "/天翼云盘",
+      "order": 0,
+      "driver": "189Cloud",
+      "cache_expiration": 30,
+      "status": "work",
+      "addition": "{\"username\":\"18675069817\",\"password\":\"Anti3569.\",\"cookie\":\"apm_key=DD2C43712454D9FF9FB62B5AA91B3E90; apm_uid=F2A57BC9B040F0462364833A431155E6; apm_ct=20240529024841000; apm_ua=362D7FE3D8B2581BFFA359F0EEDA7106; share_vQvaQzRfYZJj=ycd0; JSESSIONID=4F4352C3A4041E7B69BDCF0203AAABB3; COOKIE_LOGIN_USER=3D11EF42FA957FD79B411D64417C8D0CC2B291C5F8F239D6C8667206E58EB71C9CE93AADB0A0F35519F8F7E515649E5F496C44212D3D6407\",\"root_folder_id\":\"-11\"}",
+      "remark": "",
+      "modified": "2024-06-18T09:58:25.0212246+08:00",
+      "disabled": false,
+      "enable_sign": false,
+      "order_by": "modified",
+      "order_direction": "desc",
+      "extract_folder": "",
+      "web_proxy": false,
+      "webdav_policy": "302_redirect",
+      "proxy_range": false,
+      "down_proxy_url": ""
+    },
+    {
+      "id": 5,
+      "mount_path": "/123云盘",
+      "order": 0,
+      "driver": "123Pan",
+      "cache_expiration": 30,
+      "status": "work",
+      "addition": "{\"username\":\"18675069817\",\"password\":\"Anti3569.\",\"root_folder_id\":\"0\",\"order_by\":\"update_at\",\"order_direction\":\"desc\",\"AccessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjgzMTc0OTAsImlhdCI6MTcyNzcxMjY5MCwiaWQiOjE4MTI3MDkyNTcsIm1haWwiOiJhMTcyOTMwNDU4MEBnbWFpbC5jb20iLCJuaWNrbmFtZSI6ImljaDFrYSIsInN1cHBlciI6ZmFsc2UsInVzZXJuYW1lIjoxODY3NTA2OTgxNywidiI6MH0.8h5HQdAo-5u4omTpv3GSIi2wljm7pSSM--8w7AtCmqQ\"}",
+      "remark": "",
+      "modified": "2024-06-18T09:58:25.9709849+08:00",
+      "disabled": false,
+      "enable_sign": false,
+      "order_by": "",
+      "order_direction": "",
+      "extract_folder": "",
+      "web_proxy": false,
+      "webdav_policy": "302_redirect",
+      "proxy_range": false,
+      "down_proxy_url": ""
+    },
+    {
+      "id": 6,
+      "mount_path": "/蓝奏云优享版",
+      "order": 0,
+      "driver": "ILanZou",
+      "cache_expiration": 30,
+      "status": "work",
+      "addition": "{\"root_folder_id\":\"0\",\"username\":\"18675069817\",\"password\":\"Anti3569.\",\"Token\":\"17be1fb3a6de11a61a7cffc20e4cac0a-1\",\"UUID\":\"a6db0665-ef7e-4f7b-aaa1-a27a0c7a15d8\"}",
+      "remark": "",
+      "modified": "2024-06-18T09:58:26.2997182+08:00",
+      "disabled": false,
+      "enable_sign": false,
+      "order_by": "",
+      "order_direction": "",
+      "extract_folder": "",
+      "web_proxy": false,
+      "webdav_policy": "302_redirect",
+      "proxy_range": false,
+      "down_proxy_url": ""
+    },
+    {
+      "id": 7,
+      "mount_path": "/蓝奏云",
+      "order": 0,
+      "driver": "Lanzou",
+      "cache_expiration": 30,
+      "status": "work",
+      "addition": "{\"type\":\"account\",\"account\":\"18675069817\",\"password\":\"Anti3569.\",\"cookie\":\"PHPSESSID=hp00b6ffdjrp734r8j0prkkc103dp2ur;phpdisk_info=BDhfaANmDTgOOwBpCFtbNVILUWJdPFAxBTEBZFRiCj5ZZFdtVjVVbg4FUDdbMFs2VGABMg1jBWoANAVnVzMKMQQ0X2QDMg0yDm4AZQgwW2RSN1FnXT1QNgU%2FAWNUZApsWTlXMFYxVW8OPlAJWzBbOVQyATQNYQViADUFbFdpCjkENw%3D%3D;uag=6e1bfc905323682ffd31ea399d2933cf\",\"root_folder_id\":\"-1\",\"share_password\":\"\",\"baseUrl\":\"https://pc.woozooo.com\",\"shareUrl\":\"https://pan.lanzouo.com\",\"repair_file_info\":false}",
+      "remark": "",
+      "modified": "2024-06-18T09:58:26.6657519+08:00",
+      "disabled": false,
+      "enable_sign": false,
+      "order_by": "modified",
+      "order_direction": "desc",
+      "extract_folder": "",
+      "web_proxy": false,
+      "webdav_policy": "302_redirect",
+      "proxy_range": false,
+      "down_proxy_url": ""
+    }
+  ],
+  "metas": []
+}
