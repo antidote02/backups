@@ -24,3 +24,14 @@
     ```
     鬻爵
     ```
+* `installation.yaml`
+  * `RaiDrive` [[raidrive.com]](https://www.raidrive.com/download)
+  * 编辑`installation.yaml`  
+`设置` `Win`+`I`  
+`系统信息`  
+`设备名称` `DESKTOP-QN0TQEQ`
+    ```
+    installation_id: "DESKTOP-QN0TQEQ"
+
+    sync_dir: 'E:\阿里云盘Open\Backup\RimeSync'
+    ```
