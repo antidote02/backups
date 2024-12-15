@@ -1,4 +1,6 @@
 ## Process Lasso
+[[bitsum.com]](https://bitsum.com/changes/processlasso/) / [[lrepacks.net]](https://lrepacks.net/repaki-sistemnyh-programm/689-process-lasso-repack-amp-portable.html)
+
 `当前进程`
 * `特战英豪`
 

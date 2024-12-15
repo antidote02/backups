@@ -6,7 +6,7 @@
   - [Android Games](#android-games)
 ## Boosters
 * [BoosterX](/windows/games/boosterx.md)
-* `Process Lasso` [[bitsum.com]](https://bitsum.com/changes/processlasso/)
+* [Process Lasso](/windows/games/process-lasso/process-lasso.md)
   * `主菜单`  
 `启用 性能模式` `开`
   * `选项`  
