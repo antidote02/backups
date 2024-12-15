@@ -3,7 +3,7 @@
 `属性`  
 `启动选项`
   ```
-  +fps_max 0 +fps_max_ui 0
+  +fps_max 0 +fps_max_ui 0 -worldwide
   ```
   * `CFG`  
 `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg`
@@ -12,7 +12,7 @@
   * `各项设置菜单`  
 `视频设置`
 
-    高级视频选项|视频设置
+    高级视频设置|视频设置
     -|-
     增加角色对比度|禁用
     V-Sync|已禁用
