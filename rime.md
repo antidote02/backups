@@ -28,12 +28,14 @@
   * `default.yaml`
     ```
     menu:
+
       page_size: 9
     ```
     `C:\Users\a1729\AppData\Roaming\Rime\default.yaml`
   * `weasel.yaml`
     ```
     style:
+
         horizontal: false
     ```
     `C:\Users\a1729\AppData\Roaming\Rime\weasel.yaml`
