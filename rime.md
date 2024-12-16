@@ -40,7 +40,7 @@
     ```
     `C:\Users\a1729\AppData\Roaming\Rime\weasel.yaml`
 * `installation.yaml`
-  * `RaiDrive` [[raidrive.com]](https://www.raidrive.com/download)
+  * `OneDrive` [[microsoft.com]](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download)
   * 编辑`installation.yaml`  
 `设置` `Win`+`I`  
 `系统信息`  
@@ -48,5 +48,6 @@
     ```
     installation_id: "DESKTOP-QN0TQEQ"
 
-    sync_dir: 'E:\阿里云盘Open\Backup\RimeSync'
+    sync_dir: 'C:\Users\a1729\OneDrive\RimeSync'
     ```
+    `C:\Users\a1729\AppData\Roaming\Rime\installation.yaml`
