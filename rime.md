@@ -38,6 +38,7 @@
       ```
       `C:\Users\a1729\AppData\Roaming\Rime\installation.yaml`
 * [如何清理已删除的用户自造词](https://www.bilibili.com/video/BV1YM4m1o7BX/?vd_source=85eeb932842b5b15ade257caaa4a9ba8)
+  * `用户资料同步`
   * 复制`rime_frost.userdb.txt`  
 `C:\Users\a1729\OneDrive\RimeSync\DESKTOP-QN0TQEQ\rime_frost.userdb - 副本.txt`
   * `退出算法服务`
@@ -55,3 +56,4 @@
     ```
   * `重启算法服务`
   * `重新部署`
+  * `用户资料同步`
