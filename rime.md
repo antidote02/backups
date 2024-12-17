@@ -35,7 +35,7 @@
   * 复制`rime_frost.userdb.txt`  
 `C:\Users\a1729\OneDrive\RimeSync\DESKTOP-QN0TQEQ\rime_frost.userdb - 副本.txt`
   * `退出算法服务`
-  * 删除`build`
+  * 删除`build`  
 `C:\Users\a1729\AppData\Roaming\Rime\build`
   * 删除`rime_frost.userdb`  
 `C:\Users\a1729\AppData\Roaming\Rime\rime_frost.userdb`
@@ -44,8 +44,6 @@
     cd /c/Users/a1729/OneDrive/RimeSync/DESKTOP-QN0TQEQ
 
     sed -i '/c=-[0-9]*/d' rime_frost.userdb.txt
-
-    sed -i '/c=0/d' rime_frost.userdb.txt
     ```
   * `重启算法服务`
   * `重新部署`
