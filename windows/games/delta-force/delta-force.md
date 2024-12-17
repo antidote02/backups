@@ -57,4 +57,6 @@
   [/script/engine.inputsettings]
   bEnableMouseSmoothing=False
   ```
+  `属性`  
+`只读`
   `C:\WeGameApps\rail_apps\DeltaForce(2001918)\DeltaForce\Saved\Config\WindowsClient\Input.ini`
