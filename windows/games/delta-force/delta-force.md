@@ -32,3 +32,29 @@
   音乐音量|0
   发言频道|组队
   收听频道|全队
+* 编辑`Engine.ini`
+  ```
+  [VertexCompress]
+  r.StaticMesh.VertexCompressEnabled=1
+
+  [Engine.PlayerInput]
+  bEnableMouseSmoothing=False
+
+  [/script/engine.inputsettings]
+  bEnableMouseSmoothing=False
+  ```
+  `属性`  
+`只读`
+  `C:\WeGameApps\rail_apps\DeltaForce(2001918)\DeltaForce\Saved\Config\WindowsClient\Engine.ini`
+* 编辑`Input.ini`
+  ```
+  [/Script/Engine.RendererOverrideSettings]
+  bEnableMouseSmoothing=False
+
+  [Engine.PlayerInput]
+  bEnableMouseSmoothing=False
+
+  [/script/engine.inputsettings]
+  bEnableMouseSmoothing=False
+  ```
+  `C:\WeGameApps\rail_apps\DeltaForce(2001918)\DeltaForce\Saved\Config\WindowsClient\Input.ini`
