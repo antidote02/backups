@@ -18,13 +18,6 @@
       page_size: 9
     ```
     `C:\Users\a1729\AppData\Roaming\Rime\default.yaml`
-  * `weasel.yaml`
-    ```
-    style:
-
-        horizontal: true
-    ```
-    `C:\Users\a1729\AppData\Roaming\Rime\weasel.yaml`
   * `installation.yaml`
     * `OneDrive` [[microsoft.com]](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download)
     * `installation.yaml`  
