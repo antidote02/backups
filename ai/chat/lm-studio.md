@@ -1,4 +1,5 @@
 ## LM Studio
+* `LM Studio` [[lmstudio.ai]](https://lmstudio.ai/beta-releases)
 * `语言`  
 `Skip onboarding`  
 `App Settings`  
