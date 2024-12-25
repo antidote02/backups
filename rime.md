@@ -24,6 +24,14 @@
 
       inline_preedit: flase
     ```
+    `C:\Users\a1729\AppData\Roaming\Rime\weasel.yaml`
+  * `rime_frost.dict.yaml`
+    ```
+    import_tables:
+
+      - cn_dicts/tencent
+    ```
+    `C:\Users\a1729\AppData\Roaming\Rime\rime_frost.dict.yaml`
   * `rime_frost.schema.yaml`
     ```
     switches:
@@ -32,9 +40,10 @@
 
         reset: 0
     ```
+    `C:\Users\a1729\AppData\Roaming\Rime\rime_frost.schema.yaml`
   * `installation.yaml`
     * `OneDrive` [[microsoft.com]](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download)
-    * `installation.yaml`  
+    * `installation.yaml`
       `设置` `Win`+`I`  
       `系统信息`  
       `设备名称` `DESKTOP-QN0TQEQ`
@@ -44,6 +53,11 @@
       sync_dir: 'C:\Users\a1729\OneDrive\RimeSync'
       ```
       `C:\Users\a1729\AppData\Roaming\Rime\installation.yaml`
+* `Git Pull`
+  ```
+  git fetch origin
+  git reset --hard origin/master
+  ```
 * [如何清理已删除的用户自造词](https://www.bilibili.com/video/BV1YM4m1o7BX/?vd_source=85eeb932842b5b15ade257caaa4a9ba8)
   * `用户资料同步` 
   * 复制`rime_frost.userdb.txt`  
