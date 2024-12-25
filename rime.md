@@ -69,7 +69,6 @@
     ```
   * `用户资料同步`
   * 删除`rime_frost.userdb - 副本.txt`  
-`C:\Users\a1729\OneDrive\RimeSync\DESKTOP-QN0TQEQ、rime_frost.userdb - 副本.txt`
+`C:\Users\a1729\OneDrive\RimeSync\DESKTOP-QN0TQEQ\rime_frost.userdb - 副本.txt`
   * 复制`rime_frost.userdb.txt`  
-`C:\Users\a1729\OneDrive\RimeSync\DESKTOP-QN0TQEQ、rime_frost.userdb - 副本.txt`
-  
+`C:\Users\a1729\OneDrive\RimeSync\DESKTOP-QN0TQEQ\rime_frost.userdb - 副本.txt`
