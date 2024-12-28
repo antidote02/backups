@@ -91,7 +91,4 @@
   * [WLAN](/terminal/wlan.md)
   * [AList](/terminal/alist.md)
   * [FFmpeg](/terminal/ffmpeg.md)
-  * `Python-alpha`
-    ```
-    scoop install -k python-alpha
-    ```
+  * [Python-alpha](/terminal/python.md)

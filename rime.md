@@ -45,7 +45,7 @@
     `C:\Users\a1729\AppData\Roaming\Rime\rime_frost.schema.yaml`
   * `installation.yaml`
     * `坚果云` [[jianguoyun.com]](https://www.jianguoyun.com/s/downloads)
-    * `installation.yaml`
+    * `installation.yaml`  
       `设置` `Win`+`I`  
       `系统信息`  
       `设备名称` `DESKTOP-QN0TQEQ`
@@ -61,7 +61,7 @@
   git reset --hard origin/master
   ```
 * [如何清理已删除的用户自造词](https://www.bilibili.com/video/BV1YM4m1o7BX/?vd_source=85eeb932842b5b15ade257caaa4a9ba8)
-  * `用户资料同步` 
+  * `用户资料同步`
   * 复制`rime_frost.userdb.txt`  
 `C:\Users\a1729\OneDrive\RimeSync\desktop-qn0tqeq\rime_frost.userdb - 副本.txt`
   * `退出算法服务`
@@ -75,7 +75,7 @@
 
     bash -c "sed -i '/c=-[0-9]*/d' rime_frost.userdb.txt"
 
-    bash -c "sed -i '/c=0/d' rime_frost.userdb.txt"
+    # bash -c "sed -i '/c=0/d' rime_frost.userdb.txt"
     ```
   * `重启算法服务`
   * `重新部署`
