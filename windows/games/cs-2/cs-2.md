@@ -3,7 +3,8 @@
 `属性`  
 `启动选项`
   ```
-  +fps_max 0 +fps_max_ui 0 -worldwide
+  -high -freq 280 -threads 8 +exec auto -noreflex -worldwide+fps_max 0 +fps_max_ui 0
+  # -allow_third_party_software
   ```
   * `CFG`  
 `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg`
@@ -14,7 +15,7 @@
 
     高级视频设置|视频设置
     -|-
-    增加角色对比度|禁用
+    增加角色对比度|
     V-Sync|已禁用
     多重采样抗锯齿模式|2X MSAA
     全局阴影效果|低
