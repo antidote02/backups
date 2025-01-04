@@ -34,6 +34,7 @@
   古墓丽影：暗影|Shadow of the Tomb Raider: Definitive Edtion|[Shadow of the Tomb Raider: Definitive Edtion](/windows/games/repack/shadow-of-the-tomb-raider-definitive-edtion.md)|2018/9/15
   茶杯头|Cuphead|[Cuphead](/windows/games/repack/cuphead.md)|2017/9/29
   星露谷物语|Stardew Valley|[Stardew Valley](/windows/games/repack/stardew%20valley/stardew-valley.md)|2016/2/27
+  求生之路2|Left 4 Dead 2|[Left 4 Dead 2](/windows/games/repack/left-4-dead-2.md)
   植物大战僵尸|Plants vs. Zombies GOTY Edition|[Plants vs. Zombies GOTY Edition](/windows/games/repack/plants-vs.-zombies-goty-detion.md)|2009/5/5
 
 [回到顶部](#repack学习版-索引)
