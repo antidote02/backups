@@ -10,7 +10,7 @@
   - [Windows 10](#windows-10)
 
 ## Windows
-* `HotPE` [[github.com]](https://github.com/VirtualHotBar/HotPE_Client/releases)
+* `FirPE` [[firpe.cn]](https://firpe.cn/page-247)
 * `Windows`
   * `Windows 11` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11.html)
   * `Windows 10` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win10.html)
