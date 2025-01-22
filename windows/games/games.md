@@ -72,22 +72,17 @@
       ```
       @echo off
       setlocal enabledelayedexpansion
-
-      set "baseDir=C:\Program Files"
+      set "files=c:\program files"
       set "shortcutName=MAA"
-      set "shortcutPath=%USERPROFILE%\Desktop\%shortcutName%.lnk"
-
-      for /d %%D in ("%baseDir%\MAA*") do (
-          set "exePath=%%D\MAA.exe"
-          if exist "!exePath!" (
-              if exist "%shortcutPath%" del "%shortcutPath%"
-              powershell -Command "$s=(New-Object -COM WScript.Shell).CreateShortcut('%shortcutPath%'); $s.TargetPath='!exePath!'; $s.WorkingDirectory='%%D'; $s.Save()"
+      set "lnk=%USERPROFILE%\Desktop\MAA.lnk"
+      for /d %%d in ("%files%\MAA*") do (
+          set "exe=%%d\maa.exe"
+          if exist "!exe!" (
+              if exist "%lnk%" del "%lnk%"
+              powershell -command "$s=(new-object -com wscript.shell).createshortcut('%lnk%'); $s.targetpath='!exe!'; $s.workingdirectory='%%d'; $s.save()"
               exit /b
           )
       )
-
-      echo 未找到 MAA.exe。
-      pause
       ```
       `C:\Program Files\MAA*\MAA.bat`
 
