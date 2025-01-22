@@ -111,6 +111,7 @@
   * `res-downloader` [[github.com]](https://github.com/putyy/res-downloader/releases)
 * `Streaming`
   * `OBS Studio` [[store.steampowered.com]](https://store.steampowered.com/app/1905180/OBS_Studio/)
+[[配置文件]](/windows/obs/未命名/)
   * `哔哩哔哩直播姬` [[link.bilibili.com]](https://link.bilibili.com/p/eden/download#/web)
   * `直播伴侣` [[streamingtool.douyin.com]](https://streamingtool.douyin.com/)
 * `Edit`
