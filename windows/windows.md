@@ -14,7 +14,7 @@
 * `Windows`
   * `Windows 11` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11.html)
   * `Windows 10` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win10.html)
-    * `LTSC` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win10/other.html)
+    * `LTSC` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11/other.html)
 
 [回到顶部](#catalog)
 ## Updates
