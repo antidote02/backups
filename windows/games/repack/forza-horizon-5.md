@@ -15,7 +15,7 @@
       抗锯齿|设置
       -|-
       TAA|关闭
-      NVIDIA DLAA|1关闭
+      NVIDIA DLAA|关闭
       FXAA|关闭
       MSAA|关闭
     * `分辨率比例`
