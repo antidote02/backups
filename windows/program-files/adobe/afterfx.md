@@ -1,5 +1,5 @@
 ## Adobe After Effects
-* `After Effects` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/06/adobe-after-effects-2024-v245.html)
+* `After Effects` [[w16.monkrus.ws]](https://w16.monkrus.ws/2024/12/adobe-after-effects-2025-v251.html)
   * `文件`  
 `项目设置`
     * `使用范围`  
