@@ -71,18 +71,8 @@
     * 新建`MAA.bat`
       ```
       @echo off
-      setlocal enabledelayedexpansion
-      set "files=c:\program files"
-      set "shortcutName=MAA"
-      set "lnk=%USERPROFILE%\Desktop\MAA.lnk"
-      for /d %%d in ("%files%\MAA*") do (
-          set "exe=%%d\maa.exe"
-          if exist "!exe!" (
-              if exist "%lnk%" del "%lnk%"
-              powershell -command "$s=(new-object -com wscript.shell).createshortcut('%lnk%'); $s.targetpath='!exe!'; $s.workingdirectory='%%d'; $s.save()"
-              exit /b
-          )
-      )
+      set "exe=%~1"
+      powershell -c "$s=(new-object -com wscript.shell).createshortcut('%userprofile%\desktop\maa.lnk');$s.targetpath='%exe%';$s.workingdirectory='%~dp1';$s.save()"
       ```
       `C:\Program Files\MAA*\MAA.bat`
 
