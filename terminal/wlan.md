@@ -1,7 +1,7 @@
 ## WLAN
 * 新建`wlan.bat`
   ```
-  powershell -executionpolicy remotesigned -file "C:\Users\a1729\Documents\wlan.ps1"
+  powershell -executionpolicy bypass -file "C:\Users\a1729\Documents\wlan.ps1"
   ```
   `文件`  
 `另存为`  

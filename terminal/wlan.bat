@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -file "C:\Users\Administrator\Documents\wlan.ps1"

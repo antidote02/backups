@@ -1,0 +1,250 @@
+> sys_info
+--- System Information ---
+Uptime( 28.661461 )
+Total frames( 6295 )
+Curtime( 22.803696 )
+Realtime( 21.541412 )
+Current Map: '<empty>'
+Addons: 
+VPK overrides: 
+SpawnCount: 1
+Command Line: "cs2.exe" -steam -high -freq 280 -threads 8 +exec auto -noreflex -worldwide +fps_max 0 +fps_max_ui 0
+Launch path: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe
+Build: 10329 (revision 9554626)
+OS: Windows 10 IoT Enterprise LTSC 2021 (Build: 19044) (UBR: 5487) (Administrator User)
+OS type: Windows 10 (17)
+Windows Game DVR: not enabled
+Windows Game Mode: not active
+App UI Language: schinese, convar schinese, localization schinese
+Windows user default LCID: 0x0804
+App active: yes, 0ms inactive sleep
+Number of immediate Steam friends: 60 (all friends 60)
+Steam UGC subscriptions: unavailable
+Misc: rate 786432 update 64 latency 0 msec
+Net: loopback:1
+Time: Sat Feb 22 11:02:31 2025
+Process: 64-bit, OS: 64-bit
+Process priority: high, main thread priority: normal
+CPUs: 20 CPUs (14 cores - 6P/8E), Frequency: 3.5 GHz,  Features: F/M/S 6/183/1 GenuineIntel SSE SSE2 SSE4.1 SSE4.2 AVX AVX2 MMX RDTSC RDTSCP CMOV FCMOV PCLMULQDQ 
+CPU brand information: 13th Gen Intel(R) Core(TM) i5-13600KF
+Engine thread pool: 7 thread(s)
+Render system:  DX11
+Driver Name:  NVIDIA GeForce RTX 3080
+Driver Version: 32.0.15.7247
+VendorId / DeviceId:  0x10de / 0x2216
+SubSystem / Rev:  0x88221043 / 0xa1
+DXLevel:  111
+Texture memory:  10,541,334,528
+Vid:  Borderless Window, render at 1280 x 960, display at 1280 x 960, refresh rate 0.00Hz (280Hz desktop)
+Texture data resident:  2,587,124,228 (panorama_rt 37,875,712; panorama_tex 5,858,896)
+Autoconfig:2, Version:15, aspectratiomode:0, coop_fullscreen:0, cpu_level:3, defaultres:1280, 
+defaultresheight:960, fullscreen:0, fullscreen_min_on_focus_loss:0, gpu_level:3, 
+gpu_mem_level:3, high_dpi:0, knowndevice:0, mat_vsync:0, monitor_index:0, msaa_samples:2, 
+nowindowborder:1, r_csgo_cmaa_enable:0, r_low_latency:1, r_texturefilteringquality:5, 
+refreshrate_denominator:0, refreshrate_numerator:0, shaderquality:0, videocfg_ao_detail:0, 
+videocfg_dynamic_shadows:1, videocfg_fsr_detail:0, videocfg_hdr_detail:3, videocfg_particle_detail:0, 
+videocfg_shadow_quality:0, videocfg_texture_detail:1, 
+Scene information:
+Begin to finish rendering views : 0.000235
+Finish to complete : 0.001240
+Number of views allocated : 7
+Triangles rendered: 2,100,469
+SceneObjects drawn: 392 in 389 draw calls
+  194 base, 54 animated
+  144 agg [447 fragments (69 merged), 19,630 meshlets (0 recull, 0 recull visible)]
+Material changes: 333 (135 depth-only)
+   301 initial materials (124 initial depth-only) (2 fast-path depth-only)
+Unbatchable material draws: 1
+Lights in view (unshadowed+shadowed): 0+0 omni, 0+0 spot, 3+2 barn 1 env 0 lpv.
+2 shadowmaps [0 dynamic, 2 mixed], 0 empty mixed shadows culled
+Culling: 202 objects pre-cull (474 tested), 170 passing culling
+  cpu culling: [vis 0] [vol 0] [dist 0] [size 0]
+  gpu culling: [vis 0] [frust 0] [occ 0] [vol 0] [bface 0] [size 0]
+Number of transforms, instances allocated: 1740 (81kb), 514 (16kb)
+Per-frame scratch memory used: 11.07 KB (high watermark 196.61 KB)
+Number of contexts created: 42 primary
+Number of display lists submitted: 54
+Number of views rendered: 9 (3 with world traversals)
+Number of jobs used to render: 56
+Number of rendertarget binds: 46
+Number of pushconstant sets: 0
+1 particle systems rendered
+2 material binds for particles
+44 draw calls for particles
+Maximum device access threads: 49
+Checked pending presents 6,290 times; waited 6,023 times; abandoned 0 times
+Texture memory: 2,467 / 9,029 MB; in 2,587 textures (298 MB non-evictable)
+Textures created overall: 2,857; textures evicted: 0
+Command stream pools: 3,309,568 bytes in base, 0 bytes in medium, 0 bytes in large (0 extra data fallbacks)
+Material count: 620
+Material generation: 3
+Process Memory:
+Working set: 2761.73 MiB
+Peak working set: 2884.48 MiB
+Heap: standard allocator pass-through to low-level
+Low-level allocator: jemalloc
+System Memory:
+Memory load: 34%
+Total physical memory: 32581.42 MiB
+Free physical memory: 21481.57 MiB
+Total page file: 81733.42 MiB
+Free page file: 59340.62 MiB
+HasInsufficientPagefile() detection: false
+HasLowAvailableVirtualMemory() detection: false
+Localization stats for schinese data:
+  37,353 tokens; 37,835 instances (37,835 from 14 files; 0 not file-based)
+  string data: 6,882,120 bytes (6,315 bytes of padding) in 105 blocks
+  2,359,296 bytes for token lookup; 622,592 bytes for instance info
+  total memory allocated: 9,864,008 bytes
+ConVars (non-default):
+                                               var                            value                          default
+                      ammo_grenade_limit_flashbang                                2                                1
+                          ammo_grenade_limit_total                                4                                3
+                 bot_autodifficulty_threshold_high                                0                                5
+                          bot_defer_to_human_goals                             true                            false
+                                    bot_difficulty                                2                                1
+                                    bot_quota_mode                             fill                           normal
+                    cachedvalue_count_partybrowser                       1739888905                                0
+                       cachedvalue_count_teammates                       1739888906                                0
+                 cash_player_interact_with_hostage                              300                              150
+                       cash_team_bonus_shorthanded                             1000                                0
+              cash_team_elimination_hostage_map_ct                             3000                             2000
+               cash_team_elimination_hostage_map_t                             3000                             1000
+                     cash_team_hostage_interaction                              600                              500
+                         cash_team_rescued_hostage                              600                                0
+                    cash_team_win_by_defusing_bomb                             3500                             3250
+                   cash_team_win_by_hostage_rescue                             2900                             3500
+                                        cl_autobuy vesthelm vest m4a1 ak47 famas ga                                 
+                                          cl_color                                1                                0
+                          cl_crosshair_drawoutline                            false                             true
+           cl_crosshair_dynamic_maxdist_splitratio                              0.3                                1
+          cl_crosshair_dynamic_splitalpha_innermod                                1                                0
+          cl_crosshair_dynamic_splitalpha_outermod                              0.5                                1
+                    cl_crosshair_dynamic_splitdist                                7                                3
+                     cl_crosshair_outlinethickness                         0.529622                                1
+                               cl_crosshair_recoil                            false                             true
+                                 cl_crosshairalpha                              170                              200
+                               cl_crosshaircolor_g                                0                              255
+                               cl_crosshaircolor_r                              255                                0
+                                   cl_crosshairgap                        -3.494214                             -2.2
+                    cl_crosshairgap_useweaponvalue                            false                             true
+                                  cl_crosshairsize                         1.298095                              3.9
+                                 cl_crosshairstyle                                4                                2
+                              cl_crosshairusealpha                            false                             true
+                    cl_grenadecrosshairdelay_decoy                              0.5                                2
+                cl_grenadecrosshairdelay_explosive                              0.5                                2
+                     cl_grenadecrosshairdelay_fire                              0.5                                2
+                    cl_grenadecrosshairdelay_flash                              0.5                                2
+                    cl_grenadecrosshairdelay_smoke                              0.5                                2
+                                      cl_hud_color                               11                                0
+                             cl_import_csgo_config                            false                             true
+                        cl_jitter_bad_threshold_up                               10                               20
+                                 cl_new_user_phase                               -1                                0
+                          cl_predict_kill_ragdolls                            false                             true
+                              cl_prefer_lefthanded                             true                            false
+                 cl_promoted_settings_acknowledged                  1:1740193328951                              0:0
+                      cl_radial_radio_tab_0_text_1          #Chatwheel_requestspend                 #Chatwheel_quiet
+                      cl_radial_radio_tab_0_text_2         #Chatwheel_requestweapon       #Chatwheel_requestecoround
+                      cl_radial_radio_tab_0_text_4          #Chatwheel_followingyou         #Chatwheel_requestweapon
+                      cl_radial_radio_tab_0_text_6              #Chatwheel_followme           #Chatwheel_droppedbomb
+                      cl_radial_radio_tab_0_text_8       #Chatwheel_requestecoround          #Chatwheel_requestspend
+                      cl_radial_radio_tab_1_text_1          #Chatwheel_enemyspotted    #Chatwheel_bombcarrierspotted
+                      cl_radial_radio_tab_1_text_2            #Chatwheel_needbackup       #Chatwheel_requestecoround
+                      cl_radial_radio_tab_1_text_3                 #Chatwheel_bplan   #Chatwheel_multipleenemieshere
+                      cl_radial_radio_tab_1_text_4    #Chatwheel_bombcarrierspotted         #Chatwheel_requestweapon
+                      cl_radial_radio_tab_1_text_5   #Chatwheel_multipleenemieshere            #Chatwheel_rotatetome
+                      cl_radial_radio_tab_1_text_6         #Chatwheel_sniperspotted          #Chatwheel_ihavethebomb
+                      cl_radial_radio_tab_1_text_7                 #Chatwheel_aplan          #Chatwheel_oneenemyhere
+                      cl_radial_radio_tab_1_text_8            #Chatwheel_inposition          #Chatwheel_requestspend
+                      cl_radial_radio_tab_2_text_1           #Chatwheel_affirmative    #Chatwheel_bombcarrierspotted
+                      cl_radial_radio_tab_2_text_2              #Chatwheel_negative       #Chatwheel_requestecoround
+                      cl_radial_radio_tab_2_text_3            #Chatwheel_compliment   #Chatwheel_multipleenemieshere
+                      cl_radial_radio_tab_2_text_4                #Chatwheel_thanks         #Chatwheel_requestweapon
+                      cl_radial_radio_tab_2_text_5                 #Chatwheel_cheer            #Chatwheel_rotatetome
+                      cl_radial_radio_tab_2_text_6               #Chatwheel_peptalk          #Chatwheel_ihavethebomb
+                      cl_radial_radio_tab_2_text_7                 #Chatwheel_sorry          #Chatwheel_oneenemyhere
+                      cl_radial_radio_tab_2_text_8           #Chatwheel_sectorclear          #Chatwheel_requestspend
+                     cl_radial_radio_version_reset                               12                                2
+                                          cl_rebuy Armor PrimaryWeapon Flashbang Sm                                 
+                     cl_redemption_reset_timestamp                       1740064516                                0
+    cl_refresh_rate_recommendation_dont_show_again                             true                            false
+                                    cl_showloadout                            false                             true
+                                  cl_silencer_mode                                1                                0
+                             cl_use_opens_buy_menu                             true                            false
+                                        con_enable                             true                            false
+                     contributionscore_assist_reqs                                1                                0
+                       contributionscore_kill_reqs                                1                                0
+                     cs_minimap_create_output_size                              960                             1024
+                            csgo_map_preview_scale                            3.044                                0
+                                           english                            false                             true
+                       ff_damage_reduction_bullets                             0.33                              0.1
+                       ff_damage_reduction_grenade                             0.85                             0.25
+                         ff_damage_reduction_other                              0.4                             0.25
+                                           fps_max                                0                              400
+                                        fps_max_ui                                0                              200
+                                          hostname                           ich1ka                                 
+                                       hud_scaling                              0.9                                1
+                    install_dlc_workshoptools_cvar                                0                               -1
+                                  key_bind_version                                5                                0
+                      lb_barnlight_shadowmap_scale                              0.5                                1
+                       mm_dedicated_search_maxping                               75                              150
+                                        mp_buytime                               20                               90
+                            mp_fists_replace_melee                             true                            false
+                                    mp_forcecamera                                1                                0
+                                     mp_freezetime                               15                                6
+                                   mp_friendlyfire                             true                            false
+                                       mp_halftime                             true                            false
+                                      mp_maxrounds                               24                                0
+                                mp_randomspawn_los                            false                             true
+                           mp_respawn_immunitytime                               -1                                4
+                                      mp_roundtime                             1.92                                5
+                               mp_roundtime_defuse                             1.92                                0
+                              mp_roundtime_hostage                             1.92                                0
+                                mp_starting_losses                                1                                0
+                   mp_technical_timeout_duration_s                              120                                0
+                     mp_technical_timeout_per_team                                1                                0
+                                     mp_warmuptime                              120                               30
+               mp_warmuptime_all_players_connected                               15                                0
+                       mp_weapons_allow_map_placed                             true                            false
+                             mp_weapons_allow_zeus                                5                                1
+                                              name                           ich1ka                          unnamed
+                panorama_console_position_and_size       20.00|20.00|1000.00|800.00                                 
+        player_competitive_maplist_8_10_0_E5CC76A3 mg_de_basalt,mg_de_edin,mg_de_tr mg_de_dust2,mg_de_train,mg_de_an
+           player_nevershow_communityservermessage                                1                                0
+                                r_fullscreen_gamma                         2.698468                              2.2
+                          r_player_visibility_mode                                0                                1
+                                 r_show_build_info                            false                             true
+                                         safezonex                             0.97                                1
+                                         safezoney                              0.8                                1
+                                       sensitivity                              0.9                             1.25
+                            snd_deathcamera_volume                                0                             0.16
+                           snd_mapobjective_volume                                0                             0.04
+                              snd_menumusic_volume                                0                             0.04
+                                    snd_mvp_volume                             0.04                             0.16
+                               snd_roundend_volume                             0.04                             0.16
+                             sound_device_override          Source2SDLDefaultDevice                                 
+                                  spec_freeze_time                                2                                3
+                                    spec_show_xray                                0                                1
+       sv_auto_full_alltalk_during_warmup_half_end                            false                             true
+                                       sv_deadtalk                             true                            false
+              sv_grenade_trajectory_time_spectator                                4                                0
+                                       think_limit                                0                               10
+                                thread_pool_option                                2                               -1
+                                          tv_delay                              105                              120
+                            ui_news_last_read_link https://www.counter-strike.net/n                                 
+                     ui_playsettings_custom_preset                   mg_casualsigma                                 
+                ui_playsettings_directchallengekey            AFYPW-NFBQ-S4KCS-BSYC                                 
+              ui_playsettings_maps_official_casual                   mg_casualsigma                       mg_dust247
+  ui_playsettings_maps_official_gungameprogressive             mg_skirmish_armsrace                      mg_armsrace
+                     ui_playsettings_maps_workshop    @workshop/3070244462/aim_botz                                 
+                 ui_playsettings_mode_official_v20                           casual                       deathmatch
+                   ui_vanitysetting_loadoutslot_ct                             smg3                                 
+                    ui_vanitysetting_loadoutslot_t                           rifle3                                 
+                             ui_vanitysetting_team                                t                                 
+                                     viewmodel_fov                               68                               60
+                                viewmodel_offset_x                              2.5                                1
+                                viewmodel_offset_y                                2                                1
+                                viewmodel_offset_z                               -2                               -1
+                           voice_always_sample_mic                             true                            false
+                             voice_device_override     麦克风 (NVIDIA Broadcast)                                 
+                            zoom_sensitivity_ratio                             0.93                                1
