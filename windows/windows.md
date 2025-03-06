@@ -315,6 +315,7 @@
 * `Microsoft Edge Webview2` [[developer.microsoft.com]](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2?form=MA13LH)
 * `.NET`
   * `桌面运行时`
+    * `.NET 10.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/10.0)
     * `.NET 9.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/9.0)
     * `.NET 8.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
     * `.NET 7.0` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/7.0)

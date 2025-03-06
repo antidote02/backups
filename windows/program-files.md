@@ -140,6 +140,7 @@
 
 [回到顶部](#catalog)
 ## Remote
+* `连连控` [[asklink.com]](https://www.asklink.com/download)
 * `ToDesk` [[todesk.com]](https://www.todesk.com/download.html)
 
 [回到顶部](#catalog)
