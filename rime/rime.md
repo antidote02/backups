@@ -15,7 +15,7 @@
     ```
     menu:
 
-      page_size: 10
+      page_size: 5
     ```
     `C:\Users\a1729\AppData\Roaming\Rime\default.yaml`
   * `weasel.yaml`

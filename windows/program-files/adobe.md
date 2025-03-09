@@ -10,7 +10,7 @@
       * `HEVC` [EPR](/windows/program-files/adobe/j_23.epr)
   * `扩展`
     * `Voukoder` [[voukoder.org]](https://www.voukoder.org/)
-    * `Influx` [[cgzy.net]](https://www.cgzy.net/5683.html) $_{2025/1/25}$
+    * `Influx` [[cgzy.net]](https://www.cgzy.net/5683.html) $_{2025/2/20}$
     * `Motion Mosh` [[cgzy.net]](https://www.cgzy.net/38917.html) $_{2025/1/2}$
     * `Crossphere` [[cgzy.net]](https://www.cgzy.net/9543.html) $_{2025/1/2}$
     * `SpeedX` [[cgzy.net]](https://www.cgzy.net/5885.html) $_{2024/12/30}$
