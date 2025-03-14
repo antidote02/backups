@@ -34,15 +34,32 @@
   ffmpeg -i input.mp4 -vf "fps=60,scale=1280:-1:flags=lanczos+accurate_rnd" -c:v hevc_nvenc -preset p7 -profile:v high -qp 15 -rc constqp -c:a aac -b:a 128k output.mp4
 * `Bat`
   ```
-  # VBR MP4
+  # ConstQP
+  @echo off 
+  setlocal 
+  set "input=%~1"
+  set /p qp=-qp 
+  set "qp=%qp%"
+  set "output=%~dp1\%~n1_%qp%.mp4"
+  :: "fps=60000/1001,scale=1920:-1:flags=lanczos+accurate_rnd"
+  :: "fps=60000/1001,scale=-1:1080:flags=lanczos+accurate_rnd"
+  :: "fps=60000/1001"
+  :: -c:a aac -b:a 320k
+  :: -c:a copy
+  ffmpeg -i "%input%" -vf "fps=60000/1001" -c:v hevc_nvenc -preset p7 -profile:v main -qp %qp% -rc constqp -tier main -c:a copy "%output%"
+  pause
+
+  # VBR
   @echo off 
   setlocal 
   set "input=%~1"
   set /p bitrate=-b:v 
   set "bitrate=%bitrate%k"
   set "output=%~dp1\%~n1_%bitrate%.mp4"
-  ffmpeg -i "%input%" -vf "fps=60" -c:v hevc_nvenc -b:v %bitrate% -bufsize 15M -maxrate 15M -preset p7 -profile:v main -rc vbr -tier main -c:a aac -b:a 320k "%output%"
+  :: "fps=60,scale=1920:-1:flags=lanczos+accurate_rnd"
+  :: "fps=60,scale=-1:1080:flags=lanczos+accurate_rnd"
+  :: "fps=60"
+  :: -c:a aac -b:a 320k
+  :: -c:a copy
+  ffmpeg -i ""%input%"" -vf "fps=59.94" -c:v hevc_nvenc -b:v %bitrate% -bufsize 15M -maxrate 15M -preset p7 -profile:v main -rc vbr -tier main -c:a aac -b:a 320k "%output%"
   pause
-
-  # COPY MKV
-  ffmpeg -i "%~1" -c copy -map 0 "%~n1_2.mkv"
