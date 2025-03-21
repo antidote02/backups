@@ -5,12 +5,9 @@
   ```
 * `Copy`
   ```
-  # Copy
-  ffmpeg -i 'input' -c copy 'ouput.mp4`
-  # AN
-  ffmpeg -i 'input' -c copy -an 'output.mp4'
-  # VN
-  ffmpeg -i 'input' -c copy -vn 'output.aac'
+  :: -map 0
+  :: -map 0:0 -map 0:1 -map -0:d
+  ffmpeg -i'input.mkv' -map 0 -c copy -metadata title= -map_chapters -1 -map -0:d -metadata:s:v language= -metadata:s:a language= 'output.mp4'
   ```
 * `Thumbnail`
   ```
