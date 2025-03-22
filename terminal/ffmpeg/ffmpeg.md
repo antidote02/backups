@@ -7,7 +7,7 @@
   ```
   :: -map 0
   :: -map 0:0 -map 0:1 -map -0:d
-  ffmpeg -i'input.mkv' -map 0 -c copy -metadata title= -map_chapters -1 -map -0:d -metadata:s:v language= -metadata:s:a language= 'output.mp4'
+  ffmpeg -i 'input.mkv' -map 0 -c copy -metadata title= -map_chapters -1 -map -0:d -metadata:s:v language= -metadata:s:a language= 'output.mp4'
   ```
 * `Thumbnail`
   ```
