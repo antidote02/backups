@@ -44,7 +44,7 @@
   :: -vf "scale=1920:-1:flags=lanczos+accurate_rnd"
   :: -c:a aac -b:a 320k -profile:a aac_low
   :: -c:a copy
-  ffmpeg -hwaccel cuda -i "%input%" -vf "scale=1920:-1:flags=lanczos+accurate_rnd" -c:v hevc_nvenc -preset p7 -profile:v main -qp %qp% -rc constqp -tier main -gpu_copy 1 -c:a copy "%output%"
+  ffmpeg -hwaccel cuda -i "%input%" -vf "scale=1920:-1:flags=lanczos+accurate_rnd" -c:v hevc_nvenc -preset p7 -profile:v main -qp %qp% -rc constqp -tier main -c:a copy "%output%"
   pause
 
   # VBR
@@ -60,5 +60,5 @@
   :: -vf "scale=1920:-1:flags=lanczos+accurate_rnd"
   :: -c:a aac -b:a 320k -profile:a aac_low
   :: -c:a copy
-  ffmpeg -hwaccel cuda -i ""%input%"" -vf "fps=59.94" -c:v hevc_nvenc -b:v %bitrate% -bufsize 15M -maxrate 15M -preset p7 -profile:v main -rc vbr -tier main -gpu_copy 1 -c:a aac -b:a 320k "%output%"
+  ffmpeg -hwaccel cuda -i ""%input%"" -vf "fps=59.94" -c:v hevc_nvenc -b:v %bitrate% -bufsize 15M -maxrate 15M -preset p7 -profile:v main -rc vbr -tier main -c:a aac -b:a 320k "%output%"
   pause

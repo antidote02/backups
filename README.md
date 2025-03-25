@@ -3,7 +3,7 @@
 - [Windows](/windows/windows.md)
   - [Terminal](/windows/terminal.md)
     - [AList](/terminal/alist.md)
-    - [FFmpeg](/terminal/ffmpeg.md)
+    - [FFmpeg](/terminal/ffmpeg/ffmpeg.md)
   - [Clash Verge](/windows/clash-verge.md)
   - [Program Files](/windows/program-files.md)
     - [Bangumi](/windows/program-files/bangumi.md)
