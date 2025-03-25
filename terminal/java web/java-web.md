@@ -2,16 +2,13 @@
   * `Scoop`
     ```
     scoop install eclipse-jee -k
-
-    scoop uninstall eclipse-jee
     ```
-  * 下载`Eclipse` [[eclipse.org]]eclipse.org(https://www.eclipse.org/downloads/packages/)
+  * 下载`Eclipse` [[eclipse.org]](https://www.eclipse.org/downloads/packages/)
 * `Tomcat`
   * `Scoop`
     ```
-    scoop install tomcat
+    scoop install tomcat9
     ```
-  * 下载`Tomcat` [[tomcat.apache.org]](https://tomcat.apache.org/download-10.cgi)
 * `Eclipse IDE for Java EE Developers`  
 `Use this as the dufault and do not ask again`  
 `Launch`
@@ -22,12 +19,11 @@
 `New`  
 `Server`  
 `Apache`  
-`Tomcat v10.1 Server`  
-`Next`  
-![](./屏幕截图%202025-03-25%20145403.png)
+`Tomcat v9.0 Server`  
+`Next`
   * `Tomcat installation directory`
     ```
-    C:\Users\Administrator\scoop\apps\tomcat\current
+    C:\Users\Administrator\scoop\apps\tomcat9\current
     ```
     `Finish`
   * `File`  
@@ -38,7 +34,6 @@
     Test01
     ```
     `Next`
-    ![](./屏幕截图%202025-03-25%20150921.png)
     * `Generate web.xml deployment descriptor`
   * `Windows`  
 `Perspective`  
@@ -159,6 +154,8 @@
   cd ~\scoop\apps\mysql\current\bin
 
   mysqld --initialize-insecure
+
+  mysqld --console
 
   mysqld --install
 
