@@ -166,7 +166,7 @@
               String password = request.getParameter("password");
               try {
                 Class.forName("com.mysql.cj.jdbc.Driver");
-                  Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/bookdb?useUnicode=true&characterEncoding=UTF-8", "root", "123456");
+                  Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/productdb?useUnicode=true&characterEncoding=UTF-8", "root", "123456");
                   PreparedStatement ps = conn.prepareStatement("SELECT * FROM admin WHERE username=? AND password=?");
                   ps.setString(1, username);
                   ps.setString(2, password);
