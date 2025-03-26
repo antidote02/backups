@@ -123,6 +123,8 @@
   );
 
   INSERT INTO admin (username, password) VALUES ('admin', '123456');
+
+  ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
   ```
 * `Eclipse IDE for Java EE Developers`
   * 复制`mysql-connector-j-9.2.0.jar`到`Test/src/main/webapp/WEB-INF/lib`  
