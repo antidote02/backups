@@ -86,44 +86,30 @@
       }
 * `Powershell`
   ```
-  mysqld --install
-
-  net stop mysql
-
-  net start mysql
-
-  mysql -u root -p
+  mysqld --console
+  ```
+* `Powershell`
+  ```
+  mysql -u root
   ```
   mysql>
   ```
+  ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
+  FLUSH PRIVILEGES;
   CREATE DATABASE productdb DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-  
   USE productdb;
-  
   CREATE TABLE admin (
-  
   id INT AUTO_INCREMENT PRIMARY KEY,
-  
   username VARCHAR(50) NOT NULL,
-  
   password VARCHAR(50) NOT NULL
-  
   );
-  
   CREATE TABLE products (
-  
   id INT AUTO_INCREMENT PRIMARY KEY,
-  
   name VARCHAR(255) NOT NULL,
-  
   category VARCHAR(255) NOT NULL,
-  
   price DECIMAL(10,2) NOT NULL
-  
   );
-
   INSERT INTO admin (username, password) VALUES ('admin', '123456');
-
   ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
   ```
 * `Eclipse IDE for Java EE Developers`

@@ -158,10 +158,6 @@
 
     mysqld --install
 
-    ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
-
-    FLUSH PRIVILEGES;
-
     net stop mysql
 
     net start mysql
@@ -170,6 +166,10 @@
     ```
     mysql>
     ```
+    ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
+
+    FLUSH PRIVILEGES;
+
     CREATE DATABASE bookdb;
 
     USE bookdb;
