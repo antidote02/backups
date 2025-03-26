@@ -24,8 +24,10 @@
     ```
     `Finish`
   * `File`  
-新建`Dynamic Web Project` `Test01`
-    `Next`
+新建`Dynamic Web Project` `Test01`  
+    * `Target Runtime`  
+`Apache Tomcat v9.0`  
+`Next`
     * `Generate web.xml deployment descriptor`
   * `Windows`  
 `Perspective`  
@@ -143,13 +145,10 @@
 `Add to Build Path`
   * `Test01`  
 `Build Path`  
-`Configure Build Path`  
+`Configure Build Path`
     * `mysql-connector-j-9.2.0.jar`
     * `Server Runtime`
-  * `Windows`  
-`Show View`  
-`Terminal`
-  * `Open a Terminal`
+  * `Powershell`
     ```
     scoop install mysql -k
 
@@ -169,7 +168,7 @@
 
     mysql -u root -p
     ```
-    mysql
+    mysql>
     ```
     CREATE DATABASE bookdb;
 
