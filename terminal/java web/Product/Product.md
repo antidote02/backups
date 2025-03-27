@@ -6,13 +6,26 @@ IDE ： Eclipse 或 MyEclipse
 JDK ： 8 及以上  
 服务器： Apache Tomcat 8 以上  
 数据库： MySQL 5.7 及以上  
-依赖： JDBC 驱动 （ mysql-connector-java ）
+依赖： JDBC 驱动 （ mysql-connector-j ）
 
-0. `PowerShell`
+0. PowerShell  
+    **PS>**
     ```
-    mysqld --console
+    mysqld --install
+
+    net stop mysqld
+    net start mysqld
+    root -u root
+    root -u root -p
     ```
-1. 数据库表结构 创建 productdb 数据库，并在数据库中创建 admin 与 products 表， SQL 语句如下
+    **<font color=RED>（可选）</font>** **mysql>** 
+    ```
+    ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
+
+    exit
+    ```
+1. 数据库表结构 创建 productdb 数据库，并在数据库中创建 admin 与 products 表， SQL 语句如下  
+    **mysqld>**
     ```
     CREATE DATABASE productdb DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
@@ -139,7 +152,7 @@ JDK ： 8 及以上
             String password = request.getParameter("password");
             try {
                 Class.forName("com.mysql.cj.jdbc.Driver");
-                Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/bookdb?useUnicode=true&characterEncoding=UTF-8", "root", "123456");
+                Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/productdb?useUnicode=true&characterEncoding=UTF-8", "root", "123456");
                 PreparedStatement ps = conn.prepareStatement("SELECT * FROM admin WHERE username=? AND password=?");
                 ps.setString(1, username);
                 ps.setString(2, password);
@@ -236,7 +249,7 @@ JDK ： 8 及以上
     ```
 5. 将数据库连接驱动复制粘贴到项目中  
 ![](图片2.png)  
-将 mysql-connector-java.jar 加入 WEB-INF/bli ，然后右击 Build Path ，选择 Add to Build Path 即可
+将 mysql-connector-j.jar 加入 WEB-INF/bli ，然后右击 Build Path ，选择 Add to Build Path 即可
 6. 在 webapp 下（软件版本不同，有的在 WebContent ），创建登录界面，命名为 login.jsp ，如下图所示，实现管理员的登录功能  
 在 webapp 下（软件版本不同，有的在 WebContent ），创建商品管理页面，命名为 product.List.jsp ，如下图所示，实现管理员的管理功能  
 ![](图片3.png)  
@@ -339,6 +352,6 @@ JDK ： 8 及以上
 9. 启动项目
     1. 在 MySQL 中执行 SQL 语句，创建数据库和表
     2. 在 Eclipse 中导入项目，确保 Tomcat 服务器已添加
-    3. 将 mysql-connector-java.jar 添加到 lib 目录
+    3. 将 mysql-connector-j.jar 添加到 lib 目录
     4. 启动 Tomcat 服务器，访问 http://localhost:8080/Test02/login.jsp 进行登录
     5. 登录后可进行书籍的添加、修改和删除。注意 Tomcat 的端口号是否是 8080 ，根据环境自行修改
