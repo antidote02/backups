@@ -12,19 +12,20 @@ JDK ： 8 及以上
     **PS>**
     ```
     mysqld --install
-
-    net stop mysqld
-    net start mysqld
-    root -u root
-    root -u root -p
+    net stop mysql
+    net start mysql
+    mysql -u root -p
     ```
-    **<font color=RED>（可选）</font>** **mysql>** 
     ```
     ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
-
     exit
     ```
-1. 数据库表结构 创建 productdb 数据库，并在数据库中创建 admin 与 products 表， SQL 语句如下  
+    **PS>**
+    ```
+    net stop mysql
+    net start mysql
+    mysql -u root -p
+1. 数据库表结构。创建 productdb 数据库，并在数据库中创建 admin 与 products 表， SQL 语句如下  
     **mysqld>**
     ```
     CREATE DATABASE productdb DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
@@ -251,7 +252,7 @@ JDK ： 8 及以上
 ![](图片2.png)  
 将 mysql-connector-j.jar 加入 WEB-INF/bli ，然后右击 Build Path ，选择 Add to Build Path 即可
 6. 在 webapp 下（软件版本不同，有的在 WebContent ），创建登录界面，命名为 login.jsp ，如下图所示，实现管理员的登录功能  
-在 webapp 下（软件版本不同，有的在 WebContent ），创建商品管理页面，命名为 product.List.jsp ，如下图所示，实现管理员的管理功能  
+在 webapp 下（软件版本不同，有的在 WebContent ），创建商品管理页面，命名为 productList.jsp ，如下图所示，实现管理员的管理功能  
 ![](图片3.png)  
 登录页面代码  
     ```

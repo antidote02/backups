@@ -12,34 +12,36 @@ JDK ： 8 及以上
     **PS>**
     ```
     mysqld --install
-
-    net stop mysqld
-    net start mysqld
-    root -u root
-    root -u root -p
+    net stop mysql
+    net start mysql
+    mysql -u root -p
     ```
-    **<font color=RED>（可选）</font>** **mysql>** 
+    **mysql>** 
     ```
     ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
-
     exit
     ```
-1. 数据库表结构 创建 orderdb 数据库，并在数据库中创建 orders ， SQL 语句如下  
+    **PS>**
+    ```
+    net stop mysql
+    net start mysql
+    mysql -u root -p
+1. 数据库表结构。创建 orderdb 数据库，并在数据库中创建 orders ， SQL 语句如下  
 **mysqld>**
     ```
     CREATE DATABASE orderdb DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
     USE orderdb;
     CREATE TABLE orders (
-        id INT AUTO_INCREMENT PRIMARY KEY,
-        product_name VARCHAR(255) NOT NULL,
-        price DECIMAL(10,2) NOT NULL,
-        order_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    product_name VARCHAR(255) NOT NULL,
+    price DECIMAL(10,2) NOT NULL,
+    order_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     );
     INSERT INTO orders (product_name, price) VALUES
     ('苹果 iPhone 15', 6999.00),
     ('华为 Mate 60', 6299.00),
     ('小米 14', 3999.00),
-    ('MacBook Air M2', 8999.00),
+    ('MacBook Air M2', 8999.00);
     ```
 2. 创建项目，项目名为 Test + 学号，学号为两位短学号，如： Test03
 3. 在项目中创建一个 com.bean 的包，包下创建 Order （订单）类  
@@ -82,31 +84,35 @@ JDK ： 8 及以上
     package com.servlet;
     import java.io.IOException;
     import java.sql.*;
-    import javax.servlet.ServletException;
+    import javax.servlet.*;
     import javax.servlet.annotation.WebServlet;
-    import javax.servlet.http.HttpServlet;
-    import javax.servlet.http.HttpServletRequest;
-    import javax.servlet.http.HttpServletResponse;
-    @WebServlet("/UpdateOrderServlet")
-    public class UpdateOrderServlet extends HttpServlet {
-        protected void doPost(HttpServletRequest request, HttpServletResponse response) 
+    import javax.servlet.http.*;
+    @WebServlet("/EditOrderServlet")
+    public class EditOrderServlet extends HttpServlet {
+        protected void doGet(HttpServletRequest request, HttpServletResponse response)
                 throws ServletException, IOException {
+            request.setCharacterEncoding("UTF-8");
             int id = Integer.parseInt(request.getParameter("id"));
-            String productName = request.getParameter("productName");
-            double price = Double.parseDouble(request.getParameter("price"));
             try {
                 Class.forName("com.mysql.cj.jdbc.Driver");
-                Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/orderdb", "root", "123456");
-                PreparedStatement stmt = conn.prepareStatement("UPDATE orders SET product_name=?, price=? WHERE id=?");
-                stmt.setString(1, productName);
-                stmt.setDouble(2, price);
-                stmt.setInt(3, id);
-                stmt.executeUpdate();
+                Connection conn = DriverManager.getConnection(
+                    "jdbc:mysql://localhost:3306/orderdb", "root", "123456");
+                PreparedStatement stmt = conn.prepareStatement(
+                    "SELECT * FROM orders WHERE id=?");
+                stmt.setInt(1, id);
+                ResultSet rs = stmt.executeQuery();
+                if (rs.next()) {
+                    request.setAttribute("id", rs.getInt("id"));
+                    request.setAttribute("productName", rs.getString("product_name"));
+                    request.setAttribute("price", rs.getDouble("price"));
+                }
                 conn.close();
             } catch (Exception e) {
                 e.printStackTrace();
             }
-            response.sendRedirect("orderList.jsp");
+            RequestDispatcher dispatcher = request.getRequestDispatcher("/editOrder.jsp");
+            dispatcher.forward(request, response);
+        }
     }
     ```
     更新订单信息的后端业务代码

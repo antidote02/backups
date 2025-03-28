@@ -425,8 +425,7 @@
       ```
       7897
       ```
-  * `IDM Activation Script` [[github.com]](https://github.com/lstprjct/IDM-Activation-Script)
-  * `IDM Crack` [[mimods.com]](https://www.mimods.com/download.php?id=99)
+  * `Crack` [[appdoze.com]](https://appdoze.com/internet-download-manager/?download=links)
 * `设置`  
 `应用`  
 `默认应用`  
