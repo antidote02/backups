@@ -9,7 +9,7 @@ JDK ： 8 及以上
 依赖： JDBC 驱动 （ mysql-connector-j ）
 
 0. PowerShell  
-    **PS>**
+**PS>**
     ```
     mysqld --install
     net stop mysql
@@ -26,25 +26,21 @@ JDK ： 8 及以上
     net start mysql
     mysql -u root -p
 1. 数据库表结构。创建 productdb 数据库，并在数据库中创建 admin 与 products 表， SQL 语句如下  
-    **mysqld>**
+**mysqld>**
     ```
     CREATE DATABASE productdb DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-
     USE productdb;
-
     CREATE TABLE admin (
     id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(50) NOT NULL,
     password VARCHAR(50) NOT NULL
     );
-
     CREATE TABLE products (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
     category VARCHAR(255) NOT NULL,
     price DECIMAL(10,2) NOT NULL
     );
-
     INSERT INTO admin (username, password) VALUES ('admin', '123456');
     ```
 2. 创建项目，项目名为 Test + 学号，学号为两位短学号，如： Test02

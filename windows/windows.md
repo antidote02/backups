@@ -185,7 +185,7 @@
 [回到顶部](#catalog)
 
 ## Drivers
-* `Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/)
+  * `Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/) / [[appdoze.com](https://appdoze.com/bandizip-professional/?download=links)
 * `NVIDIA 驱动程序` [[nvidia.cn]](https://www.nvidia.cn/Download/index.aspx?lang=cn)
   * `NVIDIA` [[nvidia.cn]](https://www.nvidia.cn/software/nvidia-app/)
     * `图形`  

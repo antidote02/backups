@@ -9,7 +9,7 @@ JDK ： 8 及以上
 依赖： JDBC 驱动 （ mysql-connector-java ）
 
 0. PowerShell  
-    **PS>**
+**PS>**
     ```
     mysqld --install
     net stop mysql

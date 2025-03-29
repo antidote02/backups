@@ -9,14 +9,14 @@ JDK ： 8 及以上
 依赖： JDBC 驱动（ mysql-connector-j ）
 
 0. PowerShell  
-    **PS>**
+**PS>**
     ```
     mysqld --install
     net stop mysql
     net start mysql
     mysql -u root -p
     ```
-    **mysql>** 
+    **mysql>**
     ```
     ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
     exit
@@ -27,6 +27,7 @@ JDK ： 8 及以上
     net start mysql
     mysql -u root -p
 1. 数据库表结构。创建 userdb 数据库，并在数据库中创建 users 表， SQL 语句如下
+**mysql>**
     ```
     CREATE DATABASE userdb;
     USE userdb;
