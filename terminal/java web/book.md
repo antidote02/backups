@@ -729,7 +729,8 @@ JDK ： 8 及以上
     ('苹果 iPhone 15', 6999.00),
     ('华为 Mate 60', 6299.00),
     ('小米 14', 3999.00),
-    ('MacBook Air M2', 8999.00);
+    ('MacBook Air M2', 8999.00),
+    ('iPad Pro 12.9', 7299.00);
     ```
 2. 创建项目，项目名为 Test + 学号，学号为两位短学号，如： Test03
 3. 在项目中创建一个 com.bean 的包，包下创建 Order （订单）类  
@@ -817,6 +818,7 @@ JDK ： 8 及以上
     public class UpdateOrderServlet extends HttpServlet {
         protected void doPost(HttpServletRequest request, HttpServletResponse response) 
                 throws ServletException, IOException {
+            request.setCharacterEncoding("UTF-8");
             int id = Integer.parseInt(request.getParameter("id"));
             String productName = request.getParameter("productName");
             double price = Double.parseDouble(request.getParameter("price"));
