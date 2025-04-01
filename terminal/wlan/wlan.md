@@ -1,13 +1,13 @@
 ## WLAN
-* 新建`wlan.bat`
+* 新建 [wlan.bat](wlan.bat)
   ```
-  powershell -executionpolicy bypass -file "C:\Users\a1729\Documents\wlan.ps1"
+  powershell -executionpolicy bypass -file "C:\Users\Administrator\Documents\wlan.ps1"
   ```
   `文件`  
 `另存为`  
 `编码：` `ANSI`  
-`C:\Users\a1729\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\wlan.bat`
-* 新建`wlan.ps1`
+`C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\wlan.bat`
+* 新建 [wlan.ps1](wlan.ps1)
   ```
   Add-Type -AssemblyName System.Runtime.WindowsRuntime
 
@@ -58,4 +58,4 @@
   `文件`  
 `另存为`  
 `编码：` `ANSI`  
-  `C:\Users\a1729\Documents\wlan.ps1`
+  `C:\Users\Administrator\Documents\wlan.ps1`
