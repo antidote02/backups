@@ -18,10 +18,21 @@
 
 [回到顶部](#catalog)
 ## Updates
-* `openjdk23`
-  ```
-  scoop install openjdk23 -k
-  ```
+* `OpenJDK`
+  * 
+    ```
+    scoop install openjdk23 -k
+    ```
+  * `设置`  
+    `关于`  
+    `高级系统设置`  
+    `环境变量`
+    `Administrator 的用户变量`
+    * `JAVA_HOME`  
+      `C:\Program Files\jdk-25`
+    * `Path`  
+      `新建`  
+      `C:\Program Files\jdk-25\bin`
 * `ESurfingDialer` [[github.com]](https://github.com/Rsplwe/ESurfingDialer/releases)  
 `C:\Program Files\ESurfingDialer-1.8.0-all`
   * 新建文件夹`ESurfingDialer`  

@@ -27,14 +27,15 @@
     高动态范围|性能
 * `5E对战平台` [[arena.5eplay.com]](https://arena.5eplay.com/download)
 * `完美世界竞技平台` [[pvp.wanmei.com]](https://pvp.wanmei.com/)
-* `开始`  
-`练习`  
-`休闲模式`  
-`选项`  
-`启用后`
-  ```
-  sv_cheats 1
-  ammo_grenade_limit_total 6
-  bind p "sv_rethrow_last_grenade"
-  bind v "noclip"
-  ```
+  * `地图 BP`
+    地图|胜率
+    -|-
+    炙热沙城|262
+    荒漠迷城|231
+    远古遗迹|100
+    殒命大厦|62
+    核子危机|52
+    阿努比斯|9
+    死亡游乐园|3
+    炼狱小镇|2
+    列车停放站|0
