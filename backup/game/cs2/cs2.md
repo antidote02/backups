@@ -87,3 +87,8 @@
         * `属性`  
         `只读`
 * `pak01_dir.vpk`重命名`pak01_dir.vpk1`
+* `Counter-Striker 2`  
+`Process Lasso` [[lrepacks.net]](https://lrepacks.net/repaki-sistemnyh-programm/689-process-lasso-repack-amp-portable.html)  
+`cs2.exe`
+    * `CPU 优先级` `总是` `高`
+    * `CPU 亲和性` `总是` `选择 CPU 亲和性`

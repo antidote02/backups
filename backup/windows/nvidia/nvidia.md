@@ -57,3 +57,4 @@
 * `设备管理器`  
 ![](屏幕截图%202025-04-12%20014433.png)
 * `DLSS Swapper` [[github.com]](https://github.com/beeradmoore/dlss-swapper)
+* `Driver Booster` [[lrepacks.net]](https://lrepacks.net/repaki-sistemnyh-programm/161-iobit-driver-booster-professional-repack-amp-portable.html)
