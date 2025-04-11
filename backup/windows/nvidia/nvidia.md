@@ -54,5 +54,4 @@
     DLSS-FG - Multi-Frame-Generation Count|2x
     DLSS-RR - Enable DLL Override|On - DLSS-RR overridden by lastest available
     DLSS-RR - Forced Preset Letter|Preset K (unused)
-
-    `Apply changes`
+* `DLSS Swapper` [[github.com]](https://github.com/beeradmoore/dlss-swapper)
