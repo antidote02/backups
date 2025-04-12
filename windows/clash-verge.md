@@ -29,9 +29,9 @@
 `C:\Program Files\nssm-2.24-101-g897c7ad`
     * `配置服务参数`  
         * `PowerShell`  
-        ```
-        & 'C:\Program Files\nssm-2.24-101-g897c7ad\win64\nssm.exe' install easytier_service
-        ```
+            ```
+            & 'C:\Program Files\nssm-2.24-101-g897c7ad\win64\nssm.exe' install easytier_service
+            ```
         * `NSSM service installer`
             * `Path` `C:\Program Files\easytier-windows-x86_64\easytier-core.exe`
             * `Arguments`
