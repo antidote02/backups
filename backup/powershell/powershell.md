@@ -9,11 +9,7 @@
     get-executionpolicy -list
     ```
     ![](屏幕截图%202025-04-14%20011952.png)
-* `Scoop`  
-`Github` `Emails` [[github.com]](https://github.com/settings/emails)  
-    * 复制`Name`  
-    ![](屏幕截图%202025-04-14%20014332.png)
-    * 复制`Email`
+* `Scoop`
     ```
     irm get.scoop.sh -outfile 'install.ps1' -proxy http://localhost:7897
     .\install.ps1 -runasadmin
@@ -24,6 +20,12 @@
     ```
     scoop install -k git
     git config --global http.sslBackend "schannel"
+    ```
+    `Github` `Emails` [[github.com]](https://github.com/settings/emails)  
+    * 复制`Name`  
+    ![](屏幕截图%202025-04-14%20014332.png)
+    * 复制`Email`
+    ```
     git config --global user.name "Name"
     git config --global user.email "Email"
     git config --global http.sslVerify false
