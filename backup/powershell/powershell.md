@@ -20,15 +20,16 @@
     ```
     scoop install -k git
     git config --global http.sslBackend "schannel"
+    git config --global http.sslVerify false
     ```
     `Github` `Emails` [[github.com]](https://github.com/settings/emails)  
-    * 复制`Name`  
-    ![](屏幕截图%202025-04-14%20014332.png)
+    * 复制`Name`
     * 复制`Email`
+    
+    ![](屏幕截图%202025-04-14%20014332.png)
     ```
     git config --global user.name "Name"
     git config --global user.email "Email"
-    git config --global http.sslVerify false
     scoop bucket add extras
     scoop bucket add versions
     scoop bucket add nirsoft
