@@ -51,10 +51,10 @@
     git config --global http.sslBackend "schannel"
 
     # Github Name
-    git config --global user.name  "antidote02"
+    git config --global user.name "antidote02"
 
     # Github Emails
-    git config --global user.email  "a1729304580@gmail.com"
+    git config --global user.email "a1729304580@gmail.com"
 
     git config --global http.sslVerify false
 
