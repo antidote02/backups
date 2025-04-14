@@ -87,4 +87,5 @@
             ```
 
         ![](屏幕截图%202025-04-14%20083202.png)
-    * [文援普通集.txt](文媛普通集.txt)
+    * 新建 [Start.bat](Start.bat)
+* `文援普通集.txt` [[t.me]](https://t.me/loraeveryone) / [文援普通集.txt](文媛普通集.txt)
