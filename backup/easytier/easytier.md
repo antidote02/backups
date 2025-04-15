@@ -38,3 +38,9 @@
     * `Create`  
     `Import`  
     `ae23359b-7830-475f-88c9-2f1905b0d5b0.json`
+* `EasyTier.exe`
+    * 新建文件夹`EasyTier`
+        * `EasyTier`  
+        `.\EasyTier\easytier-windows-x86_64`
+        * `NSSM`  
+        `.\EasyTier\nssm-2.24-101-g897c7ad`
