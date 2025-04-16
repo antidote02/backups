@@ -17,8 +17,10 @@
     ![](屏幕截图%202025-04-15%20170908.png)
 ### 整合包
 * [乌托邦探险之旅](utopia-journey.md)
+* `僵尸入侵 100 天` [[modrinth.com]](https://modrinth.com/modpack/zombie-invade-100-days/versions?g=1.20.1)
 ### Loader
 * [Fabric](fabric.md)
 * `Forge`
 ### 光影包
 * `BSL` [[modrinth.com]](https://modrinth.com/shader/bsl-shaders/versions)
+* `Bliss` [[modrinth.com]](https://modrinth.com/shader/bliss-shader/versions)
