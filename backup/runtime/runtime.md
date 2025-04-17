@@ -1,2 +1,2 @@
 ## 运行时
-* [OpenJDK](openjdk.md)
+* [JDK](jdk.md)

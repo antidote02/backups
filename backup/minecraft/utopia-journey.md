@@ -39,8 +39,6 @@
     * `保持肥沃` [[www.mcmod.cn]](https://www.mcmod.cn/class/5358.html) / [[modrinth.com]](https://modrinth.com/mod/keep-my-soil-tilled/versions?g=1.20.1)
     * `边拿边走` [[www.mcmod.cn]](https://www.mcmod.cn/class/2809.html) / [[modrinth.com]](https://modrinth.com/mod/invmove/versions?g=1.20.1&l=fabric)
     * `标识符翻译` [[www.mcmod.cn]](https://www.mcmod.cn/class/8657.html) / [[modrinth.com]](https://modrinth.com/mod/identifier-translation/versions?g=1.20.1)
-
-
     * `表情工艺` [[modrinth.com]](https://modrinth.com/plugin/emotecraft/versions?g=1.20.1&l=fabric)
     * `不死图腾插槽` [[modrinth.com]](https://modrinth.com/mod/charm-of-undying/versions?g=1.20.1&l=fabric)
     * `沉浸式飞机` [[modrinth.com]](https://modrinth.com/mod/immersive-aircraft/versions?g=1.20.1&l=fabric)
@@ -137,3 +135,5 @@
     * `苹果皮` [[modrinth.com]](https://modrinth.com/mod/appleskin/versions?g=1.20.1&l=fabric)
     * `葡园酒香` [[modrinth.com]](https://modrinth.com/mod/lets-do-vinery/versions?g=1.20.1&l=fabric)
     * `冰山` [[modrinth.com]](https://modrinth.com/mod/iceberg/versions?g=1.20.1&l=fabric)
+
+...
