@@ -135,5 +135,4 @@
     * `苹果皮` [[modrinth.com]](https://modrinth.com/mod/appleskin/versions?g=1.20.1&l=fabric)
     * `葡园酒香` [[modrinth.com]](https://modrinth.com/mod/lets-do-vinery/versions?g=1.20.1&l=fabric)
     * `冰山` [[modrinth.com]](https://modrinth.com/mod/iceberg/versions?g=1.20.1&l=fabric)
-
-...
+    * ...
