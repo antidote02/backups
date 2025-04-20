@@ -22,7 +22,8 @@ Remade & Remastered: Snowflakes & Sleigh Rides|[Remade & Remastered: Snowflakes 
 * `Forge`
 ### 光影包
 * `Complementary Shaders - Unbound` [[modrinth.com]](https://modrinth.com/shader/complementary-unbound/versions)
-* `BSL` [[modrinth.com]](https://modrinth.com/shader/bsl-shaders/versions)
+* [BSL](bsl.md)
+* `MakeUp - Ultra Fast` [[modrinth.com]](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 * `Bliss` [[modrinth.com]](https://modrinth.com/shader/bliss-shader/versions)
 ### Process Lasso
 `Process Lasso` [[lrepacks.net]](https://lrepacks.net/repaki-sistemnyh-programm/689-process-lasso-repack-amp-portable.html)  
