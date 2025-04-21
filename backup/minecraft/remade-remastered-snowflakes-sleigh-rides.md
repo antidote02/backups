@@ -14,6 +14,8 @@
 `C:\Users\Administrator\AppData\Roaming\.minecraft\versions\Remade & Remastered - 1.3.5 Snowballs & Sleigh Rides 1.21.1\mods`
     * `FTB Library/FTB GUI Library` [[www.mcmod.cn]](https://www.mcmod.cn/class/3184.html) / [[www.curseforge.com]](https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric/files/all?version=1.21.1)
     * `连锁破坏` [[www.mcmod.cn]](https://www.mcmod.cn/class/3004.html) / [[www.curseforge.com]](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-fabric/files/all?version=1.21.1)
+    * `Xaero 的世界地图` [[www.mcmod.cn]](https://www.mcmod.cn/class/1483.html) / [[modrinth.com]](https://modrinth.com/mod/xaeros-world-map/versions?g=1.21.1)
+    * `一键背包整理 Next` [[www.mcmod.cn]](https://www.mcmod.cn/class/4104.html) / [[modrinth.com]](https://modrinth.com/mod/inventory-profiles-next)
 * `ServerPackCreator` [[github.com]](https://github.com/Griefed/ServerPackCreator/releases)
     * 编辑 [server.properties](server.properties)  
     `C:\Users\Administrator\ServerPackCreator\server_files\server.properties`  
@@ -23,6 +25,7 @@
             difficulty|peaceful / hard
             gamemode|survival / creative / adventure / spectator
             online-mode|false / true
+            spawn-protection|0 / 16
     * `Select files and/or directions to include in your server pack`
     
     ![](ServerPackCreator_n5cQoK40eH.png)

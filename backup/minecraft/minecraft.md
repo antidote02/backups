@@ -12,7 +12,7 @@
 整合包|下载|版本|运作方式
 -|-|-|-
 简单优化|[[www.mcmod.cn]](https://www.mcmod.cn/modpack/586.html) / [[modrinth.com]](https://modrinth.com/modpack/sop/versions)|1.21.5|Fabric
-Remade & Remastered: Snowflakes & Sleigh Rides|[Remade & Remastered: Snowflakes & Sleigh Rides](remade&remastered-snowflakes&sleigh-rides.md)|1.21.1|Fabric
+Remade & Remastered: Snowflakes & Sleigh Rides|[Remade & Remastered: Snowflakes & Sleigh Rides](remade-remastered-snowflakes-sleigh-rides.md)|1.21.1|Fabric
 卓越 II RPG|[[www.mcmod.cn]](https://www.mcmod.cn/modpack/913.html)|1.20.1|Fabric
 僵尸入侵 100 天|[[www.mcmod.cn]](https://www.mcmod.cn/modpack/835.html) / [[modrinth.com]](https://modrinth.com/modpack/zombie-invade-100-days/versions?g=1.20.1)|1.20.1|Forge
 乌托邦探险之旅|[乌托邦探险之旅](utopia-journey.md)|1.20.1|Forge
