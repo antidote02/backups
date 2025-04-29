@@ -1,6 +1,6 @@
 ## NVIDIA
 * `NVIDIA Studio 驱动` [[www.nvidia.cn]](https://www.nvidia.cn/drivers/lookup/)
-* `NVCleanstall` [[nvcleanstall.net]](https://nvcleanstall.net/download)  
+* `NVCleanstall` [[www.techpowerup.com]](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)  
 `C:\Program Files\NVCleanstall_1.18.0\NVCleanstall_1.18.0.exe`
 * `DDU` [[www.wagnardsoft.com]](https://www.wagnardsoft.com/display-driver-uninstaller-DDU)
 * `系统配置`  

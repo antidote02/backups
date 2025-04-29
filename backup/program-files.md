@@ -1,4 +1,6 @@
 ## Program Files
+### 浏览器
+* `Internet Download Manager` [[appdoze.com]](https://appdoze.com/internet-download-manager/?download=links)
 ### Videos & Music
 * `Fluent M3U8` [[github.com]](https://github.com/zhiyiYo/Fluent-M3U8/releases) / [[fluent-m3u8.org]](https://fluent-m3u8.org/zh/download.html)
 * `网抑云音乐` [[github.com]](https://github.com/algerkong/AlgerMusicPlayer)
