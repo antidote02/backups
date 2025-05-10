@@ -29,6 +29,7 @@ Xaero 的小地图|[[www.mcmod.cn]](https://www.mcmod.cn/class/1701.html)|[[modr
 Xaero 的世界地图|[[www.mcmod.cn]](https://www.mcmod.cn/class/1483.html)|[[modrinth.com]](https://modrinth.com/mod/xaeros-world-map/versions)
 一键背包整理 Next|[[www.mcmod.cn]](https://www.mcmod.cn/class/4104.html)|[[modrinth.com]](https://modrinth.com/mod/inventory-profiles-next)
 万用皮肤补丁|[[www.mcmod.cn]](https://www.mcmod.cn/class/883.html)|[[modrinth.com]](https://modrinth.com/mod/customskinloader/versions)
+自动汉化更新|[[www.mcmod.cn]](https://www.mcmod.cn/class/1188.html)|[[modrinth.com]](https://modrinth.com/mod/i18nupdatemod/versions)
 地毯|[[www.mcmod.cn]](https://www.mcmod.cn/class/2361.html)|[[modrinth.com]](https://modrinth.com/mod/carpet/versions)
 高级透视|[[www.mcmod.cn]](https://www.mcmod.cn/class/4487.html)|[[www.curseforge.com]](https://www.curseforge.com/minecraft/mc-mods/advanced-xray-fabric-edition/files/all)
 超分辨率|[[www.mcmod.cn]](https://www.mcmod.cn/class/17888.html)|[[github.com]](https://github.com/187J3X1-114514/superresolution/actions)
