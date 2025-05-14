@@ -24,6 +24,7 @@
         * `Wiki` [[minecraft.fandom.com]](https://minecraft.fandom.com/zh/wiki/Server.properties)
             属性|描述
             -|-
+            allow-flight|true
             difficulty|peaceful / hard
             gamemode|survival / creative / adventure / spectator
             online-mode|false / true
